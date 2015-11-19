@@ -12,14 +12,14 @@ Scores
 
 | Person                             | Score | Time (sec.) | Memory (KiB) |
 |------------------------------------|-------|-------------|--------------|
-| [orig](#person-orig)               | 160   | 0.01        | 28660        |
-| [s2013013294](#person-s2013013294) | 160   | 0.19        | 29480        |
-| [s2013013297](#person-s2013013297) | 160   | 0.00        | 28068        |
-| [s2013013304](#person-s2013013304) | 160   | 0.06        | 28796        |
-| [s2013013310](#person-s2013013310) | 160   | 0.02        | 30112        |
-| [s2013013330](#person-s2013013330) | 120   | 0.00        | 21524        |
-| [s2013013339](#person-s2013013339) | 160   | 0.00        | 27332        |
-| [s2014013428](#person-s2014013428) | 160   | 0.00        | 27044        |
+| [orig](#person-orig)               | 160   | 0.00        | 28428        |
+| [s2013013294](#person-s2013013294) | 160   | 0.18        | 29232        |
+| [s2013013297](#person-s2013013297) | 160   | 0.00        | 27900        |
+| [s2013013304](#person-s2013013304) | 160   | 0.06        | 28640        |
+| [s2013013310](#person-s2013013310) | 160   | 0.02        | 29696        |
+| [s2013013330](#person-s2013013330) | 120   | 0.00        | 21484        |
+| [s2013013339](#person-s2013013339) | 160   | 0.00        | 27632        |
+| [s2014013428](#person-s2014013428) | 160   | 0.00        | 27280        |
 
 ### Details
 
@@ -66,7 +66,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3348
+3396
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -83,7 +83,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3432
+3356
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -97,7 +97,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3488
+3276
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -158,7 +158,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3436
+3480
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -172,10 +172,10 @@ queens
 [Test\_2](#cases-queens.Test_2)
 </td>
 <td rowspan="1" colspan="1" class="correct">
-0.01
+0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3972
+4028
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -189,7 +189,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3448
+3348
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -203,7 +203,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3660
+3636
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -217,7 +217,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3876
+3908
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -231,10 +231,10 @@ orig
  
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
-0.01
+0.00
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
-28660
+28428
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
  
@@ -262,7 +262,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3380
+3324
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -279,7 +279,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3400
+3344
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -293,7 +293,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3468
+3340
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -354,7 +354,7 @@ queens
 0.09
 </td>
 <td rowspan="1" colspan="1" class="correct">
-4020
+3876
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -368,10 +368,10 @@ queens
 [Test\_2](#cases-queens.Test_2)
 </td>
 <td rowspan="1" colspan="1" class="correct">
-0.10
+0.09
 </td>
 <td rowspan="1" colspan="1" class="correct">
-4000
+4076
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -385,7 +385,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3484
+3564
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -399,7 +399,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3996
+3952
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -413,7 +413,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3732
+3756
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -427,10 +427,10 @@ s2013013294
  
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
-0.19
+0.18
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
-29480
+29232
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
  
@@ -458,7 +458,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3276
+3332
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -475,7 +475,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3432
+3476
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -489,7 +489,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3488
+3364
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -550,7 +550,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3884
+3956
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -567,7 +567,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3628
+3476
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -581,7 +581,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3332
+3344
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -595,7 +595,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3404
+3356
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -609,7 +609,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3624
+3596
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -626,7 +626,7 @@ s2013013297
 0.00
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
-28068
+27900
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
  
@@ -654,7 +654,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3332
+3412
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -671,7 +671,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3344
+3380
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -685,7 +685,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3360
+3336
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -746,7 +746,7 @@ queens
 0.06
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3844
+3996
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -763,7 +763,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-4000
+3900
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -777,7 +777,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3428
+3480
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -791,7 +791,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3548
+3340
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -805,7 +805,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3940
+3796
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -822,7 +822,7 @@ s2013013304
 0.06
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
-28796
+28640
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
  
@@ -867,7 +867,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3492
+3488
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -881,7 +881,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3368
+3340
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -942,7 +942,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3480
+3356
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -959,7 +959,7 @@ queens
 0.01
 </td>
 <td rowspan="1" colspan="1" class="correct">
-4552
+4404
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -973,7 +973,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3408
+3468
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -987,7 +987,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3984
+3792
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -1001,7 +1001,7 @@ queens
 0.01
 </td>
 <td rowspan="1" colspan="1" class="correct">
-4492
+4512
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -1018,7 +1018,7 @@ s2013013310
 0.02
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
-30112
+29696
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
  
@@ -1046,7 +1046,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3380
+3476
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -1063,7 +1063,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3336
+3348
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -1077,7 +1077,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3472
+3352
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -1138,7 +1138,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3340
+3344
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -1155,7 +1155,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-4004
+4012
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -1191,7 +1191,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3992
+3952
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -1208,7 +1208,7 @@ s2013013330
 0.00
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
-21524
+21484
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
  
@@ -1236,7 +1236,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3424
+3484
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -1253,7 +1253,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3444
+3356
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -1267,7 +1267,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3276
+3428
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -1345,7 +1345,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3496
+3644
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -1359,7 +1359,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3364
+3368
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -1373,7 +1373,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3312
+3500
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -1387,7 +1387,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3592
+3428
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -1404,7 +1404,7 @@ s2013013339
 0.00
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
-27332
+27632
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
  
@@ -1432,7 +1432,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3352
+3332
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -1449,7 +1449,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3440
+3352
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -1463,7 +1463,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3352
+3328
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -1524,7 +1524,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3440
+3572
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -1541,7 +1541,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3372
+3528
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -1555,7 +1555,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3400
+3336
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -1569,7 +1569,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3348
+3392
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -1583,7 +1583,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3340
+3440
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -1600,7 +1600,7 @@ s2014013428
 0.00
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
-27044
+27280
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
  
@@ -2106,7 +2106,7 @@ Test\_1
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3348
+3396
 </td>
 </tr>
 <tr>
@@ -2117,7 +2117,7 @@ Test\_1
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3380
+3324
 </td>
 </tr>
 <tr>
@@ -2128,7 +2128,7 @@ Test\_1
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3276
+3332
 </td>
 </tr>
 <tr>
@@ -2139,7 +2139,7 @@ Test\_1
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3332
+3412
 </td>
 </tr>
 <tr>
@@ -2161,7 +2161,7 @@ Test\_1
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3380
+3476
 </td>
 </tr>
 <tr>
@@ -2172,7 +2172,7 @@ Test\_1
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3424
+3484
 </td>
 </tr>
 <tr>
@@ -2183,7 +2183,7 @@ Test\_1
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3352
+3332
 </td>
 </tr>
 <tr>
@@ -2208,7 +2208,7 @@ Test\_2
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3432
+3356
 </td>
 </tr>
 <tr>
@@ -2219,7 +2219,7 @@ Test\_2
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3400
+3344
 </td>
 </tr>
 <tr>
@@ -2230,7 +2230,7 @@ Test\_2
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3432
+3476
 </td>
 </tr>
 <tr>
@@ -2241,7 +2241,7 @@ Test\_2
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3344
+3380
 </td>
 </tr>
 <tr>
@@ -2252,7 +2252,7 @@ Test\_2
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3492
+3488
 </td>
 </tr>
 <tr>
@@ -2263,7 +2263,7 @@ Test\_2
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3336
+3348
 </td>
 </tr>
 <tr>
@@ -2274,7 +2274,7 @@ Test\_2
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3444
+3356
 </td>
 </tr>
 <tr>
@@ -2285,7 +2285,7 @@ Test\_2
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3440
+3352
 </td>
 </tr>
 <tr>
@@ -2310,7 +2310,7 @@ Test\_3
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3488
+3276
 </td>
 </tr>
 <tr>
@@ -2321,7 +2321,7 @@ Test\_3
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3468
+3340
 </td>
 </tr>
 <tr>
@@ -2332,7 +2332,7 @@ Test\_3
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3488
+3364
 </td>
 </tr>
 <tr>
@@ -2343,7 +2343,7 @@ Test\_3
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3360
+3336
 </td>
 </tr>
 <tr>
@@ -2354,7 +2354,7 @@ Test\_3
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3368
+3340
 </td>
 </tr>
 <tr>
@@ -2365,7 +2365,7 @@ Test\_3
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3472
+3352
 </td>
 </tr>
 <tr>
@@ -2376,7 +2376,7 @@ Test\_3
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3276
+3428
 </td>
 </tr>
 <tr>
@@ -2387,7 +2387,7 @@ Test\_3
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3352
+3328
 </td>
 </tr>
 <tr>
@@ -2724,7 +2724,7 @@ Test\_1
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3436
+3480
 </td>
 </tr>
 <tr>
@@ -2735,7 +2735,7 @@ Test\_1
 0.09
 </td>
 <td rowspan="1" colspan="1" class="correct">
-4020
+3876
 </td>
 </tr>
 <tr>
@@ -2746,7 +2746,7 @@ Test\_1
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3884
+3956
 </td>
 </tr>
 <tr>
@@ -2757,7 +2757,7 @@ Test\_1
 0.06
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3844
+3996
 </td>
 </tr>
 <tr>
@@ -2768,7 +2768,7 @@ Test\_1
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3480
+3356
 </td>
 </tr>
 <tr>
@@ -2779,7 +2779,7 @@ Test\_1
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3340
+3344
 </td>
 </tr>
 <tr>
@@ -2801,7 +2801,7 @@ Test\_1
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3440
+3572
 </td>
 </tr>
 <tr>
@@ -2823,10 +2823,10 @@ Test\_2
 [orig](#person-orig)
 </td>
 <td rowspan="1" colspan="1" class="correct">
-0.01
+0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3972
+4028
 </td>
 </tr>
 <tr>
@@ -2834,10 +2834,10 @@ Test\_2
 [s2013013294](#person-s2013013294)
 </td>
 <td rowspan="1" colspan="1" class="correct">
-0.10
+0.09
 </td>
 <td rowspan="1" colspan="1" class="correct">
-4000
+4076
 </td>
 </tr>
 <tr>
@@ -2848,7 +2848,7 @@ Test\_2
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3628
+3476
 </td>
 </tr>
 <tr>
@@ -2859,7 +2859,7 @@ Test\_2
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-4000
+3900
 </td>
 </tr>
 <tr>
@@ -2870,7 +2870,7 @@ Test\_2
 0.01
 </td>
 <td rowspan="1" colspan="1" class="correct">
-4552
+4404
 </td>
 </tr>
 <tr>
@@ -2881,7 +2881,7 @@ Test\_2
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-4004
+4012
 </td>
 </tr>
 <tr>
@@ -2892,7 +2892,7 @@ Test\_2
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3496
+3644
 </td>
 </tr>
 <tr>
@@ -2903,7 +2903,7 @@ Test\_2
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3372
+3528
 </td>
 </tr>
 <tr>
@@ -2928,7 +2928,7 @@ Test\_3
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3448
+3348
 </td>
 </tr>
 <tr>
@@ -2939,7 +2939,7 @@ Test\_3
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3484
+3564
 </td>
 </tr>
 <tr>
@@ -2950,7 +2950,7 @@ Test\_3
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3332
+3344
 </td>
 </tr>
 <tr>
@@ -2961,7 +2961,7 @@ Test\_3
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3428
+3480
 </td>
 </tr>
 <tr>
@@ -2972,7 +2972,7 @@ Test\_3
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3408
+3468
 </td>
 </tr>
 <tr>
@@ -2991,7 +2991,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3364
+3368
 </td>
 </tr>
 <tr>
@@ -3002,7 +3002,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3400
+3336
 </td>
 </tr>
 <tr>
@@ -3027,7 +3027,7 @@ Test\_4
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3660
+3636
 </td>
 </tr>
 <tr>
@@ -3038,7 +3038,7 @@ Test\_4
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3996
+3952
 </td>
 </tr>
 <tr>
@@ -3049,7 +3049,7 @@ Test\_4
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3404
+3356
 </td>
 </tr>
 <tr>
@@ -3060,7 +3060,7 @@ Test\_4
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3548
+3340
 </td>
 </tr>
 <tr>
@@ -3071,7 +3071,7 @@ Test\_4
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3984
+3792
 </td>
 </tr>
 <tr>
@@ -3090,7 +3090,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3312
+3500
 </td>
 </tr>
 <tr>
@@ -3101,7 +3101,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3348
+3392
 </td>
 </tr>
 <tr>
@@ -3126,7 +3126,7 @@ Test\_5
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3876
+3908
 </td>
 </tr>
 <tr>
@@ -3137,7 +3137,7 @@ Test\_5
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3732
+3756
 </td>
 </tr>
 <tr>
@@ -3148,7 +3148,7 @@ Test\_5
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3624
+3596
 </td>
 </tr>
 <tr>
@@ -3159,7 +3159,7 @@ Test\_5
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3940
+3796
 </td>
 </tr>
 <tr>
@@ -3170,7 +3170,7 @@ Test\_5
 0.01
 </td>
 <td rowspan="1" colspan="1" class="correct">
-4492
+4512
 </td>
 </tr>
 <tr>
@@ -3181,7 +3181,7 @@ Test\_5
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3992
+3952
 </td>
 </tr>
 <tr>
@@ -3192,7 +3192,7 @@ Test\_5
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3592
+3428
 </td>
 </tr>
 <tr>
@@ -3203,7 +3203,7 @@ Test\_5
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3340
+3440
 </td>
 </tr>
 </table>
