@@ -12,68 +12,68 @@ Scores
 
 | Person                             | Score | Time (sec.) | Memory (KiB) |
 |------------------------------------|-------|-------------|--------------|
-| [orig](#person-orig)               | 160   | 0.01        | 28340        |
-| [s2010080069](#person-s2010080069) | 120   | 0.00        | 25488        |
+| [orig](#person-orig)               | 160   | 0.00        | 28208        |
+| [s2010080069](#person-s2010080069) | 120   | 0.00        | 25268        |
 | [s2011080081](#person-s2011080081) | 0     | 0.00        | 0            |
-| [s2012011311](#person-s2012011311) | 160   | 0.00        | 32108        |
-| [s2012011316](#person-s2012011316) | 140   | 0.14        | 44564        |
-| [s2012011690](#person-s2012011690) | 60    | 0.03        | 44080        |
-| [s2012012160](#person-s2012012160) | 160   | 0.10        | 62996        |
-| [s2012012437](#person-s2012012437) | 160   | 0.00        | 34036        |
-| [s2012013287](#person-s2012013287) | 160   | 0.00        | 31760        |
-| [s2012080069](#person-s2012080069) | 120   | 0.00        | 21260        |
-| [s2013011374](#person-s2013011374) | 160   | 0.01        | 62452        |
-| [s2013013284](#person-s2013013284) | 140   | 0.00        | 28240        |
-| [s2013013285](#person-s2013013285) | 160   | 0.02        | 61240        |
-| [s2013013286](#person-s2013013286) | 160   | 0.01        | 61348        |
-| [s2013013287](#person-s2013013287) | 60    | 0.02        | 44316        |
-| [s2013013288](#person-s2013013288) | 160   | 0.00        | 28384        |
-| [s2013013289](#person-s2013013289) | 160   | 0.00        | 31592        |
-| [s2013013290](#person-s2013013290) | 160   | 0.13        | 32000        |
-| [s2013013292](#person-s2013013292) | 160   | 0.00        | 32556        |
-| [s2013013293](#person-s2013013293) | 120   | 0.00        | 21356        |
-| [s2013013294](#person-s2013013294) | 160   | 0.20        | 33788        |
-| [s2013013295](#person-s2013013295) | 160   | 0.00        | 31960        |
-| [s2013013296](#person-s2013013296) | 160   | 0.00        | 27956        |
-| [s2013013297](#person-s2013013297) | 160   | 0.00        | 31644        |
-| [s2013013298](#person-s2013013298) | 160   | 0.09        | 28828        |
-| [s2013013301](#person-s2013013301) | 160   | 0.19        | 62828        |
-| [s2013013302](#person-s2013013302) | 100   | 0.01        | 17552        |
-| [s2013013303](#person-s2013013303) | 160   | 0.00        | 27900        |
-| [s2013013304](#person-s2013013304) | 160   | 0.06        | 32408        |
-| [s2013013308](#person-s2013013308) | 160   | 0.00        | 31544        |
-| [s2013013309](#person-s2013013309) | 160   | 0.10        | 30460        |
-| [s2013013310](#person-s2013013310) | 160   | 0.05        | 64168        |
-| [s2013013311](#person-s2013013311) | 160   | 2.72        | 56516        |
-| [s2013013312](#person-s2013013312) | 160   | 0.17        | 58984        |
-| [s2013013313](#person-s2013013313) | 160   | 0.00        | 27472        |
-| [s2013013316](#person-s2013013316) | 120   | 0.07        | 27408        |
-| [s2013013317](#person-s2013013317) | 160   | 0.40        | 58944        |
+| [s2012011311](#person-s2012011311) | 160   | 0.00        | 31908        |
+| [s2012011316](#person-s2012011316) | 140   | 0.13        | 44568        |
+| [s2012011690](#person-s2012011690) | 60    | 0.02        | 43736        |
+| [s2012012160](#person-s2012012160) | 160   | 0.08        | 62784        |
+| [s2012012437](#person-s2012012437) | 160   | 0.00        | 33368        |
+| [s2012013287](#person-s2012013287) | 160   | 0.00        | 31400        |
+| [s2012080069](#person-s2012080069) | 120   | 0.00        | 21032        |
+| [s2013011374](#person-s2013011374) | 160   | 0.01        | 62292        |
+| [s2013013284](#person-s2013013284) | 140   | 0.00        | 27680        |
+| [s2013013285](#person-s2013013285) | 160   | 0.00        | 60992        |
+| [s2013013286](#person-s2013013286) | 160   | 0.01        | 61404        |
+| [s2013013287](#person-s2013013287) | 60    | 0.01        | 44036        |
+| [s2013013288](#person-s2013013288) | 160   | 0.00        | 28128        |
+| [s2013013289](#person-s2013013289) | 160   | 0.00        | 31916        |
+| [s2013013290](#person-s2013013290) | 160   | 0.12        | 31884        |
+| [s2013013292](#person-s2013013292) | 160   | 0.00        | 32568        |
+| [s2013013293](#person-s2013013293) | 120   | 0.00        | 21000        |
+| [s2013013294](#person-s2013013294) | 160   | 0.18        | 33640        |
+| [s2013013295](#person-s2013013295) | 160   | 0.00        | 32396        |
+| [s2013013296](#person-s2013013296) | 160   | 0.00        | 28056        |
+| [s2013013297](#person-s2013013297) | 160   | 0.00        | 31824        |
+| [s2013013298](#person-s2013013298) | 160   | 0.09        | 28420        |
+| [s2013013301](#person-s2013013301) | 160   | 0.16        | 62928        |
+| [s2013013302](#person-s2013013302) | 100   | 0.01        | 17692        |
+| [s2013013303](#person-s2013013303) | 160   | 0.00        | 27716        |
+| [s2013013304](#person-s2013013304) | 160   | 0.07        | 32276        |
+| [s2013013308](#person-s2013013308) | 160   | 0.00        | 31652        |
+| [s2013013309](#person-s2013013309) | 160   | 0.08        | 31136        |
+| [s2013013310](#person-s2013013310) | 160   | 0.02        | 63652        |
+| [s2013013311](#person-s2013013311) | 160   | 2.69        | 56340        |
+| [s2013013312](#person-s2013013312) | 160   | 0.16        | 59136        |
+| [s2013013313](#person-s2013013313) | 160   | 0.00        | 27540        |
+| [s2013013316](#person-s2013013316) | 120   | 0.09        | 27116        |
+| [s2013013317](#person-s2013013317) | 160   | 0.42        | 68840        |
 | [s2013013318](#person-s2013013318) | 0     | 0.00        | 0            |
-| [s2013013319](#person-s2013013319) | 160   | 0.02        | 60088        |
-| [s2013013320](#person-s2013013320) | 160   | 0.01        | 62784        |
-| [s2013013321](#person-s2013013321) | 120   | 0.01        | 55192        |
-| [s2013013322](#person-s2013013322) | 160   | 0.01        | 32124        |
-| [s2013013323](#person-s2013013323) | 120   | 0.06        | 57872        |
-| [s2013013325](#person-s2013013325) | 160   | 0.12        | 64244        |
-| [s2013013326](#person-s2013013326) | 160   | 0.00        | 28212        |
-| [s2013013328](#person-s2013013328) | 160   | 0.00        | 27268        |
-| [s2013013329](#person-s2013013329) | 160   | 0.05        | 32768        |
-| [s2013013330](#person-s2013013330) | 160   | 0.03        | 62208        |
-| [s2013013333](#person-s2013013333) | 160   | 0.13        | 62256        |
-| [s2013013334](#person-s2013013334) | 160   | 0.13        | 62480        |
-| [s2013013335](#person-s2013013335) | 160   | 0.04        | 32876        |
-| [s2013013336](#person-s2013013336) | 120   | 0.32        | 55888        |
-| [s2013013337](#person-s2013013337) | 160   | 0.00        | 31976        |
-| [s2013013338](#person-s2013013338) | 160   | 0.00        | 27516        |
-| [s2013013339](#person-s2013013339) | 160   | 0.00        | 27336        |
-| [s2013013340](#person-s2013013340) | 160   | 0.00        | 32064        |
-| [s2013013341](#person-s2013013341) | 160   | 0.00        | 31948        |
-| [s2013013344](#person-s2013013344) | 160   | 0.90        | 35232        |
-| [s2013080030](#person-s2013080030) | 160   | 0.02        | 28968        |
-| [s2013080034](#person-s2013080034) | 160   | 0.02        | 29144        |
-| [s2013080035](#person-s2013080035) | 120   | 0.00        | 24008        |
-| [s2014013428](#person-s2014013428) | 160   | 0.03        | 61608        |
+| [s2013013319](#person-s2013013319) | 160   | 0.01        | 60048        |
+| [s2013013320](#person-s2013013320) | 160   | 0.01        | 63248        |
+| [s2013013321](#person-s2013013321) | 120   | 0.02        | 54660        |
+| [s2013013322](#person-s2013013322) | 160   | 0.01        | 32020        |
+| [s2013013323](#person-s2013013323) | 120   | 0.06        | 58072        |
+| [s2013013325](#person-s2013013325) | 160   | 0.11        | 43796        |
+| [s2013013326](#person-s2013013326) | 160   | 0.00        | 28008        |
+| [s2013013328](#person-s2013013328) | 160   | 0.00        | 27520        |
+| [s2013013329](#person-s2013013329) | 160   | 0.06        | 32412        |
+| [s2013013330](#person-s2013013330) | 160   | 0.01        | 62148        |
+| [s2013013333](#person-s2013013333) | 160   | 0.12        | 62200        |
+| [s2013013334](#person-s2013013334) | 160   | 0.13        | 62576        |
+| [s2013013335](#person-s2013013335) | 160   | 0.03        | 33024        |
+| [s2013013336](#person-s2013013336) | 120   | 0.31        | 55908        |
+| [s2013013337](#person-s2013013337) | 160   | 0.00        | 32324        |
+| [s2013013338](#person-s2013013338) | 160   | 0.00        | 27640        |
+| [s2013013339](#person-s2013013339) | 160   | 0.00        | 27472        |
+| [s2013013340](#person-s2013013340) | 160   | 0.00        | 32268        |
+| [s2013013341](#person-s2013013341) | 160   | 0.00        | 32536        |
+| [s2013013344](#person-s2013013344) | 160   | 0.92        | 35064        |
+| [s2013080030](#person-s2013080030) | 160   | 0.02        | 29004        |
+| [s2013080034](#person-s2013080034) | 160   | 0.02        | 28996        |
+| [s2013080035](#person-s2013080035) | 120   | 0.00        | 23668        |
+| [s2014013428](#person-s2014013428) | 160   | 0.02        | 61040        |
 
 ### Details
 
@@ -120,7 +120,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3364
+3324
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -137,7 +137,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3348
+3360
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -151,7 +151,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3324
+3272
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -256,7 +256,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3348
+3332
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -270,10 +270,10 @@ queens
 [Test\_2](#cases-queens.Test_2)
 </td>
 <td rowspan="1" colspan="1" class="correct">
-0.01
+0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3952
+4032
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -301,7 +301,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3680
+3672
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -315,7 +315,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3968
+3860
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -329,10 +329,10 @@ orig
  
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
-0.01
+0.00
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
-28340
+28208
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
  
@@ -360,7 +360,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3436
+3316
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -377,7 +377,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3412
+3600
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -391,7 +391,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3332
+3324
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -482,7 +482,7 @@ Out of memory
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-4156
+4084
 </td>
 <td rowspan="1" colspan="1" class="correct">
 0
@@ -499,7 +499,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3948
+3884
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -516,7 +516,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3668
+3520
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -552,7 +552,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3536
+3540
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -569,7 +569,7 @@ s2010080069
 0.00
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
-25488
+25268
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
  
@@ -647,7 +647,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3472
+3460
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -664,7 +664,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3488
+3436
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -678,7 +678,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3376
+3372
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -769,7 +769,7 @@ Out of memory
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-4172
+4140
 </td>
 <td rowspan="1" colspan="1" class="correct">
 0
@@ -786,7 +786,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3700
+3672
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -803,7 +803,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3648
+3688
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -817,7 +817,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3336
+3392
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -831,7 +831,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3480
+3420
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -845,7 +845,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3436
+3328
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -862,7 +862,7 @@ s2012011311
 0.00
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
-32108
+31908
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
  
@@ -890,7 +890,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3276
+3336
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -907,7 +907,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3392
+3396
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -954,7 +954,7 @@ Out of time
 0.05
 </td>
 <td rowspan="1" colspan="1" class="correct">
-5300
+5324
 </td>
 <td rowspan="1" colspan="1" class="correct">
 0
@@ -968,7 +968,7 @@ Out of time
 0.04
 </td>
 <td rowspan="1" colspan="1" class="correct">
-5312
+5320
 </td>
 <td rowspan="1" colspan="1" class="correct">
 0
@@ -1001,7 +1001,7 @@ Out of time
 [Test\_5\_Small](#cases-min-k-numbers.Test_5_Small)
 </td>
 <td rowspan="1" colspan="1" class="correct">
-0.05
+0.04
 </td>
 <td rowspan="1" colspan="1" class="correct">
 5300
@@ -1018,7 +1018,7 @@ Out of time
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3920
+3912
 </td>
 <td rowspan="1" colspan="1" class="correct">
 0
@@ -1035,7 +1035,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3468
+3336
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -1052,7 +1052,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3872
+3860
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -1066,7 +1066,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3436
+3480
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -1080,7 +1080,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3420
+3440
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -1094,7 +1094,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3868
+3864
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -1108,10 +1108,10 @@ s2012011316
  
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
-0.14
+0.13
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
-44564
+44568
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
  
@@ -1139,7 +1139,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3336
+3368
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -1156,7 +1156,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3444
+3368
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -1170,7 +1170,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3328
+3380
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -1206,7 +1206,7 @@ Out of memory
 0.01
 </td>
 <td rowspan="1" colspan="1" class="correct">
-10184
+10020
 </td>
 <td rowspan="1" colspan="1" class="correct">
 0
@@ -1220,7 +1220,7 @@ Out of memory
 0.01
 </td>
 <td rowspan="1" colspan="1" class="correct">
-10108
+10020
 </td>
 <td rowspan="1" colspan="1" class="correct">
 0
@@ -1253,10 +1253,10 @@ Out of memory
 [Test\_5\_Small](#cases-min-k-numbers.Test_5_Small)
 </td>
 <td rowspan="1" colspan="1" class="correct">
-0.01
+0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-10100
+10016
 </td>
 <td rowspan="1" colspan="1" class="correct">
 0
@@ -1270,7 +1270,7 @@ Out of memory
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3580
+3564
 </td>
 <td rowspan="1" colspan="1" class="correct">
 0
@@ -1345,10 +1345,10 @@ s2012011690
  
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
-0.03
+0.02
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
-44080
+43736
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
  
@@ -1376,7 +1376,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3356
+3344
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -1393,7 +1393,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3348
+3500
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -1407,7 +1407,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3468
+3348
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -1440,10 +1440,10 @@ Out of memory
 [Test\_4\_Small](#cases-min-k-numbers.Test_4_Small)
 </td>
 <td rowspan="1" colspan="1" class="correct">
-0.01
+0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-10144
+10176
 </td>
 <td rowspan="1" colspan="1" class="correct">
 0
@@ -1454,10 +1454,10 @@ Out of memory
 [Test\_4\_tiny](#cases-min-k-numbers.Test_4_tiny)
 </td>
 <td rowspan="1" colspan="1" class="correct">
-0.00
+0.01
 </td>
 <td rowspan="1" colspan="1" class="correct">
-10240
+10020
 </td>
 <td rowspan="1" colspan="1" class="correct">
 0
@@ -1493,7 +1493,7 @@ Out of memory
 0.01
 </td>
 <td rowspan="1" colspan="1" class="correct">
-10096
+10232
 </td>
 <td rowspan="1" colspan="1" class="correct">
 0
@@ -1507,7 +1507,7 @@ Out of memory
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3704
+3556
 </td>
 <td rowspan="1" colspan="1" class="correct">
 0
@@ -1521,10 +1521,10 @@ queens
 [Test\_1](#cases-queens.Test_1)
 </td>
 <td rowspan="1" colspan="1" class="correct">
-0.08
+0.06
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3880
+3956
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -1541,7 +1541,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3828
+3796
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -1555,7 +1555,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3332
+3348
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -1569,7 +1569,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3596
+3648
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -1583,7 +1583,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-4004
+3860
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -1597,10 +1597,10 @@ s2012012160
  
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
-0.10
+0.08
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
-62996
+62784
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
  
@@ -1628,7 +1628,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3960
+3824
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -1645,7 +1645,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3888
+3856
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -1659,7 +1659,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3768
+3744
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -1750,7 +1750,7 @@ Out of memory
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-4436
+4328
 </td>
 <td rowspan="1" colspan="1" class="correct">
 0
@@ -1767,7 +1767,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3352
+3280
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -1784,7 +1784,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3896
+3864
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -1798,7 +1798,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3392
+3352
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -1812,7 +1812,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3484
+3324
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -1826,7 +1826,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3860
+3796
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -1843,7 +1843,7 @@ s2012012437
 0.00
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
-34036
+33368
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
  
@@ -1871,7 +1871,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3424
+3352
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -1888,7 +1888,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3484
+3368
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -1902,7 +1902,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3328
+3372
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -1993,7 +1993,7 @@ Out of memory
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3972
+3980
 </td>
 <td rowspan="1" colspan="1" class="correct">
 0
@@ -2010,7 +2010,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3332
+3388
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -2027,7 +2027,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3488
+3348
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -2041,7 +2041,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3436
+3380
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -2055,7 +2055,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3916
+3908
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -2069,7 +2069,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3380
+3304
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -2086,7 +2086,7 @@ s2012013287
 0.00
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
-31760
+31400
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
  
@@ -2114,7 +2114,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3420
+3316
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -2131,7 +2131,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3484
+3420
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -2145,7 +2145,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3352
+3344
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -2250,7 +2250,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3856
+3936
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -2267,7 +2267,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3520
+3532
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -2303,7 +2303,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3628
+3484
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -2320,7 +2320,7 @@ s2012080069
 0.00
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
-21260
+21032
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
  
@@ -2348,7 +2348,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3352
+3340
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -2365,7 +2365,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3376
+3284
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -2379,7 +2379,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3488
+3432
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -2412,10 +2412,10 @@ Out of memory
 [Test\_4\_Small](#cases-min-k-numbers.Test_4_Small)
 </td>
 <td rowspan="1" colspan="1" class="correct">
-0.01
+0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-10220
+10240
 </td>
 <td rowspan="1" colspan="1" class="correct">
 0
@@ -2426,10 +2426,10 @@ Out of memory
 [Test\_4\_tiny](#cases-min-k-numbers.Test_4_tiny)
 </td>
 <td rowspan="1" colspan="1" class="correct">
-0.00
+0.01
 </td>
 <td rowspan="1" colspan="1" class="correct">
-10220
+9992
 </td>
 <td rowspan="1" colspan="1" class="correct">
 0
@@ -2465,7 +2465,7 @@ Out of memory
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-10228
+10108
 </td>
 <td rowspan="1" colspan="1" class="correct">
 0
@@ -2479,7 +2479,7 @@ Out of memory
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3580
+3732
 </td>
 <td rowspan="1" colspan="1" class="correct">
 0
@@ -2496,7 +2496,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3592
+3636
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -2513,7 +2513,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3648
+3508
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -2527,7 +2527,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3848
+4012
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -2541,7 +2541,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3432
+3628
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -2555,7 +2555,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3468
+3380
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -2572,7 +2572,7 @@ s2013011374
 0.01
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
-62452
+62292
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
  
@@ -2600,7 +2600,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3472
+3332
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -2617,7 +2617,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3416
+3420
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -2631,7 +2631,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3328
+3324
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -2722,7 +2722,7 @@ Out of memory
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3876
+3728
 </td>
 <td rowspan="1" colspan="1" class="correct">
 0
@@ -2739,7 +2739,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3388
+3436
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -2781,7 +2781,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3596
+3404
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -2795,7 +2795,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3640
+3512
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -2812,7 +2812,7 @@ s2013013284
 0.00
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
-28240
+27680
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
  
@@ -2829,258 +2829,6 @@ s2013013284
 <tr>
 <td rowspan="16" colspan="1" class>
 s2013013285
-</td>
-<td rowspan="11" colspan="1" class>
-min-k-numbers
-</td>
-<td rowspan="1" colspan="1" class>
-[Test\_1](#cases-min-k-numbers.Test_1)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3432
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-<td rowspan="11" colspan="1" class>
-60
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_2](#cases-min-k-numbers.Test_2)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3352
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_3](#cases-min-k-numbers.Test_3)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3336
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_4\_10XMem](#cases-min-k-numbers.Test_4_10XMem)
-</td>
-<td rowspan="1" colspan="2" class="error">
-Out of memory
-</td>
-<td rowspan="1" colspan="1" class="error">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_4](#cases-min-k-numbers.Test_4)
-</td>
-<td rowspan="1" colspan="2" class="error">
-Out of memory
-</td>
-<td rowspan="1" colspan="1" class="error">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_4\_Small](#cases-min-k-numbers.Test_4_Small)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-10088
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_4\_tiny](#cases-min-k-numbers.Test_4_tiny)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.01
-</td>
-<td rowspan="1" colspan="1" class="correct">
-10092
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_5\_10XMem](#cases-min-k-numbers.Test_5_10XMem)
-</td>
-<td rowspan="1" colspan="2" class="error">
-Out of memory
-</td>
-<td rowspan="1" colspan="1" class="error">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_5](#cases-min-k-numbers.Test_5)
-</td>
-<td rowspan="1" colspan="2" class="error">
-Out of memory
-</td>
-<td rowspan="1" colspan="1" class="error">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_5\_Small](#cases-min-k-numbers.Test_5_Small)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.01
-</td>
-<td rowspan="1" colspan="1" class="correct">
-10104
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_5\_tiny](#cases-min-k-numbers.Test_5_tiny)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3596
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="5" colspan="1" class>
-queens
-</td>
-<td rowspan="1" colspan="1" class>
-[Test\_1](#cases-queens.Test_1)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3552
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-<td rowspan="5" colspan="1" class>
-100
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_2](#cases-queens.Test_2)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3548
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_3](#cases-queens.Test_3)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3340
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_4](#cases-queens.Test_4)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3376
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_5](#cases-queens.Test_5)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3424
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class="person-summary">
-s2013013285
-</td>
-<td rowspan="1" colspan="2" class="person-summary">
- 
-</td>
-<td rowspan="1" colspan="1" class="person-summary">
-0.02
-</td>
-<td rowspan="1" colspan="1" class="person-summary">
-61240
-</td>
-<td rowspan="1" colspan="1" class="person-summary">
- 
-</td>
-<td rowspan="1" colspan="1" class="person-summary">
-160
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="7" class="person-start">
-<a name="person-s2013013286"></a>s2013013286 ([back](#menu-person-list))
-</td>
-</tr>
-<tr>
-<td rowspan="16" colspan="1" class>
-s2013013286
 </td>
 <td rowspan="11" colspan="1" class>
 min-k-numbers
@@ -3109,7 +2857,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3292
+3452
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -3123,7 +2871,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3360
+3340
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -3159,7 +2907,7 @@ Out of memory
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-10232
+10100
 </td>
 <td rowspan="1" colspan="1" class="correct">
 0
@@ -3173,7 +2921,259 @@ Out of memory
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-10144
+10072
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_5\_10XMem](#cases-min-k-numbers.Test_5_10XMem)
+</td>
+<td rowspan="1" colspan="2" class="error">
+Out of memory
+</td>
+<td rowspan="1" colspan="1" class="error">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_5](#cases-min-k-numbers.Test_5)
+</td>
+<td rowspan="1" colspan="2" class="error">
+Out of memory
+</td>
+<td rowspan="1" colspan="1" class="error">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_5\_Small](#cases-min-k-numbers.Test_5_Small)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+10016
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_5\_tiny](#cases-min-k-numbers.Test_5_tiny)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3568
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="5" colspan="1" class>
+queens
+</td>
+<td rowspan="1" colspan="1" class>
+[Test\_1](#cases-queens.Test_1)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3336
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+<td rowspan="5" colspan="1" class>
+100
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_2](#cases-queens.Test_2)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3556
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_3](#cases-queens.Test_3)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3428
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_4](#cases-queens.Test_4)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3328
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_5](#cases-queens.Test_5)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3484
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class="person-summary">
+s2013013285
+</td>
+<td rowspan="1" colspan="2" class="person-summary">
+ 
+</td>
+<td rowspan="1" colspan="1" class="person-summary">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="person-summary">
+60992
+</td>
+<td rowspan="1" colspan="1" class="person-summary">
+ 
+</td>
+<td rowspan="1" colspan="1" class="person-summary">
+160
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="7" class="person-start">
+<a name="person-s2013013286"></a>s2013013286 ([back](#menu-person-list))
+</td>
+</tr>
+<tr>
+<td rowspan="16" colspan="1" class>
+s2013013286
+</td>
+<td rowspan="11" colspan="1" class>
+min-k-numbers
+</td>
+<td rowspan="1" colspan="1" class>
+[Test\_1](#cases-min-k-numbers.Test_1)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3336
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+<td rowspan="11" colspan="1" class>
+60
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_2](#cases-min-k-numbers.Test_2)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3368
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_3](#cases-min-k-numbers.Test_3)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3388
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_4\_10XMem](#cases-min-k-numbers.Test_4_10XMem)
+</td>
+<td rowspan="1" colspan="2" class="error">
+Out of memory
+</td>
+<td rowspan="1" colspan="1" class="error">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_4](#cases-min-k-numbers.Test_4)
+</td>
+<td rowspan="1" colspan="2" class="error">
+Out of memory
+</td>
+<td rowspan="1" colspan="1" class="error">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_4\_Small](#cases-min-k-numbers.Test_4_Small)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+10184
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_4\_tiny](#cases-min-k-numbers.Test_4_tiny)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+10128
 </td>
 <td rowspan="1" colspan="1" class="correct">
 0
@@ -3223,7 +3223,7 @@ Out of memory
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3620
+3660
 </td>
 <td rowspan="1" colspan="1" class="correct">
 0
@@ -3240,7 +3240,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3364
+3432
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -3257,7 +3257,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3616
+3612
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -3271,7 +3271,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3332
+3348
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -3285,7 +3285,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3356
+3436
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -3299,7 +3299,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3488
+3280
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -3316,7 +3316,7 @@ s2013013286
 0.01
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
-61348
+61404
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
  
@@ -3344,7 +3344,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3368
+3324
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -3361,7 +3361,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3360
+3440
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -3408,10 +3408,10 @@ Out of memory
 [Test\_4\_Small](#cases-min-k-numbers.Test_4_Small)
 </td>
 <td rowspan="1" colspan="1" class="correct">
-0.01
+0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-10236
+10140
 </td>
 <td rowspan="1" colspan="1" class="correct">
 0
@@ -3425,7 +3425,7 @@ Out of memory
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-10240
+10104
 </td>
 <td rowspan="1" colspan="1" class="correct">
 0
@@ -3461,7 +3461,7 @@ Out of memory
 0.01
 </td>
 <td rowspan="1" colspan="1" class="correct">
-10196
+10012
 </td>
 <td rowspan="1" colspan="1" class="correct">
 0
@@ -3475,7 +3475,7 @@ Out of memory
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3568
+3668
 </td>
 <td rowspan="1" colspan="1" class="correct">
 0
@@ -3550,10 +3550,10 @@ s2013013287
  
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
-0.02
+0.01
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
-44316
+44036
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
  
@@ -3581,7 +3581,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3348
+3336
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -3598,7 +3598,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3548
+3528
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -3612,7 +3612,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3448
+3476
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -3717,7 +3717,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3484
+3320
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -3734,7 +3734,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3876
+3864
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -3748,7 +3748,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3356
+3352
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -3762,7 +3762,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3412
+3404
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -3776,7 +3776,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3912
+3848
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -3793,7 +3793,7 @@ s2013013288
 0.00
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
-28384
+28128
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
  
@@ -3838,7 +3838,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3344
+3324
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -3852,7 +3852,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3288
+3364
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -3943,7 +3943,7 @@ Out of memory
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3680
+3780
 </td>
 <td rowspan="1" colspan="1" class="correct">
 0
@@ -3960,7 +3960,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3640
+3732
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -3977,7 +3977,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3580
+3644
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -3991,7 +3991,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3496
+3476
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -4005,7 +4005,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3420
+3412
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -4019,7 +4019,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3804
+3844
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -4036,7 +4036,7 @@ s2013013289
 0.00
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
-31592
+31916
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
  
@@ -4064,7 +4064,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3336
+3380
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -4081,7 +4081,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3352
+3376
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -4095,7 +4095,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3336
+3328
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -4186,7 +4186,7 @@ Out of memory
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3756
+3716
 </td>
 <td rowspan="1" colspan="1" class="correct">
 0
@@ -4203,7 +4203,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3356
+3312
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -4220,7 +4220,7 @@ queens
 0.06
 </td>
 <td rowspan="1" colspan="1" class="correct">
-4040
+3944
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -4234,7 +4234,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3348
+3332
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -4248,7 +4248,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3504
+3580
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -4259,10 +4259,10 @@ queens
 [Test\_5](#cases-queens.Test_5)
 </td>
 <td rowspan="1" colspan="1" class="correct">
-0.07
+0.06
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3972
+3916
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -4276,10 +4276,10 @@ s2013013290
  
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
-0.13
+0.12
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
-32000
+31884
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
  
@@ -4307,7 +4307,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3428
+3368
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -4324,7 +4324,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3364
+3348
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -4338,7 +4338,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3496
+3488
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -4429,7 +4429,7 @@ Out of memory
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3652
+3760
 </td>
 <td rowspan="1" colspan="1" class="correct">
 0
@@ -4446,7 +4446,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3340
+3268
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -4463,7 +4463,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-4364
+4308
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -4477,7 +4477,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3360
+3332
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -4491,7 +4491,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3476
+3568
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -4505,7 +4505,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-4076
+4128
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -4522,7 +4522,7 @@ s2013013292
 0.00
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
-32556
+32568
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
  
@@ -4550,7 +4550,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3384
+3344
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -4567,7 +4567,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3364
+3336
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -4581,7 +4581,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3468
+3332
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -4686,7 +4686,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3332
+3340
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -4703,7 +4703,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3944
+3792
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -4739,7 +4739,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3864
+3856
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -4756,7 +4756,7 @@ s2013013293
 0.00
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
-21356
+21000
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
  
@@ -4784,7 +4784,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3428
+3468
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -4801,7 +4801,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3440
+3348
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -4920,10 +4920,10 @@ queens
 [Test\_1](#cases-queens.Test_1)
 </td>
 <td rowspan="1" colspan="1" class="correct">
-0.11
+0.09
 </td>
 <td rowspan="1" colspan="1" class="correct">
-4076
+4032
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -4940,7 +4940,7 @@ queens
 0.09
 </td>
 <td rowspan="1" colspan="1" class="correct">
-4008
+4020
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -4954,7 +4954,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3444
+3468
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -4968,7 +4968,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-4004
+3924
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -4982,7 +4982,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3656
+3648
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -4996,10 +4996,10 @@ s2013013294
  
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
-0.20
+0.18
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
-33788
+33640
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
  
@@ -5027,7 +5027,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3428
+3476
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -5044,7 +5044,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3356
+3436
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -5058,7 +5058,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3368
+3488
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -5149,7 +5149,7 @@ Out of memory
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3676
+3780
 </td>
 <td rowspan="1" colspan="1" class="correct">
 0
@@ -5166,7 +5166,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3588
+3648
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -5183,7 +5183,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3680
+3732
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -5197,7 +5197,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3476
+3392
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -5211,7 +5211,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3504
+3452
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -5225,7 +5225,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3884
+3992
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -5242,7 +5242,7 @@ s2013013295
 0.00
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
-31960
+32396
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
  
@@ -5270,7 +5270,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3468
+3360
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -5287,7 +5287,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3416
+3388
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -5301,7 +5301,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3380
+3336
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -5406,7 +5406,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3332
+3468
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -5423,7 +5423,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3372
+3368
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -5451,7 +5451,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3996
+4112
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -5465,7 +5465,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3324
+3356
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -5482,7 +5482,7 @@ s2013013296
 0.00
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
-27956
+28056
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
  
@@ -5510,7 +5510,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3368
+3492
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -5527,7 +5527,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3396
+3536
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -5541,7 +5541,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3340
+3360
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -5632,7 +5632,7 @@ Out of memory
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3604
+3656
 </td>
 <td rowspan="1" colspan="1" class="correct">
 0
@@ -5649,7 +5649,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-4020
+3956
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -5666,7 +5666,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3632
+3480
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -5680,7 +5680,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3364
+3396
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -5694,7 +5694,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3360
+3344
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -5708,7 +5708,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3560
+3604
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -5725,7 +5725,7 @@ s2013013297
 0.00
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
-31644
+31824
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
  
@@ -5753,499 +5753,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3332
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-<td rowspan="11" colspan="1" class>
-60
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_2](#cases-min-k-numbers.Test_2)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3548
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_3](#cases-min-k-numbers.Test_3)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3436
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_4\_10XMem](#cases-min-k-numbers.Test_4_10XMem)
-</td>
-<td rowspan="1" colspan="2" class="error">
-Out of memory
-</td>
-<td rowspan="1" colspan="1" class="error">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_4](#cases-min-k-numbers.Test_4)
-</td>
-<td rowspan="1" colspan="2" class="error">
-Out of memory
-</td>
-<td rowspan="1" colspan="1" class="error">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_4\_Small](#cases-min-k-numbers.Test_4_Small)
-</td>
-<td rowspan="1" colspan="2" class="error">
-Out of memory
-</td>
-<td rowspan="1" colspan="1" class="error">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_4\_tiny](#cases-min-k-numbers.Test_4_tiny)
-</td>
-<td rowspan="1" colspan="2" class="error">
-Out of memory
-</td>
-<td rowspan="1" colspan="1" class="error">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_5\_10XMem](#cases-min-k-numbers.Test_5_10XMem)
-</td>
-<td rowspan="1" colspan="2" class="error">
-Out of memory
-</td>
-<td rowspan="1" colspan="1" class="error">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_5](#cases-min-k-numbers.Test_5)
-</td>
-<td rowspan="1" colspan="2" class="error">
-Out of memory
-</td>
-<td rowspan="1" colspan="1" class="error">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_5\_Small](#cases-min-k-numbers.Test_5_Small)
-</td>
-<td rowspan="1" colspan="2" class="error">
-Out of memory
-</td>
-<td rowspan="1" colspan="1" class="error">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_5\_tiny](#cases-min-k-numbers.Test_5_tiny)
-</td>
-<td rowspan="1" colspan="2" class="error">
-Out of memory
-</td>
-<td rowspan="1" colspan="1" class="error">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="5" colspan="1" class>
-queens
-</td>
-<td rowspan="1" colspan="1" class>
-[Test\_1](#cases-queens.Test_1)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.09
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3888
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-<td rowspan="5" colspan="1" class>
-100
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_2](#cases-queens.Test_2)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3840
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_3](#cases-queens.Test_3)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3356
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_4](#cases-queens.Test_4)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3564
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_5](#cases-queens.Test_5)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3864
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class="person-summary">
-s2013013298
-</td>
-<td rowspan="1" colspan="2" class="person-summary">
- 
-</td>
-<td rowspan="1" colspan="1" class="person-summary">
-0.09
-</td>
-<td rowspan="1" colspan="1" class="person-summary">
-28828
-</td>
-<td rowspan="1" colspan="1" class="person-summary">
- 
-</td>
-<td rowspan="1" colspan="1" class="person-summary">
-160
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="7" class="person-start">
-<a name="person-s2013013301"></a>s2013013301 ([back](#menu-person-list))
-</td>
-</tr>
-<tr>
-<td rowspan="16" colspan="1" class>
-s2013013301
-</td>
-<td rowspan="11" colspan="1" class>
-min-k-numbers
-</td>
-<td rowspan="1" colspan="1" class>
-[Test\_1](#cases-min-k-numbers.Test_1)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3316
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-<td rowspan="11" colspan="1" class>
-60
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_2](#cases-min-k-numbers.Test_2)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3336
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_3](#cases-min-k-numbers.Test_3)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3392
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_4\_10XMem](#cases-min-k-numbers.Test_4_10XMem)
-</td>
-<td rowspan="1" colspan="2" class="error">
-Out of memory
-</td>
-<td rowspan="1" colspan="1" class="error">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_4](#cases-min-k-numbers.Test_4)
-</td>
-<td rowspan="1" colspan="2" class="error">
-Out of memory
-</td>
-<td rowspan="1" colspan="1" class="error">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_4\_Small](#cases-min-k-numbers.Test_4_Small)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.01
-</td>
-<td rowspan="1" colspan="1" class="correct">
-10084
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_4\_tiny](#cases-min-k-numbers.Test_4_tiny)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-10088
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_5\_10XMem](#cases-min-k-numbers.Test_5_10XMem)
-</td>
-<td rowspan="1" colspan="2" class="error">
-Out of memory
-</td>
-<td rowspan="1" colspan="1" class="error">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_5](#cases-min-k-numbers.Test_5)
-</td>
-<td rowspan="1" colspan="2" class="error">
-Out of memory
-</td>
-<td rowspan="1" colspan="1" class="error">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_5\_Small](#cases-min-k-numbers.Test_5_Small)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.01
-</td>
-<td rowspan="1" colspan="1" class="correct">
-10120
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_5\_tiny](#cases-min-k-numbers.Test_5_tiny)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3588
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="5" colspan="1" class>
-queens
-</td>
-<td rowspan="1" colspan="1" class>
-[Test\_1](#cases-queens.Test_1)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.09
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3980
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-<td rowspan="5" colspan="1" class>
-100
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_2](#cases-queens.Test_2)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.08
-</td>
-<td rowspan="1" colspan="1" class="correct">
-4032
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_3](#cases-queens.Test_3)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3344
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_4](#cases-queens.Test_4)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3972
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_5](#cases-queens.Test_5)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3576
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class="person-summary">
-s2013013301
-</td>
-<td rowspan="1" colspan="2" class="person-summary">
- 
-</td>
-<td rowspan="1" colspan="1" class="person-summary">
-0.19
-</td>
-<td rowspan="1" colspan="1" class="person-summary">
-62828
-</td>
-<td rowspan="1" colspan="1" class="person-summary">
- 
-</td>
-<td rowspan="1" colspan="1" class="person-summary">
-160
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="7" class="person-start">
-<a name="person-s2013013302"></a>s2013013302 ([back](#menu-person-list))
-</td>
-</tr>
-<tr>
-<td rowspan="16" colspan="1" class>
-s2013013302
-</td>
-<td rowspan="11" colspan="1" class>
-min-k-numbers
-</td>
-<td rowspan="1" colspan="1" class>
-[Test\_1](#cases-min-k-numbers.Test_1)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3332
+3328
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -6276,7 +5784,499 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3328
+3324
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_4\_10XMem](#cases-min-k-numbers.Test_4_10XMem)
+</td>
+<td rowspan="1" colspan="2" class="error">
+Out of memory
+</td>
+<td rowspan="1" colspan="1" class="error">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_4](#cases-min-k-numbers.Test_4)
+</td>
+<td rowspan="1" colspan="2" class="error">
+Out of memory
+</td>
+<td rowspan="1" colspan="1" class="error">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_4\_Small](#cases-min-k-numbers.Test_4_Small)
+</td>
+<td rowspan="1" colspan="2" class="error">
+Out of memory
+</td>
+<td rowspan="1" colspan="1" class="error">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_4\_tiny](#cases-min-k-numbers.Test_4_tiny)
+</td>
+<td rowspan="1" colspan="2" class="error">
+Out of memory
+</td>
+<td rowspan="1" colspan="1" class="error">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_5\_10XMem](#cases-min-k-numbers.Test_5_10XMem)
+</td>
+<td rowspan="1" colspan="2" class="error">
+Out of memory
+</td>
+<td rowspan="1" colspan="1" class="error">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_5](#cases-min-k-numbers.Test_5)
+</td>
+<td rowspan="1" colspan="2" class="error">
+Out of memory
+</td>
+<td rowspan="1" colspan="1" class="error">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_5\_Small](#cases-min-k-numbers.Test_5_Small)
+</td>
+<td rowspan="1" colspan="2" class="error">
+Out of memory
+</td>
+<td rowspan="1" colspan="1" class="error">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_5\_tiny](#cases-min-k-numbers.Test_5_tiny)
+</td>
+<td rowspan="1" colspan="2" class="error">
+Out of memory
+</td>
+<td rowspan="1" colspan="1" class="error">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="5" colspan="1" class>
+queens
+</td>
+<td rowspan="1" colspan="1" class>
+[Test\_1](#cases-queens.Test_1)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.09
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3884
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+<td rowspan="5" colspan="1" class>
+100
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_2](#cases-queens.Test_2)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3836
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_3](#cases-queens.Test_3)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3356
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_4](#cases-queens.Test_4)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3400
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_5](#cases-queens.Test_5)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3860
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class="person-summary">
+s2013013298
+</td>
+<td rowspan="1" colspan="2" class="person-summary">
+ 
+</td>
+<td rowspan="1" colspan="1" class="person-summary">
+0.09
+</td>
+<td rowspan="1" colspan="1" class="person-summary">
+28420
+</td>
+<td rowspan="1" colspan="1" class="person-summary">
+ 
+</td>
+<td rowspan="1" colspan="1" class="person-summary">
+160
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="7" class="person-start">
+<a name="person-s2013013301"></a>s2013013301 ([back](#menu-person-list))
+</td>
+</tr>
+<tr>
+<td rowspan="16" colspan="1" class>
+s2013013301
+</td>
+<td rowspan="11" colspan="1" class>
+min-k-numbers
+</td>
+<td rowspan="1" colspan="1" class>
+[Test\_1](#cases-min-k-numbers.Test_1)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3484
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+<td rowspan="11" colspan="1" class>
+60
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_2](#cases-min-k-numbers.Test_2)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3448
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_3](#cases-min-k-numbers.Test_3)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3356
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_4\_10XMem](#cases-min-k-numbers.Test_4_10XMem)
+</td>
+<td rowspan="1" colspan="2" class="error">
+Out of memory
+</td>
+<td rowspan="1" colspan="1" class="error">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_4](#cases-min-k-numbers.Test_4)
+</td>
+<td rowspan="1" colspan="2" class="error">
+Out of memory
+</td>
+<td rowspan="1" colspan="1" class="error">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_4\_Small](#cases-min-k-numbers.Test_4_Small)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+10100
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_4\_tiny](#cases-min-k-numbers.Test_4_tiny)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+10124
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_5\_10XMem](#cases-min-k-numbers.Test_5_10XMem)
+</td>
+<td rowspan="1" colspan="2" class="error">
+Out of memory
+</td>
+<td rowspan="1" colspan="1" class="error">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_5](#cases-min-k-numbers.Test_5)
+</td>
+<td rowspan="1" colspan="2" class="error">
+Out of memory
+</td>
+<td rowspan="1" colspan="1" class="error">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_5\_Small](#cases-min-k-numbers.Test_5_Small)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+10080
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_5\_tiny](#cases-min-k-numbers.Test_5_tiny)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3576
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="5" colspan="1" class>
+queens
+</td>
+<td rowspan="1" colspan="1" class>
+[Test\_1](#cases-queens.Test_1)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.08
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3868
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+<td rowspan="5" colspan="1" class>
+100
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_2](#cases-queens.Test_2)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.08
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3960
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_3](#cases-queens.Test_3)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3336
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_4](#cases-queens.Test_4)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3944
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_5](#cases-queens.Test_5)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3652
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class="person-summary">
+s2013013301
+</td>
+<td rowspan="1" colspan="2" class="person-summary">
+ 
+</td>
+<td rowspan="1" colspan="1" class="person-summary">
+0.16
+</td>
+<td rowspan="1" colspan="1" class="person-summary">
+62928
+</td>
+<td rowspan="1" colspan="1" class="person-summary">
+ 
+</td>
+<td rowspan="1" colspan="1" class="person-summary">
+160
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="7" class="person-start">
+<a name="person-s2013013302"></a>s2013013302 ([back](#menu-person-list))
+</td>
+</tr>
+<tr>
+<td rowspan="16" colspan="1" class>
+s2013013302
+</td>
+<td rowspan="11" colspan="1" class>
+min-k-numbers
+</td>
+<td rowspan="1" colspan="1" class>
+[Test\_1](#cases-min-k-numbers.Test_1)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3364
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+<td rowspan="11" colspan="1" class>
+60
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_2](#cases-min-k-numbers.Test_2)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3392
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_3](#cases-min-k-numbers.Test_3)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3352
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -6406,7 +6406,7 @@ Out of memory
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3380
+3432
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -6420,7 +6420,7 @@ Out of memory
 0.01
 </td>
 <td rowspan="1" colspan="1" class="correct">
-4080
+4152
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -6448,7 +6448,7 @@ s2013013302
 0.01
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
-17552
+17692
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
  
@@ -6476,7 +6476,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3496
+3276
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -6493,7 +6493,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3532
+3396
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -6507,7 +6507,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3488
+3376
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -6612,7 +6612,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3344
+3476
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -6629,7 +6629,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3336
+3372
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -6643,7 +6643,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3468
+3408
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -6657,7 +6657,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3872
+4092
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -6671,7 +6671,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3364
+3320
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -6688,7 +6688,7 @@ s2013013303
 0.00
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
-27900
+27716
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
  
@@ -6716,7 +6716,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3472
+3488
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -6733,7 +6733,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3352
+3368
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -6747,7 +6747,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3384
+3372
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -6838,7 +6838,7 @@ Out of memory
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3512
+3568
 </td>
 <td rowspan="1" colspan="1" class="correct">
 0
@@ -6852,10 +6852,10 @@ queens
 [Test\_1](#cases-queens.Test_1)
 </td>
 <td rowspan="1" colspan="1" class="correct">
-0.06
+0.07
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3996
+3864
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -6872,7 +6872,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3844
+3872
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -6886,7 +6886,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3496
+3340
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -6900,7 +6900,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3408
+3556
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -6914,7 +6914,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3944
+3848
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -6928,10 +6928,10 @@ s2013013304
  
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
-0.06
+0.07
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
-32408
+32276
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
  
@@ -6959,7 +6959,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3324
+3316
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -6976,7 +6976,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3344
+3340
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -6990,7 +6990,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3268
+3376
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -7081,7 +7081,7 @@ Out of time
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3892
+3864
 </td>
 <td rowspan="1" colspan="1" class="correct">
 0
@@ -7098,7 +7098,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3856
+3860
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -7115,7 +7115,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3512
+3640
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -7129,7 +7129,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3396
+3340
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -7143,7 +7143,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3492
+3384
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -7157,7 +7157,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3460
+3532
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -7174,7 +7174,7 @@ s2013013308
 0.00
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
-31544
+31652
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
  
@@ -7202,7 +7202,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3336
+3432
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -7219,7 +7219,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3396
+3404
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -7233,7 +7233,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3348
+3428
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -7338,7 +7338,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3336
+3384
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -7352,10 +7352,10 @@ queens
 [Test\_2](#cases-queens.Test_2)
 </td>
 <td rowspan="1" colspan="1" class="correct">
-0.10
+0.08
 </td>
 <td rowspan="1" colspan="1" class="correct">
-6192
+6384
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -7369,7 +7369,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3324
+3428
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -7383,7 +7383,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-4040
+4048
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -7397,7 +7397,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3488
+3628
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -7411,10 +7411,10 @@ s2013013309
  
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
-0.10
+0.08
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
-30460
+31136
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
  
@@ -7442,7 +7442,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3428
+3328
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -7459,7 +7459,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3512
+3356
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -7473,7 +7473,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3344
+3384
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -7506,10 +7506,10 @@ Out of memory
 [Test\_4\_Small](#cases-min-k-numbers.Test_4_Small)
 </td>
 <td rowspan="1" colspan="1" class="correct">
-0.01
+0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-10236
+10132
 </td>
 <td rowspan="1" colspan="1" class="correct">
 0
@@ -7520,10 +7520,10 @@ Out of memory
 [Test\_4\_tiny](#cases-min-k-numbers.Test_4_tiny)
 </td>
 <td rowspan="1" colspan="1" class="correct">
-0.01
+0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-10140
+10032
 </td>
 <td rowspan="1" colspan="1" class="correct">
 0
@@ -7556,10 +7556,10 @@ Out of memory
 [Test\_5\_Small](#cases-min-k-numbers.Test_5_Small)
 </td>
 <td rowspan="1" colspan="1" class="correct">
-0.01
+0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-10228
+10092
 </td>
 <td rowspan="1" colspan="1" class="correct">
 0
@@ -7573,7 +7573,7 @@ Out of memory
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3664
+3724
 </td>
 <td rowspan="1" colspan="1" class="correct">
 0
@@ -7590,7 +7590,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3348
+3376
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -7607,7 +7607,7 @@ queens
 0.01
 </td>
 <td rowspan="1" colspan="1" class="correct">
-4620
+4532
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -7621,7 +7621,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3404
+3468
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -7635,7 +7635,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3944
+3788
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -7649,7 +7649,7 @@ queens
 0.01
 </td>
 <td rowspan="1" colspan="1" class="correct">
-4300
+4440
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -7663,10 +7663,10 @@ s2013013310
  
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
-0.05
+0.02
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
-64168
+63652
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
  
@@ -7694,7 +7694,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3364
+3308
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -7711,7 +7711,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3640
+3472
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -7725,7 +7725,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3372
+3364
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -7758,10 +7758,10 @@ Out of memory
 [Test\_4\_Small](#cases-min-k-numbers.Test_4_Small)
 </td>
 <td rowspan="1" colspan="1" class="correct">
-0.91
+0.89
 </td>
 <td rowspan="1" colspan="1" class="correct">
-8052
+8080
 </td>
 <td rowspan="1" colspan="1" class="correct">
 0
@@ -7772,10 +7772,10 @@ Out of memory
 [Test\_4\_tiny](#cases-min-k-numbers.Test_4_tiny)
 </td>
 <td rowspan="1" colspan="1" class="correct">
-0.91
+0.89
 </td>
 <td rowspan="1" colspan="1" class="correct">
-8176
+8120
 </td>
 <td rowspan="1" colspan="1" class="correct">
 0
@@ -7811,7 +7811,7 @@ Out of memory
 0.89
 </td>
 <td rowspan="1" colspan="1" class="correct">
-8048
+8068
 </td>
 <td rowspan="1" colspan="1" class="correct">
 0
@@ -7822,7 +7822,7 @@ Out of memory
 [Test\_5\_tiny](#cases-min-k-numbers.Test_5_tiny)
 </td>
 <td rowspan="1" colspan="1" class="correct">
-0.01
+0.02
 </td>
 <td rowspan="1" colspan="1" class="correct">
 3936
@@ -7842,7 +7842,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3348
+3340
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -7859,7 +7859,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3884
+3860
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -7873,7 +7873,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3348
+3480
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -7887,7 +7887,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3344
+3428
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -7901,7 +7901,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-4004
+3884
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -7915,10 +7915,10 @@ s2013013311
  
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
-2.72
+2.69
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
-56516
+56340
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
  
@@ -7946,7 +7946,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3344
+3348
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -7963,7 +7963,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3340
+3356
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -7977,7 +7977,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3424
+3344
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -8013,7 +8013,7 @@ Out of memory
 0.02
 </td>
 <td rowspan="1" colspan="1" class="correct">
-10176
+10144
 </td>
 <td rowspan="1" colspan="1" class="correct">
 0
@@ -8027,7 +8027,7 @@ Out of memory
 0.02
 </td>
 <td rowspan="1" colspan="1" class="correct">
-10228
+10112
 </td>
 <td rowspan="1" colspan="1" class="correct">
 0
@@ -8063,7 +8063,7 @@ Out of memory
 0.02
 </td>
 <td rowspan="1" colspan="1" class="correct">
-10072
+10232
 </td>
 <td rowspan="1" colspan="1" class="correct">
 0
@@ -8091,7 +8091,7 @@ queens
 0.10
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3896
+3884
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -8105,10 +8105,10 @@ queens
 [Test\_2](#cases-queens.Test_2)
 </td>
 <td rowspan="1" colspan="1" class="correct">
-0.01
+0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3944
+3948
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -8122,7 +8122,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3276
+3488
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -8136,7 +8136,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3424
+3412
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -8150,7 +8150,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3860
+3868
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -8164,10 +8164,10 @@ s2013013312
  
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
-0.17
+0.16
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
-58984
+59136
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
  
@@ -8195,7 +8195,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3428
+3364
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -8212,7 +8212,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3524
+3332
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -8226,7 +8226,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3388
+3392
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -8348,7 +8348,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3560
+3612
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -8362,7 +8362,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3376
+3492
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -8376,7 +8376,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3348
+3356
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -8390,7 +8390,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3496
+3640
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -8407,7 +8407,7 @@ s2013013313
 0.00
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
-27472
+27540
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
  
@@ -8435,7 +8435,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3468
+3340
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -8452,7 +8452,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3616
+3560
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -8466,7 +8466,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3492
+3436
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -8554,10 +8554,10 @@ Out of time
 [Test\_5\_tiny](#cases-min-k-numbers.Test_5_tiny)
 </td>
 <td rowspan="1" colspan="1" class="correct">
-0.05
+0.06
 </td>
 <td rowspan="1" colspan="1" class="correct">
-5656
+5548
 </td>
 <td rowspan="1" colspan="1" class="correct">
 0
@@ -8574,7 +8574,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3272
+3332
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -8591,7 +8591,7 @@ queens
 0.01
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3880
+3868
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -8624,10 +8624,10 @@ Wrong answer
 [Test\_5](#cases-queens.Test_5)
 </td>
 <td rowspan="1" colspan="1" class="correct">
-0.01
+0.02
 </td>
 <td rowspan="1" colspan="1" class="correct">
-4024
+4032
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -8641,10 +8641,10 @@ s2013013316
  
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
-0.07
+0.09
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
-27408
+27116
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
  
@@ -8672,7 +8672,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3344
+3348
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -8689,7 +8689,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3376
+3368
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -8703,7 +8703,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3472
+3432
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -8736,10 +8736,10 @@ Out of memory
 [Test\_4\_Small](#cases-min-k-numbers.Test_4_Small)
 </td>
 <td rowspan="1" colspan="1" class="correct">
-0.00
+0.01
 </td>
 <td rowspan="1" colspan="1" class="correct">
-10096
+10128
 </td>
 <td rowspan="1" colspan="1" class="correct">
 0
@@ -8753,7 +8753,7 @@ Out of memory
 0.01
 </td>
 <td rowspan="1" colspan="1" class="correct">
-10140
+10100
 </td>
 <td rowspan="1" colspan="1" class="correct">
 0
@@ -8785,10 +8785,13 @@ Out of memory
 <td rowspan="1" colspan="1" class>
 [Test\_5\_Small](#cases-min-k-numbers.Test_5_Small)
 </td>
-<td rowspan="1" colspan="2" class="error">
-Out of memory
+<td rowspan="1" colspan="1" class="correct">
+0.01
 </td>
-<td rowspan="1" colspan="1" class="error">
+<td rowspan="1" colspan="1" class="correct">
+10092
+</td>
+<td rowspan="1" colspan="1" class="correct">
 0
 </td>
 </tr>
@@ -8800,7 +8803,7 @@ Out of memory
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3724
+3560
 </td>
 <td rowspan="1" colspan="1" class="correct">
 0
@@ -8817,7 +8820,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3348
+3336
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -8834,7 +8837,7 @@ queens
 0.17
 </td>
 <td rowspan="1" colspan="1" class="correct">
-5452
+5356
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -8848,7 +8851,7 @@ queens
 0.02
 </td>
 <td rowspan="1" colspan="1" class="correct">
-5336
+5332
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -8862,7 +8865,7 @@ queens
 0.02
 </td>
 <td rowspan="1" colspan="1" class="correct">
-5336
+5348
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -8876,7 +8879,7 @@ queens
 0.18
 </td>
 <td rowspan="1" colspan="1" class="correct">
-5320
+5440
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -8890,10 +8893,10 @@ s2013013317
  
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
-0.40
+0.42
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
-58944
+68840
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
  
@@ -9137,7 +9140,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3432
+3428
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -9154,7 +9157,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3292
+3500
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -9168,7 +9171,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3352
+3424
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -9201,10 +9204,10 @@ Out of memory
 [Test\_4\_Small](#cases-min-k-numbers.Test_4_Small)
 </td>
 <td rowspan="1" colspan="1" class="correct">
-0.01
+0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-9704
+9644
 </td>
 <td rowspan="1" colspan="1" class="correct">
 0
@@ -9254,7 +9257,7 @@ Out of memory
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-9696
+9684
 </td>
 <td rowspan="1" colspan="1" class="correct">
 0
@@ -9268,7 +9271,7 @@ Out of memory
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3720
+3576
 </td>
 <td rowspan="1" colspan="1" class="correct">
 0
@@ -9285,7 +9288,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3484
+3332
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -9302,7 +9305,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3528
+3516
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -9316,7 +9319,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3352
+3488
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -9330,7 +9333,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3400
+3348
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -9344,7 +9347,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3572
+3552
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -9358,10 +9361,10 @@ s2013013319
  
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
-0.02
+0.01
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
-60088
+60048
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
  
@@ -9389,7 +9392,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3380
+3372
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -9406,259 +9409,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3332
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_3](#cases-min-k-numbers.Test_3)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3340
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_4\_10XMem](#cases-min-k-numbers.Test_4_10XMem)
-</td>
-<td rowspan="1" colspan="2" class="error">
-Out of memory
-</td>
-<td rowspan="1" colspan="1" class="error">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_4](#cases-min-k-numbers.Test_4)
-</td>
-<td rowspan="1" colspan="2" class="error">
-Out of memory
-</td>
-<td rowspan="1" colspan="1" class="error">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_4\_Small](#cases-min-k-numbers.Test_4_Small)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.01
-</td>
-<td rowspan="1" colspan="1" class="correct">
-10088
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_4\_tiny](#cases-min-k-numbers.Test_4_tiny)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-10176
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_5\_10XMem](#cases-min-k-numbers.Test_5_10XMem)
-</td>
-<td rowspan="1" colspan="2" class="error">
-Out of memory
-</td>
-<td rowspan="1" colspan="1" class="error">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_5](#cases-min-k-numbers.Test_5)
-</td>
-<td rowspan="1" colspan="2" class="error">
-Out of memory
-</td>
-<td rowspan="1" colspan="1" class="error">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_5\_Small](#cases-min-k-numbers.Test_5_Small)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-10092
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_5\_tiny](#cases-min-k-numbers.Test_5_tiny)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3592
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="5" colspan="1" class>
-queens
-</td>
-<td rowspan="1" colspan="1" class>
-[Test\_1](#cases-queens.Test_1)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3328
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-<td rowspan="5" colspan="1" class>
-100
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_2](#cases-queens.Test_2)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-4284
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_3](#cases-queens.Test_3)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3492
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_4](#cases-queens.Test_4)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3488
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_5](#cases-queens.Test_5)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-4192
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class="person-summary">
-s2013013320
-</td>
-<td rowspan="1" colspan="2" class="person-summary">
- 
-</td>
-<td rowspan="1" colspan="1" class="person-summary">
-0.01
-</td>
-<td rowspan="1" colspan="1" class="person-summary">
-62784
-</td>
-<td rowspan="1" colspan="1" class="person-summary">
- 
-</td>
-<td rowspan="1" colspan="1" class="person-summary">
-160
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="7" class="person-start">
-<a name="person-s2013013321"></a>s2013013321 ([back](#menu-person-list))
-</td>
-</tr>
-<tr>
-<td rowspan="16" colspan="1" class>
-s2013013321
-</td>
-<td rowspan="11" colspan="1" class>
-min-k-numbers
-</td>
-<td rowspan="1" colspan="1" class>
-[Test\_1](#cases-min-k-numbers.Test_1)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3332
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-<td rowspan="11" colspan="1" class>
-60
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_2](#cases-min-k-numbers.Test_2)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3444
+3500
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -9708,7 +9459,7 @@ Out of memory
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-10136
+10072
 </td>
 <td rowspan="1" colspan="1" class="correct">
 0
@@ -9722,7 +9473,7 @@ Out of memory
 0.01
 </td>
 <td rowspan="1" colspan="1" class="correct">
-10236
+10028
 </td>
 <td rowspan="1" colspan="1" class="correct">
 0
@@ -9758,7 +9509,7 @@ Out of memory
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-10240
+10236
 </td>
 <td rowspan="1" colspan="1" class="correct">
 0
@@ -9772,7 +9523,7 @@ Out of memory
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3700
+3708
 </td>
 <td rowspan="1" colspan="1" class="correct">
 0
@@ -9789,7 +9540,259 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3784
+3428
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+<td rowspan="5" colspan="1" class>
+100
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_2](#cases-queens.Test_2)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+4312
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_3](#cases-queens.Test_3)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3436
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_4](#cases-queens.Test_4)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3488
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_5](#cases-queens.Test_5)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+4200
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class="person-summary">
+s2013013320
+</td>
+<td rowspan="1" colspan="2" class="person-summary">
+ 
+</td>
+<td rowspan="1" colspan="1" class="person-summary">
+0.01
+</td>
+<td rowspan="1" colspan="1" class="person-summary">
+63248
+</td>
+<td rowspan="1" colspan="1" class="person-summary">
+ 
+</td>
+<td rowspan="1" colspan="1" class="person-summary">
+160
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="7" class="person-start">
+<a name="person-s2013013321"></a>s2013013321 ([back](#menu-person-list))
+</td>
+</tr>
+<tr>
+<td rowspan="16" colspan="1" class>
+s2013013321
+</td>
+<td rowspan="11" colspan="1" class>
+min-k-numbers
+</td>
+<td rowspan="1" colspan="1" class>
+[Test\_1](#cases-min-k-numbers.Test_1)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3272
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+<td rowspan="11" colspan="1" class>
+60
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_2](#cases-min-k-numbers.Test_2)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3352
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_3](#cases-min-k-numbers.Test_3)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3424
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_4\_10XMem](#cases-min-k-numbers.Test_4_10XMem)
+</td>
+<td rowspan="1" colspan="2" class="error">
+Out of memory
+</td>
+<td rowspan="1" colspan="1" class="error">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_4](#cases-min-k-numbers.Test_4)
+</td>
+<td rowspan="1" colspan="2" class="error">
+Out of memory
+</td>
+<td rowspan="1" colspan="1" class="error">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_4\_Small](#cases-min-k-numbers.Test_4_Small)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.01
+</td>
+<td rowspan="1" colspan="1" class="correct">
+10092
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_4\_tiny](#cases-min-k-numbers.Test_4_tiny)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.01
+</td>
+<td rowspan="1" colspan="1" class="correct">
+10084
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_5\_10XMem](#cases-min-k-numbers.Test_5_10XMem)
+</td>
+<td rowspan="1" colspan="2" class="error">
+Out of memory
+</td>
+<td rowspan="1" colspan="1" class="error">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_5](#cases-min-k-numbers.Test_5)
+</td>
+<td rowspan="1" colspan="2" class="error">
+Out of memory
+</td>
+<td rowspan="1" colspan="1" class="error">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_5\_Small](#cases-min-k-numbers.Test_5_Small)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+10128
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_5\_tiny](#cases-min-k-numbers.Test_5_tiny)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3712
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="5" colspan="1" class>
+queens
+</td>
+<td rowspan="1" colspan="1" class>
+[Test\_1](#cases-queens.Test_1)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3796
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -9806,7 +9809,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3376
+3424
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -9842,7 +9845,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3476
+3376
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -9856,10 +9859,10 @@ s2013013321
  
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
-0.01
+0.02
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
-55192
+54660
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
  
@@ -9887,7 +9890,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3348
+3316
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -9904,7 +9907,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3360
+3432
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -9918,7 +9921,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3428
+3364
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -10009,7 +10012,7 @@ Out of memory
 0.01
 </td>
 <td rowspan="1" colspan="1" class="correct">
-4040
+4084
 </td>
 <td rowspan="1" colspan="1" class="correct">
 0
@@ -10026,7 +10029,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3332
+3468
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -10043,7 +10046,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3876
+3872
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -10057,7 +10060,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3428
+3336
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -10071,7 +10074,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3364
+3300
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -10085,7 +10088,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3948
+3848
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -10102,7 +10105,7 @@ s2013013322
 0.01
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
-32124
+32020
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
  
@@ -10130,7 +10133,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3352
+3364
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -10147,7 +10150,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3344
+3444
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -10161,7 +10164,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3488
+3332
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -10197,7 +10200,7 @@ Out of memory
 0.01
 </td>
 <td rowspan="1" colspan="1" class="correct">
-10024
+10236
 </td>
 <td rowspan="1" colspan="1" class="correct">
 0
@@ -10208,10 +10211,10 @@ Out of memory
 [Test\_4\_tiny](#cases-min-k-numbers.Test_4_tiny)
 </td>
 <td rowspan="1" colspan="1" class="correct">
-0.00
+0.01
 </td>
 <td rowspan="1" colspan="1" class="correct">
-10176
+10120
 </td>
 <td rowspan="1" colspan="1" class="correct">
 0
@@ -10244,10 +10247,10 @@ Out of memory
 [Test\_5\_Small](#cases-min-k-numbers.Test_5_Small)
 </td>
 <td rowspan="1" colspan="1" class="correct">
-0.01
+0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-10112
+10116
 </td>
 <td rowspan="1" colspan="1" class="correct">
 0
@@ -10261,7 +10264,7 @@ Out of memory
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3620
+3716
 </td>
 <td rowspan="1" colspan="1" class="correct">
 0
@@ -10278,7 +10281,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3352
+3332
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -10295,7 +10298,7 @@ queens
 0.02
 </td>
 <td rowspan="1" colspan="1" class="correct">
-5012
+4936
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -10331,7 +10334,7 @@ Wrong answer
 0.02
 </td>
 <td rowspan="1" colspan="1" class="correct">
-5392
+5476
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -10348,7 +10351,7 @@ s2013013323
 0.06
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
-57872
+58072
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
  
@@ -10376,7 +10379,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3328
+3344
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -10393,7 +10396,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3440
+3352
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -10407,7 +10410,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3352
+3428
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -10443,7 +10446,7 @@ Out of memory
 0.01
 </td>
 <td rowspan="1" colspan="1" class="correct">
-10176
+10072
 </td>
 <td rowspan="1" colspan="1" class="correct">
 0
@@ -10453,13 +10456,10 @@ Out of memory
 <td rowspan="1" colspan="1" class>
 [Test\_4\_tiny](#cases-min-k-numbers.Test_4_tiny)
 </td>
-<td rowspan="1" colspan="1" class="correct">
-0.01
+<td rowspan="1" colspan="2" class="error">
+Out of memory
 </td>
-<td rowspan="1" colspan="1" class="correct">
-10140
-</td>
-<td rowspan="1" colspan="1" class="correct">
+<td rowspan="1" colspan="1" class="error">
 0
 </td>
 </tr>
@@ -10489,13 +10489,10 @@ Out of memory
 <td rowspan="1" colspan="1" class>
 [Test\_5\_Small](#cases-min-k-numbers.Test_5_Small)
 </td>
-<td rowspan="1" colspan="1" class="correct">
-0.01
+<td rowspan="1" colspan="2" class="error">
+Out of memory
 </td>
-<td rowspan="1" colspan="1" class="correct">
-10124
-</td>
-<td rowspan="1" colspan="1" class="correct">
+<td rowspan="1" colspan="1" class="error">
 0
 </td>
 </tr>
@@ -10507,7 +10504,7 @@ Out of memory
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3624
+3668
 </td>
 <td rowspan="1" colspan="1" class="correct">
 0
@@ -10521,10 +10518,10 @@ queens
 [Test\_1](#cases-queens.Test_1)
 </td>
 <td rowspan="1" colspan="1" class="correct">
-0.08
+0.09
 </td>
 <td rowspan="1" colspan="1" class="correct">
-4280
+4208
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -10541,7 +10538,7 @@ queens
 0.01
 </td>
 <td rowspan="1" colspan="1" class="correct">
-4056
+3912
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -10555,7 +10552,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3900
+4008
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -10583,7 +10580,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3952
+3932
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -10597,10 +10594,10 @@ s2013013325
  
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
-0.12
+0.11
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
-64244
+43796
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
  
@@ -10645,7 +10642,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3388
+3324
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -10659,7 +10656,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3488
+3384
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -10764,7 +10761,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3276
+3424
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -10781,7 +10778,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-4008
+3796
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -10795,7 +10792,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3320
+3316
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -10809,7 +10806,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3500
+3436
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -10823,7 +10820,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3796
+3892
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -10840,7 +10837,7 @@ s2013013326
 0.00
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
-28212
+28008
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
  
@@ -10868,7 +10865,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3356
+3468
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -10885,7 +10882,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3372
+3424
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -10899,7 +10896,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3332
+3352
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -11004,7 +11001,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3508
+3432
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -11021,7 +11018,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3616
+3568
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -11035,7 +11032,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3352
+3488
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -11049,7 +11046,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3288
+3360
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -11063,7 +11060,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3444
+3428
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -11080,7 +11077,7 @@ s2013013328
 0.00
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
-27268
+27520
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
  
@@ -11108,7 +11105,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3476
+3472
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -11125,7 +11122,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3360
+3436
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -11139,7 +11136,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3332
+3340
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -11230,7 +11227,7 @@ Out of memory
 0.01
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3948
+3880
 </td>
 <td rowspan="1" colspan="1" class="correct">
 0
@@ -11247,7 +11244,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3340
+3300
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -11261,10 +11258,10 @@ queens
 [Test\_2](#cases-queens.Test_2)
 </td>
 <td rowspan="1" colspan="1" class="correct">
-0.02
+0.03
 </td>
 <td rowspan="1" colspan="1" class="correct">
-4056
+3908
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -11278,7 +11275,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3492
+3408
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -11292,7 +11289,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3852
+3864
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -11306,7 +11303,7 @@ queens
 0.02
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3912
+3804
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -11320,10 +11317,10 @@ s2013013329
  
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
-0.05
+0.06
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
-32768
+32412
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
  
@@ -11368,7 +11365,511 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3392
+3352
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_3](#cases-min-k-numbers.Test_3)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3432
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_4\_10XMem](#cases-min-k-numbers.Test_4_10XMem)
+</td>
+<td rowspan="1" colspan="2" class="error">
+Out of memory
+</td>
+<td rowspan="1" colspan="1" class="error">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_4](#cases-min-k-numbers.Test_4)
+</td>
+<td rowspan="1" colspan="2" class="error">
+Out of memory
+</td>
+<td rowspan="1" colspan="1" class="error">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_4\_Small](#cases-min-k-numbers.Test_4_Small)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.01
+</td>
+<td rowspan="1" colspan="1" class="correct">
+10028
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_4\_tiny](#cases-min-k-numbers.Test_4_tiny)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+10100
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_5\_10XMem](#cases-min-k-numbers.Test_5_10XMem)
+</td>
+<td rowspan="1" colspan="2" class="error">
+Out of memory
+</td>
+<td rowspan="1" colspan="1" class="error">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_5](#cases-min-k-numbers.Test_5)
+</td>
+<td rowspan="1" colspan="2" class="error">
+Out of memory
+</td>
+<td rowspan="1" colspan="1" class="error">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_5\_Small](#cases-min-k-numbers.Test_5_Small)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+10168
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_5\_tiny](#cases-min-k-numbers.Test_5_tiny)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3608
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="5" colspan="1" class>
+queens
+</td>
+<td rowspan="1" colspan="1" class>
+[Test\_1](#cases-queens.Test_1)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3336
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+<td rowspan="5" colspan="1" class>
+100
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_2](#cases-queens.Test_2)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3892
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_3](#cases-queens.Test_3)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3344
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_4](#cases-queens.Test_4)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3472
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_5](#cases-queens.Test_5)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3940
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class="person-summary">
+s2013013330
+</td>
+<td rowspan="1" colspan="2" class="person-summary">
+ 
+</td>
+<td rowspan="1" colspan="1" class="person-summary">
+0.01
+</td>
+<td rowspan="1" colspan="1" class="person-summary">
+62148
+</td>
+<td rowspan="1" colspan="1" class="person-summary">
+ 
+</td>
+<td rowspan="1" colspan="1" class="person-summary">
+160
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="7" class="person-start">
+<a name="person-s2013013333"></a>s2013013333 ([back](#menu-person-list))
+</td>
+</tr>
+<tr>
+<td rowspan="16" colspan="1" class>
+s2013013333
+</td>
+<td rowspan="11" colspan="1" class>
+min-k-numbers
+</td>
+<td rowspan="1" colspan="1" class>
+[Test\_1](#cases-min-k-numbers.Test_1)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3340
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+<td rowspan="11" colspan="1" class>
+60
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_2](#cases-min-k-numbers.Test_2)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3340
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_3](#cases-min-k-numbers.Test_3)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3348
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_4\_10XMem](#cases-min-k-numbers.Test_4_10XMem)
+</td>
+<td rowspan="1" colspan="2" class="error">
+Out of memory
+</td>
+<td rowspan="1" colspan="1" class="error">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_4](#cases-min-k-numbers.Test_4)
+</td>
+<td rowspan="1" colspan="2" class="error">
+Out of memory
+</td>
+<td rowspan="1" colspan="1" class="error">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_4\_Small](#cases-min-k-numbers.Test_4_Small)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.01
+</td>
+<td rowspan="1" colspan="1" class="correct">
+10228
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_4\_tiny](#cases-min-k-numbers.Test_4_tiny)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+10232
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_5\_10XMem](#cases-min-k-numbers.Test_5_10XMem)
+</td>
+<td rowspan="1" colspan="2" class="error">
+Out of memory
+</td>
+<td rowspan="1" colspan="1" class="error">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_5](#cases-min-k-numbers.Test_5)
+</td>
+<td rowspan="1" colspan="2" class="error">
+Out of memory
+</td>
+<td rowspan="1" colspan="1" class="error">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_5\_Small](#cases-min-k-numbers.Test_5_Small)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.01
+</td>
+<td rowspan="1" colspan="1" class="correct">
+10092
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_5\_tiny](#cases-min-k-numbers.Test_5_tiny)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3588
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="5" colspan="1" class>
+queens
+</td>
+<td rowspan="1" colspan="1" class>
+[Test\_1](#cases-queens.Test_1)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3388
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+<td rowspan="5" colspan="1" class>
+100
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_2](#cases-queens.Test_2)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.04
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3988
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_3](#cases-queens.Test_3)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3324
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_4](#cases-queens.Test_4)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3504
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_5](#cases-queens.Test_5)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.06
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3828
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class="person-summary">
+s2013013333
+</td>
+<td rowspan="1" colspan="2" class="person-summary">
+ 
+</td>
+<td rowspan="1" colspan="1" class="person-summary">
+0.12
+</td>
+<td rowspan="1" colspan="1" class="person-summary">
+62200
+</td>
+<td rowspan="1" colspan="1" class="person-summary">
+ 
+</td>
+<td rowspan="1" colspan="1" class="person-summary">
+160
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="7" class="person-start">
+<a name="person-s2013013334"></a>s2013013334 ([back](#menu-person-list))
+</td>
+</tr>
+<tr>
+<td rowspan="16" colspan="1" class>
+s2013013334
+</td>
+<td rowspan="11" colspan="1" class>
+min-k-numbers
+</td>
+<td rowspan="1" colspan="1" class>
+[Test\_1](#cases-min-k-numbers.Test_1)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3468
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+<td rowspan="11" colspan="1" class>
+60
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_2](#cases-min-k-numbers.Test_2)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3348
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -11415,10 +11916,10 @@ Out of memory
 [Test\_4\_Small](#cases-min-k-numbers.Test_4_Small)
 </td>
 <td rowspan="1" colspan="1" class="correct">
-0.01
+0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-10024
+10020
 </td>
 <td rowspan="1" colspan="1" class="correct">
 0
@@ -11429,7 +11930,7 @@ Out of memory
 [Test\_4\_tiny](#cases-min-k-numbers.Test_4_tiny)
 </td>
 <td rowspan="1" colspan="1" class="correct">
-0.01
+0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
 10240
@@ -11468,259 +11969,7 @@ Out of memory
 0.01
 </td>
 <td rowspan="1" colspan="1" class="correct">
-10072
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_5\_tiny](#cases-min-k-numbers.Test_5_tiny)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3512
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="5" colspan="1" class>
-queens
-</td>
-<td rowspan="1" colspan="1" class>
-[Test\_1](#cases-queens.Test_1)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3340
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-<td rowspan="5" colspan="1" class>
-100
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_2](#cases-queens.Test_2)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3992
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_3](#cases-queens.Test_3)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3364
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_4](#cases-queens.Test_4)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3420
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_5](#cases-queens.Test_5)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3888
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class="person-summary">
-s2013013330
-</td>
-<td rowspan="1" colspan="2" class="person-summary">
- 
-</td>
-<td rowspan="1" colspan="1" class="person-summary">
-0.03
-</td>
-<td rowspan="1" colspan="1" class="person-summary">
-62208
-</td>
-<td rowspan="1" colspan="1" class="person-summary">
- 
-</td>
-<td rowspan="1" colspan="1" class="person-summary">
-160
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="7" class="person-start">
-<a name="person-s2013013333"></a>s2013013333 ([back](#menu-person-list))
-</td>
-</tr>
-<tr>
-<td rowspan="16" colspan="1" class>
-s2013013333
-</td>
-<td rowspan="11" colspan="1" class>
-min-k-numbers
-</td>
-<td rowspan="1" colspan="1" class>
-[Test\_1](#cases-min-k-numbers.Test_1)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3348
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-<td rowspan="11" colspan="1" class>
-60
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_2](#cases-min-k-numbers.Test_2)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3352
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_3](#cases-min-k-numbers.Test_3)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3340
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_4\_10XMem](#cases-min-k-numbers.Test_4_10XMem)
-</td>
-<td rowspan="1" colspan="2" class="error">
-Out of memory
-</td>
-<td rowspan="1" colspan="1" class="error">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_4](#cases-min-k-numbers.Test_4)
-</td>
-<td rowspan="1" colspan="2" class="error">
-Out of memory
-</td>
-<td rowspan="1" colspan="1" class="error">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_4\_Small](#cases-min-k-numbers.Test_4_Small)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-10176
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_4\_tiny](#cases-min-k-numbers.Test_4_tiny)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.01
-</td>
-<td rowspan="1" colspan="1" class="correct">
-10088
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_5\_10XMem](#cases-min-k-numbers.Test_5_10XMem)
-</td>
-<td rowspan="1" colspan="2" class="error">
-Out of memory
-</td>
-<td rowspan="1" colspan="1" class="error">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_5](#cases-min-k-numbers.Test_5)
-</td>
-<td rowspan="1" colspan="2" class="error">
-Out of memory
-</td>
-<td rowspan="1" colspan="1" class="error">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_5\_Small](#cases-min-k-numbers.Test_5_Small)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.01
-</td>
-<td rowspan="1" colspan="1" class="correct">
-10100
+10180
 </td>
 <td rowspan="1" colspan="1" class="correct">
 0
@@ -11751,7 +12000,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3488
+3436
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -11768,7 +12017,7 @@ queens
 0.05
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3908
+3976
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -11782,7 +12031,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3352
+3328
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -11796,7 +12045,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3516
+3520
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -11807,262 +12056,10 @@ queens
 [Test\_5](#cases-queens.Test_5)
 </td>
 <td rowspan="1" colspan="1" class="correct">
-0.06
+0.07
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3884
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class="person-summary">
-s2013013333
-</td>
-<td rowspan="1" colspan="2" class="person-summary">
- 
-</td>
-<td rowspan="1" colspan="1" class="person-summary">
-0.13
-</td>
-<td rowspan="1" colspan="1" class="person-summary">
-62256
-</td>
-<td rowspan="1" colspan="1" class="person-summary">
- 
-</td>
-<td rowspan="1" colspan="1" class="person-summary">
-160
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="7" class="person-start">
-<a name="person-s2013013334"></a>s2013013334 ([back](#menu-person-list))
-</td>
-</tr>
-<tr>
-<td rowspan="16" colspan="1" class>
-s2013013334
-</td>
-<td rowspan="11" colspan="1" class>
-min-k-numbers
-</td>
-<td rowspan="1" colspan="1" class>
-[Test\_1](#cases-min-k-numbers.Test_1)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3352
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-<td rowspan="11" colspan="1" class>
-60
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_2](#cases-min-k-numbers.Test_2)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3392
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_3](#cases-min-k-numbers.Test_3)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3428
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_4\_10XMem](#cases-min-k-numbers.Test_4_10XMem)
-</td>
-<td rowspan="1" colspan="2" class="error">
-Out of memory
-</td>
-<td rowspan="1" colspan="1" class="error">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_4](#cases-min-k-numbers.Test_4)
-</td>
-<td rowspan="1" colspan="2" class="error">
-Out of memory
-</td>
-<td rowspan="1" colspan="1" class="error">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_4\_Small](#cases-min-k-numbers.Test_4_Small)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.01
-</td>
-<td rowspan="1" colspan="1" class="correct">
-10240
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_4\_tiny](#cases-min-k-numbers.Test_4_tiny)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.01
-</td>
-<td rowspan="1" colspan="1" class="correct">
-10100
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_5\_10XMem](#cases-min-k-numbers.Test_5_10XMem)
-</td>
-<td rowspan="1" colspan="2" class="error">
-Out of memory
-</td>
-<td rowspan="1" colspan="1" class="error">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_5](#cases-min-k-numbers.Test_5)
-</td>
-<td rowspan="1" colspan="2" class="error">
-Out of memory
-</td>
-<td rowspan="1" colspan="1" class="error">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_5\_Small](#cases-min-k-numbers.Test_5_Small)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-10180
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_5\_tiny](#cases-min-k-numbers.Test_5_tiny)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3564
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="5" colspan="1" class>
-queens
-</td>
-<td rowspan="1" colspan="1" class>
-[Test\_1](#cases-queens.Test_1)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3488
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-<td rowspan="5" colspan="1" class>
-100
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_2](#cases-queens.Test_2)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.05
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3936
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_3](#cases-queens.Test_3)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3364
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_4](#cases-queens.Test_4)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3540
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_5](#cases-queens.Test_5)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.06
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3896
+3868
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -12079,7 +12076,7 @@ s2013013334
 0.13
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
-62480
+62576
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
  
@@ -12107,7 +12104,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3484
+3384
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -12124,7 +12121,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3408
+3372
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -12138,7 +12135,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3496
+3380
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -12243,7 +12240,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3496
+3468
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -12260,7 +12257,7 @@ queens
 0.02
 </td>
 <td rowspan="1" colspan="1" class="correct">
-6032
+6060
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -12274,7 +12271,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3352
+3548
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -12288,7 +12285,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3992
+4000
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -12299,10 +12296,10 @@ queens
 [Test\_5](#cases-queens.Test_5)
 </td>
 <td rowspan="1" colspan="1" class="correct">
-0.02
+0.01
 </td>
 <td rowspan="1" colspan="1" class="correct">
-5616
+5812
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -12316,10 +12313,10 @@ s2013013335
  
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
-0.04
+0.03
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
-32876
+33024
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
  
@@ -12347,7 +12344,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3372
+3424
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -12364,7 +12361,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3364
+3440
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -12378,7 +12375,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3312
+3384
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -12411,10 +12408,10 @@ Out of memory
 [Test\_4\_Small](#cases-min-k-numbers.Test_4_Small)
 </td>
 <td rowspan="1" colspan="1" class="correct">
-0.01
+0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-10124
+10092
 </td>
 <td rowspan="1" colspan="1" class="correct">
 0
@@ -12425,10 +12422,10 @@ Out of memory
 [Test\_4\_tiny](#cases-min-k-numbers.Test_4_tiny)
 </td>
 <td rowspan="1" colspan="1" class="correct">
-0.01
+0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-10160
+10176
 </td>
 <td rowspan="1" colspan="1" class="correct">
 0
@@ -12461,10 +12458,10 @@ Out of memory
 [Test\_5\_Small](#cases-min-k-numbers.Test_5_Small)
 </td>
 <td rowspan="1" colspan="1" class="correct">
-0.00
+0.01
 </td>
 <td rowspan="1" colspan="1" class="correct">
-10016
+10228
 </td>
 <td rowspan="1" colspan="1" class="correct">
 0
@@ -12478,7 +12475,7 @@ Out of memory
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3568
+3564
 </td>
 <td rowspan="1" colspan="1" class="correct">
 0
@@ -12495,7 +12492,7 @@ queens
 0.26
 </td>
 <td rowspan="1" colspan="1" class="correct">
-4016
+3848
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -12512,7 +12509,7 @@ queens
 0.02
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3956
+3872
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -12548,7 +12545,7 @@ Wrong answer
 0.02
 </td>
 <td rowspan="1" colspan="1" class="correct">
-4000
+3880
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -12562,10 +12559,10 @@ s2013013336
  
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
-0.32
+0.31
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
-55888
+55908
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
  
@@ -12582,6 +12579,249 @@ s2013013336
 <tr>
 <td rowspan="16" colspan="1" class>
 s2013013337
+</td>
+<td rowspan="11" colspan="1" class>
+min-k-numbers
+</td>
+<td rowspan="1" colspan="1" class>
+[Test\_1](#cases-min-k-numbers.Test_1)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3272
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+<td rowspan="11" colspan="1" class>
+60
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_2](#cases-min-k-numbers.Test_2)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3372
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_3](#cases-min-k-numbers.Test_3)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3388
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_4\_10XMem](#cases-min-k-numbers.Test_4_10XMem)
+</td>
+<td rowspan="1" colspan="2" class="error">
+Out of memory
+</td>
+<td rowspan="1" colspan="1" class="error">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_4](#cases-min-k-numbers.Test_4)
+</td>
+<td rowspan="1" colspan="2" class="error">
+Out of memory
+</td>
+<td rowspan="1" colspan="1" class="error">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_4\_Small](#cases-min-k-numbers.Test_4_Small)
+</td>
+<td rowspan="1" colspan="2" class="error">
+Out of memory
+</td>
+<td rowspan="1" colspan="1" class="error">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_4\_tiny](#cases-min-k-numbers.Test_4_tiny)
+</td>
+<td rowspan="1" colspan="2" class="error">
+Out of memory
+</td>
+<td rowspan="1" colspan="1" class="error">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_5\_10XMem](#cases-min-k-numbers.Test_5_10XMem)
+</td>
+<td rowspan="1" colspan="2" class="error">
+Out of memory
+</td>
+<td rowspan="1" colspan="1" class="error">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_5](#cases-min-k-numbers.Test_5)
+</td>
+<td rowspan="1" colspan="2" class="error">
+Out of memory
+</td>
+<td rowspan="1" colspan="1" class="error">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_5\_Small](#cases-min-k-numbers.Test_5_Small)
+</td>
+<td rowspan="1" colspan="2" class="error">
+Out of memory
+</td>
+<td rowspan="1" colspan="1" class="error">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_5\_tiny](#cases-min-k-numbers.Test_5_tiny)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3592
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="5" colspan="1" class>
+queens
+</td>
+<td rowspan="1" colspan="1" class>
+[Test\_1](#cases-queens.Test_1)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3472
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+<td rowspan="5" colspan="1" class>
+100
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_2](#cases-queens.Test_2)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3996
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_3](#cases-queens.Test_3)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3488
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_4](#cases-queens.Test_4)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3732
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_5](#cases-queens.Test_5)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+4012
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class="person-summary">
+s2013013337
+</td>
+<td rowspan="1" colspan="2" class="person-summary">
+ 
+</td>
+<td rowspan="1" colspan="1" class="person-summary">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="person-summary">
+32324
+</td>
+<td rowspan="1" colspan="1" class="person-summary">
+ 
+</td>
+<td rowspan="1" colspan="1" class="person-summary">
+160
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="7" class="person-start">
+<a name="person-s2013013338"></a>s2013013338 ([back](#menu-person-list))
+</td>
+</tr>
+<tr>
+<td rowspan="16" colspan="1" class>
+s2013013338
 </td>
 <td rowspan="11" colspan="1" class>
 min-k-numbers
@@ -12611,1215 +12851,6 @@ min-k-numbers
 </td>
 <td rowspan="1" colspan="1" class="correct">
 3376
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_3](#cases-min-k-numbers.Test_3)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3336
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_4\_10XMem](#cases-min-k-numbers.Test_4_10XMem)
-</td>
-<td rowspan="1" colspan="2" class="error">
-Out of memory
-</td>
-<td rowspan="1" colspan="1" class="error">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_4](#cases-min-k-numbers.Test_4)
-</td>
-<td rowspan="1" colspan="2" class="error">
-Out of memory
-</td>
-<td rowspan="1" colspan="1" class="error">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_4\_Small](#cases-min-k-numbers.Test_4_Small)
-</td>
-<td rowspan="1" colspan="2" class="error">
-Out of memory
-</td>
-<td rowspan="1" colspan="1" class="error">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_4\_tiny](#cases-min-k-numbers.Test_4_tiny)
-</td>
-<td rowspan="1" colspan="2" class="error">
-Out of memory
-</td>
-<td rowspan="1" colspan="1" class="error">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_5\_10XMem](#cases-min-k-numbers.Test_5_10XMem)
-</td>
-<td rowspan="1" colspan="2" class="error">
-Out of memory
-</td>
-<td rowspan="1" colspan="1" class="error">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_5](#cases-min-k-numbers.Test_5)
-</td>
-<td rowspan="1" colspan="2" class="error">
-Out of memory
-</td>
-<td rowspan="1" colspan="1" class="error">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_5\_Small](#cases-min-k-numbers.Test_5_Small)
-</td>
-<td rowspan="1" colspan="2" class="error">
-Out of memory
-</td>
-<td rowspan="1" colspan="1" class="error">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_5\_tiny](#cases-min-k-numbers.Test_5_tiny)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3584
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="5" colspan="1" class>
-queens
-</td>
-<td rowspan="1" colspan="1" class>
-[Test\_1](#cases-queens.Test_1)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3424
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-<td rowspan="5" colspan="1" class>
-100
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_2](#cases-queens.Test_2)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3904
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_3](#cases-queens.Test_3)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3332
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_4](#cases-queens.Test_4)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3736
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_5](#cases-queens.Test_5)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3864
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class="person-summary">
-s2013013337
-</td>
-<td rowspan="1" colspan="2" class="person-summary">
- 
-</td>
-<td rowspan="1" colspan="1" class="person-summary">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="person-summary">
-31976
-</td>
-<td rowspan="1" colspan="1" class="person-summary">
- 
-</td>
-<td rowspan="1" colspan="1" class="person-summary">
-160
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="7" class="person-start">
-<a name="person-s2013013338"></a>s2013013338 ([back](#menu-person-list))
-</td>
-</tr>
-<tr>
-<td rowspan="16" colspan="1" class>
-s2013013338
-</td>
-<td rowspan="11" colspan="1" class>
-min-k-numbers
-</td>
-<td rowspan="1" colspan="1" class>
-[Test\_1](#cases-min-k-numbers.Test_1)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3428
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-<td rowspan="11" colspan="1" class>
-60
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_2](#cases-min-k-numbers.Test_2)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3504
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_3](#cases-min-k-numbers.Test_3)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3324
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_4\_10XMem](#cases-min-k-numbers.Test_4_10XMem)
-</td>
-<td rowspan="1" colspan="2" class="error">
-Out of memory
-</td>
-<td rowspan="1" colspan="1" class="error">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_4](#cases-min-k-numbers.Test_4)
-</td>
-<td rowspan="1" colspan="2" class="error">
-Out of memory
-</td>
-<td rowspan="1" colspan="1" class="error">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_4\_Small](#cases-min-k-numbers.Test_4_Small)
-</td>
-<td rowspan="1" colspan="2" class="error">
-Out of memory
-</td>
-<td rowspan="1" colspan="1" class="error">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_4\_tiny](#cases-min-k-numbers.Test_4_tiny)
-</td>
-<td rowspan="1" colspan="2" class="error">
-Out of memory
-</td>
-<td rowspan="1" colspan="1" class="error">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_5\_10XMem](#cases-min-k-numbers.Test_5_10XMem)
-</td>
-<td rowspan="1" colspan="2" class="error">
-Out of memory
-</td>
-<td rowspan="1" colspan="1" class="error">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_5](#cases-min-k-numbers.Test_5)
-</td>
-<td rowspan="1" colspan="2" class="error">
-Out of memory
-</td>
-<td rowspan="1" colspan="1" class="error">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_5\_Small](#cases-min-k-numbers.Test_5_Small)
-</td>
-<td rowspan="1" colspan="2" class="error">
-Out of memory
-</td>
-<td rowspan="1" colspan="1" class="error">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_5\_tiny](#cases-min-k-numbers.Test_5_tiny)
-</td>
-<td rowspan="1" colspan="2" class="error">
-Out of memory
-</td>
-<td rowspan="1" colspan="1" class="error">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="5" colspan="1" class>
-queens
-</td>
-<td rowspan="1" colspan="1" class>
-[Test\_1](#cases-queens.Test_1)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3348
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-<td rowspan="5" colspan="1" class>
-100
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_2](#cases-queens.Test_2)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3592
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_3](#cases-queens.Test_3)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3344
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_4](#cases-queens.Test_4)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3504
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_5](#cases-queens.Test_5)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3472
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class="person-summary">
-s2013013338
-</td>
-<td rowspan="1" colspan="2" class="person-summary">
- 
-</td>
-<td rowspan="1" colspan="1" class="person-summary">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="person-summary">
-27516
-</td>
-<td rowspan="1" colspan="1" class="person-summary">
- 
-</td>
-<td rowspan="1" colspan="1" class="person-summary">
-160
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="7" class="person-start">
-<a name="person-s2013013339"></a>s2013013339 ([back](#menu-person-list))
-</td>
-</tr>
-<tr>
-<td rowspan="16" colspan="1" class>
-s2013013339
-</td>
-<td rowspan="11" colspan="1" class>
-min-k-numbers
-</td>
-<td rowspan="1" colspan="1" class>
-[Test\_1](#cases-min-k-numbers.Test_1)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3268
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-<td rowspan="11" colspan="1" class>
-60
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_2](#cases-min-k-numbers.Test_2)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3436
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_3](#cases-min-k-numbers.Test_3)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3420
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_4\_10XMem](#cases-min-k-numbers.Test_4_10XMem)
-</td>
-<td rowspan="1" colspan="2" class="error">
-Out of time
-</td>
-<td rowspan="1" colspan="1" class="error">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_4](#cases-min-k-numbers.Test_4)
-</td>
-<td rowspan="1" colspan="2" class="error">
-Out of memory
-</td>
-<td rowspan="1" colspan="1" class="error">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_4\_Small](#cases-min-k-numbers.Test_4_Small)
-</td>
-<td rowspan="1" colspan="2" class="error">
-Out of memory
-</td>
-<td rowspan="1" colspan="1" class="error">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_4\_tiny](#cases-min-k-numbers.Test_4_tiny)
-</td>
-<td rowspan="1" colspan="2" class="error">
-Out of memory
-</td>
-<td rowspan="1" colspan="1" class="error">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_5\_10XMem](#cases-min-k-numbers.Test_5_10XMem)
-</td>
-<td rowspan="1" colspan="2" class="error">
-Out of time
-</td>
-<td rowspan="1" colspan="1" class="error">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_5](#cases-min-k-numbers.Test_5)
-</td>
-<td rowspan="1" colspan="2" class="error">
-Out of memory
-</td>
-<td rowspan="1" colspan="1" class="error">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_5\_Small](#cases-min-k-numbers.Test_5_Small)
-</td>
-<td rowspan="1" colspan="2" class="error">
-Out of memory
-</td>
-<td rowspan="1" colspan="1" class="error">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_5\_tiny](#cases-min-k-numbers.Test_5_tiny)
-</td>
-<td rowspan="1" colspan="2" class="error">
-Out of memory
-</td>
-<td rowspan="1" colspan="1" class="error">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="5" colspan="1" class>
-queens
-</td>
-<td rowspan="1" colspan="1" class>
-[Test\_1](#cases-queens.Test_1)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3372
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-<td rowspan="5" colspan="1" class>
-100
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_2](#cases-queens.Test_2)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3500
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_3](#cases-queens.Test_3)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3496
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_4](#cases-queens.Test_4)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3352
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_5](#cases-queens.Test_5)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3492
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class="person-summary">
-s2013013339
-</td>
-<td rowspan="1" colspan="2" class="person-summary">
- 
-</td>
-<td rowspan="1" colspan="1" class="person-summary">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="person-summary">
-27336
-</td>
-<td rowspan="1" colspan="1" class="person-summary">
- 
-</td>
-<td rowspan="1" colspan="1" class="person-summary">
-160
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="7" class="person-start">
-<a name="person-s2013013340"></a>s2013013340 ([back](#menu-person-list))
-</td>
-</tr>
-<tr>
-<td rowspan="16" colspan="1" class>
-s2013013340
-</td>
-<td rowspan="11" colspan="1" class>
-min-k-numbers
-</td>
-<td rowspan="1" colspan="1" class>
-[Test\_1](#cases-min-k-numbers.Test_1)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3368
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-<td rowspan="11" colspan="1" class>
-60
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_2](#cases-min-k-numbers.Test_2)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3372
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_3](#cases-min-k-numbers.Test_3)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3336
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_4\_10XMem](#cases-min-k-numbers.Test_4_10XMem)
-</td>
-<td rowspan="1" colspan="2" class="error">
-Out of memory
-</td>
-<td rowspan="1" colspan="1" class="error">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_4](#cases-min-k-numbers.Test_4)
-</td>
-<td rowspan="1" colspan="2" class="error">
-Out of memory
-</td>
-<td rowspan="1" colspan="1" class="error">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_4\_Small](#cases-min-k-numbers.Test_4_Small)
-</td>
-<td rowspan="1" colspan="2" class="error">
-Out of memory
-</td>
-<td rowspan="1" colspan="1" class="error">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_4\_tiny](#cases-min-k-numbers.Test_4_tiny)
-</td>
-<td rowspan="1" colspan="2" class="error">
-Out of memory
-</td>
-<td rowspan="1" colspan="1" class="error">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_5\_10XMem](#cases-min-k-numbers.Test_5_10XMem)
-</td>
-<td rowspan="1" colspan="2" class="error">
-Out of memory
-</td>
-<td rowspan="1" colspan="1" class="error">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_5](#cases-min-k-numbers.Test_5)
-</td>
-<td rowspan="1" colspan="2" class="error">
-Out of memory
-</td>
-<td rowspan="1" colspan="1" class="error">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_5\_Small](#cases-min-k-numbers.Test_5_Small)
-</td>
-<td rowspan="1" colspan="2" class="error">
-Out of memory
-</td>
-<td rowspan="1" colspan="1" class="error">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_5\_tiny](#cases-min-k-numbers.Test_5_tiny)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3568
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="5" colspan="1" class>
-queens
-</td>
-<td rowspan="1" colspan="1" class>
-[Test\_1](#cases-queens.Test_1)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3864
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-<td rowspan="5" colspan="1" class>
-100
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_2](#cases-queens.Test_2)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3872
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_3](#cases-queens.Test_3)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3360
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_4](#cases-queens.Test_4)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3488
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_5](#cases-queens.Test_5)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3836
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class="person-summary">
-s2013013340
-</td>
-<td rowspan="1" colspan="2" class="person-summary">
- 
-</td>
-<td rowspan="1" colspan="1" class="person-summary">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="person-summary">
-32064
-</td>
-<td rowspan="1" colspan="1" class="person-summary">
- 
-</td>
-<td rowspan="1" colspan="1" class="person-summary">
-160
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="7" class="person-start">
-<a name="person-s2013013341"></a>s2013013341 ([back](#menu-person-list))
-</td>
-</tr>
-<tr>
-<td rowspan="16" colspan="1" class>
-s2013013341
-</td>
-<td rowspan="11" colspan="1" class>
-min-k-numbers
-</td>
-<td rowspan="1" colspan="1" class>
-[Test\_1](#cases-min-k-numbers.Test_1)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3580
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-<td rowspan="11" colspan="1" class>
-60
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_2](#cases-min-k-numbers.Test_2)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3728
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_3](#cases-min-k-numbers.Test_3)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3512
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_4\_10XMem](#cases-min-k-numbers.Test_4_10XMem)
-</td>
-<td rowspan="1" colspan="2" class="error">
-Out of memory
-</td>
-<td rowspan="1" colspan="1" class="error">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_4](#cases-min-k-numbers.Test_4)
-</td>
-<td rowspan="1" colspan="2" class="error">
-Out of memory
-</td>
-<td rowspan="1" colspan="1" class="error">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_4\_Small](#cases-min-k-numbers.Test_4_Small)
-</td>
-<td rowspan="1" colspan="2" class="error">
-Out of memory
-</td>
-<td rowspan="1" colspan="1" class="error">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_4\_tiny](#cases-min-k-numbers.Test_4_tiny)
-</td>
-<td rowspan="1" colspan="2" class="error">
-Out of memory
-</td>
-<td rowspan="1" colspan="1" class="error">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_5\_10XMem](#cases-min-k-numbers.Test_5_10XMem)
-</td>
-<td rowspan="1" colspan="2" class="error">
-Out of memory
-</td>
-<td rowspan="1" colspan="1" class="error">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_5](#cases-min-k-numbers.Test_5)
-</td>
-<td rowspan="1" colspan="2" class="error">
-Out of memory
-</td>
-<td rowspan="1" colspan="1" class="error">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_5\_Small](#cases-min-k-numbers.Test_5_Small)
-</td>
-<td rowspan="1" colspan="2" class="error">
-Out of memory
-</td>
-<td rowspan="1" colspan="1" class="error">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_5\_tiny](#cases-min-k-numbers.Test_5_tiny)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3788
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="5" colspan="1" class>
-queens
-</td>
-<td rowspan="1" colspan="1" class>
-[Test\_1](#cases-queens.Test_1)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3348
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-<td rowspan="5" colspan="1" class>
-100
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_2](#cases-queens.Test_2)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3348
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_3](#cases-queens.Test_3)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3304
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_4](#cases-queens.Test_4)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-4000
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_5](#cases-queens.Test_5)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3340
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class="person-summary">
-s2013013341
-</td>
-<td rowspan="1" colspan="2" class="person-summary">
- 
-</td>
-<td rowspan="1" colspan="1" class="person-summary">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="person-summary">
-31948
-</td>
-<td rowspan="1" colspan="1" class="person-summary">
- 
-</td>
-<td rowspan="1" colspan="1" class="person-summary">
-160
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="7" class="person-start">
-<a name="person-s2013013344"></a>s2013013344 ([back](#menu-person-list))
-</td>
-</tr>
-<tr>
-<td rowspan="16" colspan="1" class>
-s2013013344
-</td>
-<td rowspan="11" colspan="1" class>
-min-k-numbers
-</td>
-<td rowspan="1" colspan="1" class>
-[Test\_1](#cases-min-k-numbers.Test_1)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3348
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-<td rowspan="11" colspan="1" class>
-60
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_2](#cases-min-k-numbers.Test_2)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3428
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -13938,7 +12969,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3324
+3468
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -13952,10 +12983,10 @@ queens
 [Test\_2](#cases-queens.Test_2)
 </td>
 <td rowspan="1" colspan="1" class="correct">
-0.46
+0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-6788
+3648
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -13969,7 +13000,973 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-4004
+3348
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_4](#cases-queens.Test_4)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3448
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_5](#cases-queens.Test_5)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3500
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class="person-summary">
+s2013013338
+</td>
+<td rowspan="1" colspan="2" class="person-summary">
+ 
+</td>
+<td rowspan="1" colspan="1" class="person-summary">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="person-summary">
+27640
+</td>
+<td rowspan="1" colspan="1" class="person-summary">
+ 
+</td>
+<td rowspan="1" colspan="1" class="person-summary">
+160
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="7" class="person-start">
+<a name="person-s2013013339"></a>s2013013339 ([back](#menu-person-list))
+</td>
+</tr>
+<tr>
+<td rowspan="16" colspan="1" class>
+s2013013339
+</td>
+<td rowspan="11" colspan="1" class>
+min-k-numbers
+</td>
+<td rowspan="1" colspan="1" class>
+[Test\_1](#cases-min-k-numbers.Test_1)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3316
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+<td rowspan="11" colspan="1" class>
+60
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_2](#cases-min-k-numbers.Test_2)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3388
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_3](#cases-min-k-numbers.Test_3)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3340
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_4\_10XMem](#cases-min-k-numbers.Test_4_10XMem)
+</td>
+<td rowspan="1" colspan="2" class="error">
+Out of time
+</td>
+<td rowspan="1" colspan="1" class="error">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_4](#cases-min-k-numbers.Test_4)
+</td>
+<td rowspan="1" colspan="2" class="error">
+Out of memory
+</td>
+<td rowspan="1" colspan="1" class="error">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_4\_Small](#cases-min-k-numbers.Test_4_Small)
+</td>
+<td rowspan="1" colspan="2" class="error">
+Out of memory
+</td>
+<td rowspan="1" colspan="1" class="error">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_4\_tiny](#cases-min-k-numbers.Test_4_tiny)
+</td>
+<td rowspan="1" colspan="2" class="error">
+Out of memory
+</td>
+<td rowspan="1" colspan="1" class="error">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_5\_10XMem](#cases-min-k-numbers.Test_5_10XMem)
+</td>
+<td rowspan="1" colspan="2" class="error">
+Out of time
+</td>
+<td rowspan="1" colspan="1" class="error">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_5](#cases-min-k-numbers.Test_5)
+</td>
+<td rowspan="1" colspan="2" class="error">
+Out of memory
+</td>
+<td rowspan="1" colspan="1" class="error">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_5\_Small](#cases-min-k-numbers.Test_5_Small)
+</td>
+<td rowspan="1" colspan="2" class="error">
+Out of memory
+</td>
+<td rowspan="1" colspan="1" class="error">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_5\_tiny](#cases-min-k-numbers.Test_5_tiny)
+</td>
+<td rowspan="1" colspan="2" class="error">
+Out of memory
+</td>
+<td rowspan="1" colspan="1" class="error">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="5" colspan="1" class>
+queens
+</td>
+<td rowspan="1" colspan="1" class>
+[Test\_1](#cases-queens.Test_1)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3376
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+<td rowspan="5" colspan="1" class>
+100
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_2](#cases-queens.Test_2)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3656
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_3](#cases-queens.Test_3)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3352
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_4](#cases-queens.Test_4)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3400
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_5](#cases-queens.Test_5)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3644
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class="person-summary">
+s2013013339
+</td>
+<td rowspan="1" colspan="2" class="person-summary">
+ 
+</td>
+<td rowspan="1" colspan="1" class="person-summary">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="person-summary">
+27472
+</td>
+<td rowspan="1" colspan="1" class="person-summary">
+ 
+</td>
+<td rowspan="1" colspan="1" class="person-summary">
+160
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="7" class="person-start">
+<a name="person-s2013013340"></a>s2013013340 ([back](#menu-person-list))
+</td>
+</tr>
+<tr>
+<td rowspan="16" colspan="1" class>
+s2013013340
+</td>
+<td rowspan="11" colspan="1" class>
+min-k-numbers
+</td>
+<td rowspan="1" colspan="1" class>
+[Test\_1](#cases-min-k-numbers.Test_1)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3272
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+<td rowspan="11" colspan="1" class>
+60
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_2](#cases-min-k-numbers.Test_2)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3548
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_3](#cases-min-k-numbers.Test_3)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3432
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_4\_10XMem](#cases-min-k-numbers.Test_4_10XMem)
+</td>
+<td rowspan="1" colspan="2" class="error">
+Out of memory
+</td>
+<td rowspan="1" colspan="1" class="error">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_4](#cases-min-k-numbers.Test_4)
+</td>
+<td rowspan="1" colspan="2" class="error">
+Out of memory
+</td>
+<td rowspan="1" colspan="1" class="error">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_4\_Small](#cases-min-k-numbers.Test_4_Small)
+</td>
+<td rowspan="1" colspan="2" class="error">
+Out of memory
+</td>
+<td rowspan="1" colspan="1" class="error">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_4\_tiny](#cases-min-k-numbers.Test_4_tiny)
+</td>
+<td rowspan="1" colspan="2" class="error">
+Out of memory
+</td>
+<td rowspan="1" colspan="1" class="error">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_5\_10XMem](#cases-min-k-numbers.Test_5_10XMem)
+</td>
+<td rowspan="1" colspan="2" class="error">
+Out of memory
+</td>
+<td rowspan="1" colspan="1" class="error">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_5](#cases-min-k-numbers.Test_5)
+</td>
+<td rowspan="1" colspan="2" class="error">
+Out of memory
+</td>
+<td rowspan="1" colspan="1" class="error">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_5\_Small](#cases-min-k-numbers.Test_5_Small)
+</td>
+<td rowspan="1" colspan="2" class="error">
+Out of memory
+</td>
+<td rowspan="1" colspan="1" class="error">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_5\_tiny](#cases-min-k-numbers.Test_5_tiny)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3700
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="5" colspan="1" class>
+queens
+</td>
+<td rowspan="1" colspan="1" class>
+[Test\_1](#cases-queens.Test_1)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3848
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+<td rowspan="5" colspan="1" class>
+100
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_2](#cases-queens.Test_2)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3936
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_3](#cases-queens.Test_3)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3348
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_4](#cases-queens.Test_4)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3340
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_5](#cases-queens.Test_5)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3844
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class="person-summary">
+s2013013340
+</td>
+<td rowspan="1" colspan="2" class="person-summary">
+ 
+</td>
+<td rowspan="1" colspan="1" class="person-summary">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="person-summary">
+32268
+</td>
+<td rowspan="1" colspan="1" class="person-summary">
+ 
+</td>
+<td rowspan="1" colspan="1" class="person-summary">
+160
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="7" class="person-start">
+<a name="person-s2013013341"></a>s2013013341 ([back](#menu-person-list))
+</td>
+</tr>
+<tr>
+<td rowspan="16" colspan="1" class>
+s2013013341
+</td>
+<td rowspan="11" colspan="1" class>
+min-k-numbers
+</td>
+<td rowspan="1" colspan="1" class>
+[Test\_1](#cases-min-k-numbers.Test_1)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3720
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+<td rowspan="11" colspan="1" class>
+60
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_2](#cases-min-k-numbers.Test_2)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3788
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_3](#cases-min-k-numbers.Test_3)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3596
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_4\_10XMem](#cases-min-k-numbers.Test_4_10XMem)
+</td>
+<td rowspan="1" colspan="2" class="error">
+Out of memory
+</td>
+<td rowspan="1" colspan="1" class="error">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_4](#cases-min-k-numbers.Test_4)
+</td>
+<td rowspan="1" colspan="2" class="error">
+Out of memory
+</td>
+<td rowspan="1" colspan="1" class="error">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_4\_Small](#cases-min-k-numbers.Test_4_Small)
+</td>
+<td rowspan="1" colspan="2" class="error">
+Out of memory
+</td>
+<td rowspan="1" colspan="1" class="error">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_4\_tiny](#cases-min-k-numbers.Test_4_tiny)
+</td>
+<td rowspan="1" colspan="2" class="error">
+Out of memory
+</td>
+<td rowspan="1" colspan="1" class="error">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_5\_10XMem](#cases-min-k-numbers.Test_5_10XMem)
+</td>
+<td rowspan="1" colspan="2" class="error">
+Out of memory
+</td>
+<td rowspan="1" colspan="1" class="error">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_5](#cases-min-k-numbers.Test_5)
+</td>
+<td rowspan="1" colspan="2" class="error">
+Out of memory
+</td>
+<td rowspan="1" colspan="1" class="error">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_5\_Small](#cases-min-k-numbers.Test_5_Small)
+</td>
+<td rowspan="1" colspan="2" class="error">
+Out of memory
+</td>
+<td rowspan="1" colspan="1" class="error">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_5\_tiny](#cases-min-k-numbers.Test_5_tiny)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3688
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="5" colspan="1" class>
+queens
+</td>
+<td rowspan="1" colspan="1" class>
+[Test\_1](#cases-queens.Test_1)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3428
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+<td rowspan="5" colspan="1" class>
+100
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_2](#cases-queens.Test_2)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3488
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_3](#cases-queens.Test_3)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3408
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_4](#cases-queens.Test_4)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3984
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_5](#cases-queens.Test_5)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3436
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class="person-summary">
+s2013013341
+</td>
+<td rowspan="1" colspan="2" class="person-summary">
+ 
+</td>
+<td rowspan="1" colspan="1" class="person-summary">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="person-summary">
+32536
+</td>
+<td rowspan="1" colspan="1" class="person-summary">
+ 
+</td>
+<td rowspan="1" colspan="1" class="person-summary">
+160
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="7" class="person-start">
+<a name="person-s2013013344"></a>s2013013344 ([back](#menu-person-list))
+</td>
+</tr>
+<tr>
+<td rowspan="16" colspan="1" class>
+s2013013344
+</td>
+<td rowspan="11" colspan="1" class>
+min-k-numbers
+</td>
+<td rowspan="1" colspan="1" class>
+[Test\_1](#cases-min-k-numbers.Test_1)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3320
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+<td rowspan="11" colspan="1" class>
+60
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_2](#cases-min-k-numbers.Test_2)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3360
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_3](#cases-min-k-numbers.Test_3)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3328
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_4\_10XMem](#cases-min-k-numbers.Test_4_10XMem)
+</td>
+<td rowspan="1" colspan="2" class="error">
+Out of memory
+</td>
+<td rowspan="1" colspan="1" class="error">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_4](#cases-min-k-numbers.Test_4)
+</td>
+<td rowspan="1" colspan="2" class="error">
+Out of memory
+</td>
+<td rowspan="1" colspan="1" class="error">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_4\_Small](#cases-min-k-numbers.Test_4_Small)
+</td>
+<td rowspan="1" colspan="2" class="error">
+Out of memory
+</td>
+<td rowspan="1" colspan="1" class="error">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_4\_tiny](#cases-min-k-numbers.Test_4_tiny)
+</td>
+<td rowspan="1" colspan="2" class="error">
+Out of memory
+</td>
+<td rowspan="1" colspan="1" class="error">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_5\_10XMem](#cases-min-k-numbers.Test_5_10XMem)
+</td>
+<td rowspan="1" colspan="2" class="error">
+Out of memory
+</td>
+<td rowspan="1" colspan="1" class="error">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_5](#cases-min-k-numbers.Test_5)
+</td>
+<td rowspan="1" colspan="2" class="error">
+Out of memory
+</td>
+<td rowspan="1" colspan="1" class="error">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_5\_Small](#cases-min-k-numbers.Test_5_Small)
+</td>
+<td rowspan="1" colspan="2" class="error">
+Out of memory
+</td>
+<td rowspan="1" colspan="1" class="error">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_5\_tiny](#cases-min-k-numbers.Test_5_tiny)
+</td>
+<td rowspan="1" colspan="2" class="error">
+Out of memory
+</td>
+<td rowspan="1" colspan="1" class="error">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="5" colspan="1" class>
+queens
+</td>
+<td rowspan="1" colspan="1" class>
+[Test\_1](#cases-queens.Test_1)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3316
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+<td rowspan="5" colspan="1" class>
+100
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_2](#cases-queens.Test_2)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.48
+</td>
+<td rowspan="1" colspan="1" class="correct">
+6908
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_3](#cases-queens.Test_3)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3964
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -13997,7 +13994,7 @@ queens
 0.44
 </td>
 <td rowspan="1" colspan="1" class="correct">
-6916
+6876
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -14011,10 +14008,10 @@ s2013013344
  
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
-0.90
+0.92
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
-35232
+35064
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
  
@@ -14042,724 +14039,7 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3336
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-<td rowspan="11" colspan="1" class>
-60
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_2](#cases-min-k-numbers.Test_2)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3324
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_3](#cases-min-k-numbers.Test_3)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3488
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_4\_10XMem](#cases-min-k-numbers.Test_4_10XMem)
-</td>
-<td rowspan="1" colspan="2" class="error">
-Out of memory
-</td>
-<td rowspan="1" colspan="1" class="error">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_4](#cases-min-k-numbers.Test_4)
-</td>
-<td rowspan="1" colspan="2" class="error">
-Out of memory
-</td>
-<td rowspan="1" colspan="1" class="error">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_4\_Small](#cases-min-k-numbers.Test_4_Small)
-</td>
-<td rowspan="1" colspan="2" class="error">
-Out of memory
-</td>
-<td rowspan="1" colspan="1" class="error">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_4\_tiny](#cases-min-k-numbers.Test_4_tiny)
-</td>
-<td rowspan="1" colspan="2" class="error">
-Out of memory
-</td>
-<td rowspan="1" colspan="1" class="error">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_5\_10XMem](#cases-min-k-numbers.Test_5_10XMem)
-</td>
-<td rowspan="1" colspan="2" class="error">
-Out of memory
-</td>
-<td rowspan="1" colspan="1" class="error">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_5](#cases-min-k-numbers.Test_5)
-</td>
-<td rowspan="1" colspan="2" class="error">
-Out of memory
-</td>
-<td rowspan="1" colspan="1" class="error">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_5\_Small](#cases-min-k-numbers.Test_5_Small)
-</td>
-<td rowspan="1" colspan="2" class="error">
-Out of memory
-</td>
-<td rowspan="1" colspan="1" class="error">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_5\_tiny](#cases-min-k-numbers.Test_5_tiny)
-</td>
-<td rowspan="1" colspan="2" class="error">
-Out of memory
-</td>
-<td rowspan="1" colspan="1" class="error">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="5" colspan="1" class>
-queens
-</td>
-<td rowspan="1" colspan="1" class>
-[Test\_1](#cases-queens.Test_1)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.02
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3804
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-<td rowspan="5" colspan="1" class>
-100
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_2](#cases-queens.Test_2)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3872
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_3](#cases-queens.Test_3)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3416
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_4](#cases-queens.Test_4)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3852
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_5](#cases-queens.Test_5)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3876
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class="person-summary">
-s2013080030
-</td>
-<td rowspan="1" colspan="2" class="person-summary">
- 
-</td>
-<td rowspan="1" colspan="1" class="person-summary">
-0.02
-</td>
-<td rowspan="1" colspan="1" class="person-summary">
-28968
-</td>
-<td rowspan="1" colspan="1" class="person-summary">
- 
-</td>
-<td rowspan="1" colspan="1" class="person-summary">
-160
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="7" class="person-start">
-<a name="person-s2013080034"></a>s2013080034 ([back](#menu-person-list))
-</td>
-</tr>
-<tr>
-<td rowspan="16" colspan="1" class>
-s2013080034
-</td>
-<td rowspan="11" colspan="1" class>
-min-k-numbers
-</td>
-<td rowspan="1" colspan="1" class>
-[Test\_1](#cases-min-k-numbers.Test_1)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3376
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-<td rowspan="11" colspan="1" class>
-60
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_2](#cases-min-k-numbers.Test_2)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3400
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_3](#cases-min-k-numbers.Test_3)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3332
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_4\_10XMem](#cases-min-k-numbers.Test_4_10XMem)
-</td>
-<td rowspan="1" colspan="2" class="error">
-Out of memory
-</td>
-<td rowspan="1" colspan="1" class="error">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_4](#cases-min-k-numbers.Test_4)
-</td>
-<td rowspan="1" colspan="2" class="error">
-Out of memory
-</td>
-<td rowspan="1" colspan="1" class="error">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_4\_Small](#cases-min-k-numbers.Test_4_Small)
-</td>
-<td rowspan="1" colspan="2" class="error">
-Out of memory
-</td>
-<td rowspan="1" colspan="1" class="error">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_4\_tiny](#cases-min-k-numbers.Test_4_tiny)
-</td>
-<td rowspan="1" colspan="2" class="error">
-Out of memory
-</td>
-<td rowspan="1" colspan="1" class="error">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_5\_10XMem](#cases-min-k-numbers.Test_5_10XMem)
-</td>
-<td rowspan="1" colspan="2" class="error">
-Out of memory
-</td>
-<td rowspan="1" colspan="1" class="error">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_5](#cases-min-k-numbers.Test_5)
-</td>
-<td rowspan="1" colspan="2" class="error">
-Out of memory
-</td>
-<td rowspan="1" colspan="1" class="error">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_5\_Small](#cases-min-k-numbers.Test_5_Small)
-</td>
-<td rowspan="1" colspan="2" class="error">
-Out of memory
-</td>
-<td rowspan="1" colspan="1" class="error">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_5\_tiny](#cases-min-k-numbers.Test_5_tiny)
-</td>
-<td rowspan="1" colspan="2" class="error">
-Out of memory
-</td>
-<td rowspan="1" colspan="1" class="error">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="5" colspan="1" class>
-queens
-</td>
-<td rowspan="1" colspan="1" class>
-[Test\_1](#cases-queens.Test_1)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.02
-</td>
-<td rowspan="1" colspan="1" class="correct">
-4024
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-<td rowspan="5" colspan="1" class>
-100
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_2](#cases-queens.Test_2)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3860
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_3](#cases-queens.Test_3)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3416
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_4](#cases-queens.Test_4)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3856
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_5](#cases-queens.Test_5)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3880
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class="person-summary">
-s2013080034
-</td>
-<td rowspan="1" colspan="2" class="person-summary">
- 
-</td>
-<td rowspan="1" colspan="1" class="person-summary">
-0.02
-</td>
-<td rowspan="1" colspan="1" class="person-summary">
-29144
-</td>
-<td rowspan="1" colspan="1" class="person-summary">
- 
-</td>
-<td rowspan="1" colspan="1" class="person-summary">
-160
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="7" class="person-start">
-<a name="person-s2013080035"></a>s2013080035 ([back](#menu-person-list))
-</td>
-</tr>
-<tr>
-<td rowspan="16" colspan="1" class>
-s2013080035
-</td>
-<td rowspan="11" colspan="1" class>
-min-k-numbers
-</td>
-<td rowspan="1" colspan="1" class>
-[Test\_1](#cases-min-k-numbers.Test_1)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3344
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-<td rowspan="11" colspan="1" class>
-60
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_2](#cases-min-k-numbers.Test_2)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3440
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_3](#cases-min-k-numbers.Test_3)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3380
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_4\_10XMem](#cases-min-k-numbers.Test_4_10XMem)
-</td>
-<td rowspan="1" colspan="2" class="error">
-Out of memory
-</td>
-<td rowspan="1" colspan="1" class="error">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_4](#cases-min-k-numbers.Test_4)
-</td>
-<td rowspan="1" colspan="2" class="error">
-Out of memory
-</td>
-<td rowspan="1" colspan="1" class="error">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_4\_Small](#cases-min-k-numbers.Test_4_Small)
-</td>
-<td rowspan="1" colspan="2" class="error">
-Out of memory
-</td>
-<td rowspan="1" colspan="1" class="error">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_4\_tiny](#cases-min-k-numbers.Test_4_tiny)
-</td>
-<td rowspan="1" colspan="2" class="error">
-Out of memory
-</td>
-<td rowspan="1" colspan="1" class="error">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_5\_10XMem](#cases-min-k-numbers.Test_5_10XMem)
-</td>
-<td rowspan="1" colspan="2" class="error">
-Out of memory
-</td>
-<td rowspan="1" colspan="1" class="error">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_5](#cases-min-k-numbers.Test_5)
-</td>
-<td rowspan="1" colspan="2" class="error">
-Out of memory
-</td>
-<td rowspan="1" colspan="1" class="error">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_5\_Small](#cases-min-k-numbers.Test_5_Small)
-</td>
-<td rowspan="1" colspan="2" class="error">
-Out of memory
-</td>
-<td rowspan="1" colspan="1" class="error">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_5\_tiny](#cases-min-k-numbers.Test_5_tiny)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3724
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="5" colspan="1" class>
-queens
-</td>
-<td rowspan="1" colspan="1" class>
-[Test\_1](#cases-queens.Test_1)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3368
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-<td rowspan="5" colspan="1" class>
-60
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_2](#cases-queens.Test_2)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3484
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_3](#cases-queens.Test_3)
-</td>
-<td rowspan="1" colspan="2" class="wrong">
-Wrong answer
-</td>
-<td rowspan="1" colspan="1" class="wrong">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_4](#cases-queens.Test_4)
-</td>
-<td rowspan="1" colspan="2" class="wrong">
-Wrong answer
-</td>
-<td rowspan="1" colspan="1" class="wrong">
-0
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class>
-[Test\_5](#cases-queens.Test_5)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3268
-</td>
-<td rowspan="1" colspan="1" class="correct">
-20
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" class="person-summary">
-s2013080035
-</td>
-<td rowspan="1" colspan="2" class="person-summary">
- 
-</td>
-<td rowspan="1" colspan="1" class="person-summary">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="person-summary">
-24008
-</td>
-<td rowspan="1" colspan="1" class="person-summary">
- 
-</td>
-<td rowspan="1" colspan="1" class="person-summary">
-120
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="7" class="person-start">
-<a name="person-s2014013428"></a>s2014013428 ([back](#menu-person-list))
-</td>
-</tr>
-<tr>
-<td rowspan="16" colspan="1" class>
-s2014013428
-</td>
-<td rowspan="11" colspan="1" class>
-min-k-numbers
-</td>
-<td rowspan="1" colspan="1" class>
-[Test\_1](#cases-min-k-numbers.Test_1)
-</td>
-<td rowspan="1" colspan="1" class="correct">
-0.00
-</td>
-<td rowspan="1" colspan="1" class="correct">
-3468
+3364
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -14790,6 +14070,723 @@ min-k-numbers
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
+3316
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_4\_10XMem](#cases-min-k-numbers.Test_4_10XMem)
+</td>
+<td rowspan="1" colspan="2" class="error">
+Out of memory
+</td>
+<td rowspan="1" colspan="1" class="error">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_4](#cases-min-k-numbers.Test_4)
+</td>
+<td rowspan="1" colspan="2" class="error">
+Out of memory
+</td>
+<td rowspan="1" colspan="1" class="error">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_4\_Small](#cases-min-k-numbers.Test_4_Small)
+</td>
+<td rowspan="1" colspan="2" class="error">
+Out of memory
+</td>
+<td rowspan="1" colspan="1" class="error">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_4\_tiny](#cases-min-k-numbers.Test_4_tiny)
+</td>
+<td rowspan="1" colspan="2" class="error">
+Out of memory
+</td>
+<td rowspan="1" colspan="1" class="error">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_5\_10XMem](#cases-min-k-numbers.Test_5_10XMem)
+</td>
+<td rowspan="1" colspan="2" class="error">
+Out of memory
+</td>
+<td rowspan="1" colspan="1" class="error">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_5](#cases-min-k-numbers.Test_5)
+</td>
+<td rowspan="1" colspan="2" class="error">
+Out of memory
+</td>
+<td rowspan="1" colspan="1" class="error">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_5\_Small](#cases-min-k-numbers.Test_5_Small)
+</td>
+<td rowspan="1" colspan="2" class="error">
+Out of memory
+</td>
+<td rowspan="1" colspan="1" class="error">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_5\_tiny](#cases-min-k-numbers.Test_5_tiny)
+</td>
+<td rowspan="1" colspan="2" class="error">
+Out of memory
+</td>
+<td rowspan="1" colspan="1" class="error">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="5" colspan="1" class>
+queens
+</td>
+<td rowspan="1" colspan="1" class>
+[Test\_1](#cases-queens.Test_1)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.02
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3808
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+<td rowspan="5" colspan="1" class>
+100
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_2](#cases-queens.Test_2)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3792
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_3](#cases-queens.Test_3)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3456
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_4](#cases-queens.Test_4)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3992
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_5](#cases-queens.Test_5)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3832
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class="person-summary">
+s2013080030
+</td>
+<td rowspan="1" colspan="2" class="person-summary">
+ 
+</td>
+<td rowspan="1" colspan="1" class="person-summary">
+0.02
+</td>
+<td rowspan="1" colspan="1" class="person-summary">
+29004
+</td>
+<td rowspan="1" colspan="1" class="person-summary">
+ 
+</td>
+<td rowspan="1" colspan="1" class="person-summary">
+160
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="7" class="person-start">
+<a name="person-s2013080034"></a>s2013080034 ([back](#menu-person-list))
+</td>
+</tr>
+<tr>
+<td rowspan="16" colspan="1" class>
+s2013080034
+</td>
+<td rowspan="11" colspan="1" class>
+min-k-numbers
+</td>
+<td rowspan="1" colspan="1" class>
+[Test\_1](#cases-min-k-numbers.Test_1)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3420
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+<td rowspan="11" colspan="1" class>
+60
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_2](#cases-min-k-numbers.Test_2)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3396
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_3](#cases-min-k-numbers.Test_3)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3272
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_4\_10XMem](#cases-min-k-numbers.Test_4_10XMem)
+</td>
+<td rowspan="1" colspan="2" class="error">
+Out of memory
+</td>
+<td rowspan="1" colspan="1" class="error">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_4](#cases-min-k-numbers.Test_4)
+</td>
+<td rowspan="1" colspan="2" class="error">
+Out of memory
+</td>
+<td rowspan="1" colspan="1" class="error">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_4\_Small](#cases-min-k-numbers.Test_4_Small)
+</td>
+<td rowspan="1" colspan="2" class="error">
+Out of memory
+</td>
+<td rowspan="1" colspan="1" class="error">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_4\_tiny](#cases-min-k-numbers.Test_4_tiny)
+</td>
+<td rowspan="1" colspan="2" class="error">
+Out of memory
+</td>
+<td rowspan="1" colspan="1" class="error">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_5\_10XMem](#cases-min-k-numbers.Test_5_10XMem)
+</td>
+<td rowspan="1" colspan="2" class="error">
+Out of memory
+</td>
+<td rowspan="1" colspan="1" class="error">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_5](#cases-min-k-numbers.Test_5)
+</td>
+<td rowspan="1" colspan="2" class="error">
+Out of memory
+</td>
+<td rowspan="1" colspan="1" class="error">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_5\_Small](#cases-min-k-numbers.Test_5_Small)
+</td>
+<td rowspan="1" colspan="2" class="error">
+Out of memory
+</td>
+<td rowspan="1" colspan="1" class="error">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_5\_tiny](#cases-min-k-numbers.Test_5_tiny)
+</td>
+<td rowspan="1" colspan="2" class="error">
+Out of memory
+</td>
+<td rowspan="1" colspan="1" class="error">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="5" colspan="1" class>
+queens
+</td>
+<td rowspan="1" colspan="1" class>
+[Test\_1](#cases-queens.Test_1)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.02
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3872
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+<td rowspan="5" colspan="1" class>
+100
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_2](#cases-queens.Test_2)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3876
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_3](#cases-queens.Test_3)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3420
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_4](#cases-queens.Test_4)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3788
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_5](#cases-queens.Test_5)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3952
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class="person-summary">
+s2013080034
+</td>
+<td rowspan="1" colspan="2" class="person-summary">
+ 
+</td>
+<td rowspan="1" colspan="1" class="person-summary">
+0.02
+</td>
+<td rowspan="1" colspan="1" class="person-summary">
+28996
+</td>
+<td rowspan="1" colspan="1" class="person-summary">
+ 
+</td>
+<td rowspan="1" colspan="1" class="person-summary">
+160
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="7" class="person-start">
+<a name="person-s2013080035"></a>s2013080035 ([back](#menu-person-list))
+</td>
+</tr>
+<tr>
+<td rowspan="16" colspan="1" class>
+s2013080035
+</td>
+<td rowspan="11" colspan="1" class>
+min-k-numbers
+</td>
+<td rowspan="1" colspan="1" class>
+[Test\_1](#cases-min-k-numbers.Test_1)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3320
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+<td rowspan="11" colspan="1" class>
+60
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_2](#cases-min-k-numbers.Test_2)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3356
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_3](#cases-min-k-numbers.Test_3)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3336
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_4\_10XMem](#cases-min-k-numbers.Test_4_10XMem)
+</td>
+<td rowspan="1" colspan="2" class="error">
+Out of memory
+</td>
+<td rowspan="1" colspan="1" class="error">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_4](#cases-min-k-numbers.Test_4)
+</td>
+<td rowspan="1" colspan="2" class="error">
+Out of memory
+</td>
+<td rowspan="1" colspan="1" class="error">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_4\_Small](#cases-min-k-numbers.Test_4_Small)
+</td>
+<td rowspan="1" colspan="2" class="error">
+Out of memory
+</td>
+<td rowspan="1" colspan="1" class="error">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_4\_tiny](#cases-min-k-numbers.Test_4_tiny)
+</td>
+<td rowspan="1" colspan="2" class="error">
+Out of memory
+</td>
+<td rowspan="1" colspan="1" class="error">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_5\_10XMem](#cases-min-k-numbers.Test_5_10XMem)
+</td>
+<td rowspan="1" colspan="2" class="error">
+Out of memory
+</td>
+<td rowspan="1" colspan="1" class="error">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_5](#cases-min-k-numbers.Test_5)
+</td>
+<td rowspan="1" colspan="2" class="error">
+Out of memory
+</td>
+<td rowspan="1" colspan="1" class="error">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_5\_Small](#cases-min-k-numbers.Test_5_Small)
+</td>
+<td rowspan="1" colspan="2" class="error">
+Out of memory
+</td>
+<td rowspan="1" colspan="1" class="error">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_5\_tiny](#cases-min-k-numbers.Test_5_tiny)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3592
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="5" colspan="1" class>
+queens
+</td>
+<td rowspan="1" colspan="1" class>
+[Test\_1](#cases-queens.Test_1)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3476
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+<td rowspan="5" colspan="1" class>
+60
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_2](#cases-queens.Test_2)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3316
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_3](#cases-queens.Test_3)
+</td>
+<td rowspan="1" colspan="2" class="wrong">
+Wrong answer
+</td>
+<td rowspan="1" colspan="1" class="wrong">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_4](#cases-queens.Test_4)
+</td>
+<td rowspan="1" colspan="2" class="wrong">
+Wrong answer
+</td>
+<td rowspan="1" colspan="1" class="wrong">
+0
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_5](#cases-queens.Test_5)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3272
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class="person-summary">
+s2013080035
+</td>
+<td rowspan="1" colspan="2" class="person-summary">
+ 
+</td>
+<td rowspan="1" colspan="1" class="person-summary">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="person-summary">
+23668
+</td>
+<td rowspan="1" colspan="1" class="person-summary">
+ 
+</td>
+<td rowspan="1" colspan="1" class="person-summary">
+120
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="7" class="person-start">
+<a name="person-s2014013428"></a>s2014013428 ([back](#menu-person-list))
+</td>
+</tr>
+<tr>
+<td rowspan="16" colspan="1" class>
+s2014013428
+</td>
+<td rowspan="11" colspan="1" class>
+min-k-numbers
+</td>
+<td rowspan="1" colspan="1" class>
+[Test\_1](#cases-min-k-numbers.Test_1)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3428
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+<td rowspan="11" colspan="1" class>
+60
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_2](#cases-min-k-numbers.Test_2)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
+3372
+</td>
+<td rowspan="1" colspan="1" class="correct">
+20
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" class>
+[Test\_3](#cases-min-k-numbers.Test_3)
+</td>
+<td rowspan="1" colspan="1" class="correct">
+0.00
+</td>
+<td rowspan="1" colspan="1" class="correct">
 3332
 </td>
 <td rowspan="1" colspan="1" class="correct">
@@ -14826,7 +14823,7 @@ Out of memory
 0.01
 </td>
 <td rowspan="1" colspan="1" class="correct">
-10180
+10104
 </td>
 <td rowspan="1" colspan="1" class="correct">
 0
@@ -14837,10 +14834,10 @@ Out of memory
 [Test\_4\_tiny](#cases-min-k-numbers.Test_4_tiny)
 </td>
 <td rowspan="1" colspan="1" class="correct">
-0.01
+0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-10216
+10232
 </td>
 <td rowspan="1" colspan="1" class="correct">
 0
@@ -14876,7 +14873,7 @@ Out of memory
 0.01
 </td>
 <td rowspan="1" colspan="1" class="correct">
-10072
+10068
 </td>
 <td rowspan="1" colspan="1" class="correct">
 0
@@ -14890,7 +14887,7 @@ Out of memory
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3572
+3584
 </td>
 <td rowspan="1" colspan="1" class="correct">
 0
@@ -14907,7 +14904,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3588
+3448
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -14924,7 +14921,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3416
+3452
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -14938,7 +14935,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3336
+3356
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -14952,7 +14949,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3496
+3372
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -14966,7 +14963,7 @@ queens
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3488
+3292
 </td>
 <td rowspan="1" colspan="1" class="correct">
 20
@@ -14980,10 +14977,10 @@ s2014013428
  
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
-0.03
+0.02
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
-61608
+61040
 </td>
 <td rowspan="1" colspan="1" class="person-summary">
  
@@ -15223,13 +15220,13 @@ min-k-numbers
 0
 </td>
 <td rowspan="1" colspan="1" class="needs-attention">
-22 (35%)
+21 (33%)
 </td>
 <td rowspan="1" colspan="1" class>
 1 (1%)
 </td>
 <td rowspan="1" colspan="1" class>
-38 (61%)
+39 (62%)
 </td>
 <td rowspan="1" colspan="1" class>
 1 (1%)
@@ -15605,7 +15602,7 @@ Test\_1
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3364
+3324
 </td>
 </tr>
 <tr>
@@ -15616,7 +15613,7 @@ Test\_1
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3436
+3316
 </td>
 </tr>
 <tr>
@@ -15635,7 +15632,7 @@ Solution not found
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3472
+3460
 </td>
 </tr>
 <tr>
@@ -15646,7 +15643,7 @@ Solution not found
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3276
+3336
 </td>
 </tr>
 <tr>
@@ -15657,7 +15654,7 @@ Solution not found
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3336
+3368
 </td>
 </tr>
 <tr>
@@ -15668,7 +15665,7 @@ Solution not found
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3356
+3344
 </td>
 </tr>
 <tr>
@@ -15679,7 +15676,7 @@ Solution not found
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3960
+3824
 </td>
 </tr>
 <tr>
@@ -15690,7 +15687,7 @@ Solution not found
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3424
+3352
 </td>
 </tr>
 <tr>
@@ -15701,7 +15698,7 @@ Solution not found
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3420
+3316
 </td>
 </tr>
 <tr>
@@ -15712,7 +15709,7 @@ Solution not found
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3352
+3340
 </td>
 </tr>
 <tr>
@@ -15723,7 +15720,7 @@ Solution not found
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3472
+3332
 </td>
 </tr>
 <tr>
@@ -15734,7 +15731,7 @@ Solution not found
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3432
+3312
 </td>
 </tr>
 <tr>
@@ -15745,7 +15742,7 @@ Solution not found
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3312
+3336
 </td>
 </tr>
 <tr>
@@ -15756,7 +15753,7 @@ Solution not found
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3368
+3324
 </td>
 </tr>
 <tr>
@@ -15767,7 +15764,7 @@ Solution not found
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3348
+3336
 </td>
 </tr>
 <tr>
@@ -15789,7 +15786,7 @@ Solution not found
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3336
+3380
 </td>
 </tr>
 <tr>
@@ -15800,7 +15797,7 @@ Solution not found
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3428
+3368
 </td>
 </tr>
 <tr>
@@ -15811,7 +15808,7 @@ Solution not found
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3384
+3344
 </td>
 </tr>
 <tr>
@@ -15822,7 +15819,7 @@ Solution not found
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3428
+3468
 </td>
 </tr>
 <tr>
@@ -15833,7 +15830,7 @@ Solution not found
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3428
+3476
 </td>
 </tr>
 <tr>
@@ -15844,7 +15841,7 @@ Solution not found
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3468
+3360
 </td>
 </tr>
 <tr>
@@ -15855,7 +15852,7 @@ Solution not found
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3368
+3492
 </td>
 </tr>
 <tr>
@@ -15866,7 +15863,7 @@ Solution not found
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3332
+3328
 </td>
 </tr>
 <tr>
@@ -15877,7 +15874,7 @@ Solution not found
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3316
+3484
 </td>
 </tr>
 <tr>
@@ -15888,7 +15885,7 @@ Solution not found
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3332
+3364
 </td>
 </tr>
 <tr>
@@ -15899,7 +15896,7 @@ Solution not found
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3496
+3276
 </td>
 </tr>
 <tr>
@@ -15910,7 +15907,7 @@ Solution not found
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3472
+3488
 </td>
 </tr>
 <tr>
@@ -15921,7 +15918,7 @@ Solution not found
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3324
+3316
 </td>
 </tr>
 <tr>
@@ -15932,7 +15929,7 @@ Solution not found
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3336
+3432
 </td>
 </tr>
 <tr>
@@ -15943,7 +15940,7 @@ Solution not found
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3428
+3328
 </td>
 </tr>
 <tr>
@@ -15954,7 +15951,7 @@ Solution not found
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3364
+3308
 </td>
 </tr>
 <tr>
@@ -15965,7 +15962,7 @@ Solution not found
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3344
+3348
 </td>
 </tr>
 <tr>
@@ -15976,7 +15973,7 @@ Solution not found
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3428
+3364
 </td>
 </tr>
 <tr>
@@ -15987,7 +15984,7 @@ Solution not found
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3468
+3340
 </td>
 </tr>
 <tr>
@@ -15998,7 +15995,7 @@ Solution not found
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3344
+3348
 </td>
 </tr>
 <tr>
@@ -16017,7 +16014,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3432
+3428
 </td>
 </tr>
 <tr>
@@ -16028,7 +16025,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3380
+3372
 </td>
 </tr>
 <tr>
@@ -16039,7 +16036,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3332
+3272
 </td>
 </tr>
 <tr>
@@ -16050,7 +16047,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3348
+3316
 </td>
 </tr>
 <tr>
@@ -16061,7 +16058,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3352
+3364
 </td>
 </tr>
 <tr>
@@ -16072,7 +16069,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3328
+3344
 </td>
 </tr>
 <tr>
@@ -16094,7 +16091,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3356
+3468
 </td>
 </tr>
 <tr>
@@ -16105,7 +16102,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3476
+3472
 </td>
 </tr>
 <tr>
@@ -16127,7 +16124,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3348
+3340
 </td>
 </tr>
 <tr>
@@ -16138,7 +16135,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3352
+3468
 </td>
 </tr>
 <tr>
@@ -16149,7 +16146,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3484
+3384
 </td>
 </tr>
 <tr>
@@ -16160,7 +16157,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3372
+3424
 </td>
 </tr>
 <tr>
@@ -16171,7 +16168,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3420
+3272
 </td>
 </tr>
 <tr>
@@ -16182,7 +16179,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3428
+3420
 </td>
 </tr>
 <tr>
@@ -16193,7 +16190,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3268
+3316
 </td>
 </tr>
 <tr>
@@ -16204,7 +16201,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3368
+3272
 </td>
 </tr>
 <tr>
@@ -16215,7 +16212,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3580
+3720
 </td>
 </tr>
 <tr>
@@ -16226,7 +16223,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3348
+3320
 </td>
 </tr>
 <tr>
@@ -16237,7 +16234,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3336
+3364
 </td>
 </tr>
 <tr>
@@ -16248,7 +16245,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3376
+3420
 </td>
 </tr>
 <tr>
@@ -16259,7 +16256,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3344
+3320
 </td>
 </tr>
 <tr>
@@ -16270,7 +16267,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3468
+3428
 </td>
 </tr>
 <tr>
@@ -16295,7 +16292,7 @@ Test\_2
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3348
+3360
 </td>
 </tr>
 <tr>
@@ -16306,7 +16303,7 @@ Test\_2
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3412
+3600
 </td>
 </tr>
 <tr>
@@ -16325,7 +16322,7 @@ Solution not found
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3488
+3436
 </td>
 </tr>
 <tr>
@@ -16336,7 +16333,7 @@ Solution not found
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3392
+3396
 </td>
 </tr>
 <tr>
@@ -16347,7 +16344,7 @@ Solution not found
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3444
+3368
 </td>
 </tr>
 <tr>
@@ -16358,7 +16355,7 @@ Solution not found
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3348
+3500
 </td>
 </tr>
 <tr>
@@ -16369,7 +16366,7 @@ Solution not found
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3888
+3856
 </td>
 </tr>
 <tr>
@@ -16380,7 +16377,7 @@ Solution not found
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3484
+3368
 </td>
 </tr>
 <tr>
@@ -16391,7 +16388,7 @@ Solution not found
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3484
+3420
 </td>
 </tr>
 <tr>
@@ -16402,7 +16399,7 @@ Solution not found
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3376
+3284
 </td>
 </tr>
 <tr>
@@ -16413,7 +16410,7 @@ Solution not found
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3416
+3420
 </td>
 </tr>
 <tr>
@@ -16424,7 +16421,7 @@ Solution not found
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3352
+3452
 </td>
 </tr>
 <tr>
@@ -16435,7 +16432,7 @@ Solution not found
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3292
+3368
 </td>
 </tr>
 <tr>
@@ -16446,7 +16443,7 @@ Solution not found
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3360
+3440
 </td>
 </tr>
 <tr>
@@ -16457,7 +16454,7 @@ Solution not found
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3548
+3528
 </td>
 </tr>
 <tr>
@@ -16468,7 +16465,7 @@ Solution not found
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3344
+3324
 </td>
 </tr>
 <tr>
@@ -16479,7 +16476,7 @@ Solution not found
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3352
+3376
 </td>
 </tr>
 <tr>
@@ -16490,7 +16487,7 @@ Solution not found
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3364
+3348
 </td>
 </tr>
 <tr>
@@ -16501,7 +16498,7 @@ Solution not found
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3364
+3336
 </td>
 </tr>
 <tr>
@@ -16512,7 +16509,7 @@ Solution not found
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3440
+3348
 </td>
 </tr>
 <tr>
@@ -16523,7 +16520,7 @@ Solution not found
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3356
+3436
 </td>
 </tr>
 <tr>
@@ -16534,7 +16531,7 @@ Solution not found
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3416
+3388
 </td>
 </tr>
 <tr>
@@ -16545,7 +16542,7 @@ Solution not found
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3396
+3536
 </td>
 </tr>
 <tr>
@@ -16556,7 +16553,7 @@ Solution not found
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3548
+3432
 </td>
 </tr>
 <tr>
@@ -16567,7 +16564,7 @@ Solution not found
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3336
+3448
 </td>
 </tr>
 <tr>
@@ -16578,7 +16575,7 @@ Solution not found
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3432
+3392
 </td>
 </tr>
 <tr>
@@ -16589,7 +16586,7 @@ Solution not found
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3532
+3396
 </td>
 </tr>
 <tr>
@@ -16600,7 +16597,7 @@ Solution not found
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3352
+3368
 </td>
 </tr>
 <tr>
@@ -16611,7 +16608,7 @@ Solution not found
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3344
+3340
 </td>
 </tr>
 <tr>
@@ -16622,7 +16619,7 @@ Solution not found
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3396
+3404
 </td>
 </tr>
 <tr>
@@ -16633,7 +16630,7 @@ Solution not found
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3512
+3356
 </td>
 </tr>
 <tr>
@@ -16644,7 +16641,7 @@ Solution not found
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3640
+3472
 </td>
 </tr>
 <tr>
@@ -16655,7 +16652,7 @@ Solution not found
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3340
+3356
 </td>
 </tr>
 <tr>
@@ -16666,7 +16663,7 @@ Solution not found
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3524
+3332
 </td>
 </tr>
 <tr>
@@ -16677,7 +16674,7 @@ Solution not found
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3616
+3560
 </td>
 </tr>
 <tr>
@@ -16688,7 +16685,7 @@ Solution not found
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3376
+3368
 </td>
 </tr>
 <tr>
@@ -16707,7 +16704,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3292
+3500
 </td>
 </tr>
 <tr>
@@ -16718,7 +16715,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3332
+3500
 </td>
 </tr>
 <tr>
@@ -16729,7 +16726,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3444
+3352
 </td>
 </tr>
 <tr>
@@ -16740,7 +16737,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3360
+3432
 </td>
 </tr>
 <tr>
@@ -16751,7 +16748,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3344
+3444
 </td>
 </tr>
 <tr>
@@ -16762,7 +16759,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3440
+3352
 </td>
 </tr>
 <tr>
@@ -16773,7 +16770,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3388
+3324
 </td>
 </tr>
 <tr>
@@ -16784,7 +16781,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3372
+3424
 </td>
 </tr>
 <tr>
@@ -16795,7 +16792,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3360
+3436
 </td>
 </tr>
 <tr>
@@ -16806,7 +16803,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3392
+3352
 </td>
 </tr>
 <tr>
@@ -16817,7 +16814,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3352
+3340
 </td>
 </tr>
 <tr>
@@ -16828,7 +16825,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3392
+3348
 </td>
 </tr>
 <tr>
@@ -16839,7 +16836,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3408
+3372
 </td>
 </tr>
 <tr>
@@ -16850,7 +16847,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3364
+3440
 </td>
 </tr>
 <tr>
@@ -16861,7 +16858,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3376
+3372
 </td>
 </tr>
 <tr>
@@ -16872,7 +16869,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3504
+3376
 </td>
 </tr>
 <tr>
@@ -16883,7 +16880,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3436
+3388
 </td>
 </tr>
 <tr>
@@ -16894,7 +16891,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3372
+3548
 </td>
 </tr>
 <tr>
@@ -16905,7 +16902,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3728
+3788
 </td>
 </tr>
 <tr>
@@ -16916,7 +16913,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3428
+3360
 </td>
 </tr>
 <tr>
@@ -16927,7 +16924,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3324
+3444
 </td>
 </tr>
 <tr>
@@ -16938,7 +16935,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3400
+3396
 </td>
 </tr>
 <tr>
@@ -16949,7 +16946,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3440
+3356
 </td>
 </tr>
 <tr>
@@ -16960,7 +16957,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3444
+3372
 </td>
 </tr>
 <tr>
@@ -16985,7 +16982,7 @@ Test\_3
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3324
+3272
 </td>
 </tr>
 <tr>
@@ -16996,7 +16993,7 @@ Test\_3
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3332
+3324
 </td>
 </tr>
 <tr>
@@ -17015,7 +17012,7 @@ Solution not found
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3376
+3372
 </td>
 </tr>
 <tr>
@@ -17034,7 +17031,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3328
+3380
 </td>
 </tr>
 <tr>
@@ -17045,7 +17042,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3468
+3348
 </td>
 </tr>
 <tr>
@@ -17056,7 +17053,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3768
+3744
 </td>
 </tr>
 <tr>
@@ -17067,7 +17064,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3328
+3372
 </td>
 </tr>
 <tr>
@@ -17078,7 +17075,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3352
+3344
 </td>
 </tr>
 <tr>
@@ -17089,7 +17086,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3488
+3432
 </td>
 </tr>
 <tr>
@@ -17100,7 +17097,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3328
+3324
 </td>
 </tr>
 <tr>
@@ -17111,7 +17108,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3336
+3340
 </td>
 </tr>
 <tr>
@@ -17122,7 +17119,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3360
+3388
 </td>
 </tr>
 <tr>
@@ -17144,7 +17141,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3448
+3476
 </td>
 </tr>
 <tr>
@@ -17155,7 +17152,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3288
+3364
 </td>
 </tr>
 <tr>
@@ -17166,7 +17163,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3336
+3328
 </td>
 </tr>
 <tr>
@@ -17177,7 +17174,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3496
+3488
 </td>
 </tr>
 <tr>
@@ -17188,7 +17185,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3468
+3332
 </td>
 </tr>
 <tr>
@@ -17210,7 +17207,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3368
+3488
 </td>
 </tr>
 <tr>
@@ -17221,7 +17218,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3380
+3336
 </td>
 </tr>
 <tr>
@@ -17232,7 +17229,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3340
+3360
 </td>
 </tr>
 <tr>
@@ -17243,7 +17240,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3436
+3324
 </td>
 </tr>
 <tr>
@@ -17254,7 +17251,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3392
+3356
 </td>
 </tr>
 <tr>
@@ -17265,7 +17262,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3328
+3352
 </td>
 </tr>
 <tr>
@@ -17276,7 +17273,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3488
+3376
 </td>
 </tr>
 <tr>
@@ -17287,7 +17284,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3384
+3372
 </td>
 </tr>
 <tr>
@@ -17298,7 +17295,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3268
+3376
 </td>
 </tr>
 <tr>
@@ -17309,7 +17306,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3348
+3428
 </td>
 </tr>
 <tr>
@@ -17320,7 +17317,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3344
+3384
 </td>
 </tr>
 <tr>
@@ -17331,7 +17328,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3372
+3364
 </td>
 </tr>
 <tr>
@@ -17342,7 +17339,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3424
+3344
 </td>
 </tr>
 <tr>
@@ -17353,7 +17350,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3388
+3392
 </td>
 </tr>
 <tr>
@@ -17364,7 +17361,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3492
+3436
 </td>
 </tr>
 <tr>
@@ -17375,7 +17372,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3472
+3432
 </td>
 </tr>
 <tr>
@@ -17394,7 +17391,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3352
+3424
 </td>
 </tr>
 <tr>
@@ -17405,7 +17402,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3340
+3468
 </td>
 </tr>
 <tr>
@@ -17416,7 +17413,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3468
+3424
 </td>
 </tr>
 <tr>
@@ -17427,7 +17424,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3428
+3364
 </td>
 </tr>
 <tr>
@@ -17438,7 +17435,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3488
+3332
 </td>
 </tr>
 <tr>
@@ -17449,7 +17446,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3352
+3428
 </td>
 </tr>
 <tr>
@@ -17460,7 +17457,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3488
+3384
 </td>
 </tr>
 <tr>
@@ -17471,7 +17468,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3332
+3352
 </td>
 </tr>
 <tr>
@@ -17482,7 +17479,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3332
+3340
 </td>
 </tr>
 <tr>
@@ -17493,7 +17490,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3488
+3432
 </td>
 </tr>
 <tr>
@@ -17504,7 +17501,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3340
+3348
 </td>
 </tr>
 <tr>
@@ -17515,7 +17512,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3428
+3488
 </td>
 </tr>
 <tr>
@@ -17526,7 +17523,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3496
+3380
 </td>
 </tr>
 <tr>
@@ -17537,7 +17534,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3312
+3384
 </td>
 </tr>
 <tr>
@@ -17548,7 +17545,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3336
+3388
 </td>
 </tr>
 <tr>
@@ -17559,7 +17556,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3324
+3432
 </td>
 </tr>
 <tr>
@@ -17570,7 +17567,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3420
+3340
 </td>
 </tr>
 <tr>
@@ -17581,7 +17578,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3336
+3432
 </td>
 </tr>
 <tr>
@@ -17592,7 +17589,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3512
+3596
 </td>
 </tr>
 <tr>
@@ -17603,7 +17600,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3432
+3328
 </td>
 </tr>
 <tr>
@@ -17614,7 +17611,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3488
+3316
 </td>
 </tr>
 <tr>
@@ -17625,7 +17622,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3332
+3272
 </td>
 </tr>
 <tr>
@@ -17636,7 +17633,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3380
+3336
 </td>
 </tr>
 <tr>
@@ -18724,7 +18721,7 @@ Out of memory
 0.05
 </td>
 <td rowspan="1" colspan="1" class="correct">
-5300
+5324
 </td>
 </tr>
 <tr>
@@ -18735,7 +18732,7 @@ Out of memory
 0.01
 </td>
 <td rowspan="1" colspan="1" class="correct">
-10184
+10020
 </td>
 </tr>
 <tr>
@@ -18743,10 +18740,10 @@ Out of memory
 [s2012012160](#person-s2012012160)
 </td>
 <td rowspan="1" colspan="1" class="correct">
-0.01
+0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-10144
+10176
 </td>
 </tr>
 <tr>
@@ -18778,10 +18775,10 @@ Out of memory
 [s2013011374](#person-s2013011374)
 </td>
 <td rowspan="1" colspan="1" class="correct">
-0.01
+0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-10220
+10240
 </td>
 </tr>
 <tr>
@@ -18800,7 +18797,7 @@ Out of memory
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-10088
+10100
 </td>
 </tr>
 <tr>
@@ -18811,7 +18808,7 @@ Out of memory
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-10232
+10184
 </td>
 </tr>
 <tr>
@@ -18819,10 +18816,10 @@ Out of memory
 [s2013013287](#person-s2013013287)
 </td>
 <td rowspan="1" colspan="1" class="correct">
-0.01
+0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-10236
+10140
 </td>
 </tr>
 <tr>
@@ -18910,10 +18907,10 @@ Out of memory
 [s2013013301](#person-s2013013301)
 </td>
 <td rowspan="1" colspan="1" class="correct">
-0.01
+0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-10084
+10100
 </td>
 </tr>
 <tr>
@@ -18961,10 +18958,10 @@ Out of memory
 [s2013013310](#person-s2013013310)
 </td>
 <td rowspan="1" colspan="1" class="correct">
-0.01
+0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-10236
+10132
 </td>
 </tr>
 <tr>
@@ -18972,10 +18969,10 @@ Out of memory
 [s2013013311](#person-s2013013311)
 </td>
 <td rowspan="1" colspan="1" class="correct">
-0.91
+0.89
 </td>
 <td rowspan="1" colspan="1" class="correct">
-8052
+8080
 </td>
 </tr>
 <tr>
@@ -18986,7 +18983,7 @@ Out of memory
 0.02
 </td>
 <td rowspan="1" colspan="1" class="correct">
-10176
+10144
 </td>
 </tr>
 <tr>
@@ -19010,10 +19007,10 @@ Out of time
 [s2013013317](#person-s2013013317)
 </td>
 <td rowspan="1" colspan="1" class="correct">
-0.00
+0.01
 </td>
 <td rowspan="1" colspan="1" class="correct">
-10096
+10128
 </td>
 </tr>
 <tr>
@@ -19029,10 +19026,10 @@ Compilation failure
 [s2013013319](#person-s2013013319)
 </td>
 <td rowspan="1" colspan="1" class="correct">
-0.01
+0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-9704
+9644
 </td>
 </tr>
 <tr>
@@ -19040,10 +19037,10 @@ Compilation failure
 [s2013013320](#person-s2013013320)
 </td>
 <td rowspan="1" colspan="1" class="correct">
-0.01
+0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-10088
+10072
 </td>
 </tr>
 <tr>
@@ -19051,10 +19048,10 @@ Compilation failure
 [s2013013321](#person-s2013013321)
 </td>
 <td rowspan="1" colspan="1" class="correct">
-0.00
+0.01
 </td>
 <td rowspan="1" colspan="1" class="correct">
-10136
+10092
 </td>
 </tr>
 <tr>
@@ -19073,7 +19070,7 @@ Out of memory
 0.01
 </td>
 <td rowspan="1" colspan="1" class="correct">
-10024
+10236
 </td>
 </tr>
 <tr>
@@ -19084,7 +19081,7 @@ Out of memory
 0.01
 </td>
 <td rowspan="1" colspan="1" class="correct">
-10176
+10072
 </td>
 </tr>
 <tr>
@@ -19119,7 +19116,7 @@ Out of memory
 0.01
 </td>
 <td rowspan="1" colspan="1" class="correct">
-10024
+10028
 </td>
 </tr>
 <tr>
@@ -19127,10 +19124,10 @@ Out of memory
 [s2013013333](#person-s2013013333)
 </td>
 <td rowspan="1" colspan="1" class="correct">
-0.00
+0.01
 </td>
 <td rowspan="1" colspan="1" class="correct">
-10176
+10228
 </td>
 </tr>
 <tr>
@@ -19138,10 +19135,10 @@ Out of memory
 [s2013013334](#person-s2013013334)
 </td>
 <td rowspan="1" colspan="1" class="correct">
-0.01
+0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-10240
+10020
 </td>
 </tr>
 <tr>
@@ -19157,10 +19154,10 @@ Out of memory
 [s2013013336](#person-s2013013336)
 </td>
 <td rowspan="1" colspan="1" class="correct">
-0.01
+0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-10124
+10092
 </td>
 </tr>
 <tr>
@@ -19243,7 +19240,7 @@ Out of memory
 0.01
 </td>
 <td rowspan="1" colspan="1" class="correct">
-10180
+10104
 </td>
 </tr>
 <tr>
@@ -19300,7 +19297,7 @@ Out of memory
 0.04
 </td>
 <td rowspan="1" colspan="1" class="correct">
-5312
+5320
 </td>
 </tr>
 <tr>
@@ -19311,7 +19308,7 @@ Out of memory
 0.01
 </td>
 <td rowspan="1" colspan="1" class="correct">
-10108
+10020
 </td>
 </tr>
 <tr>
@@ -19319,10 +19316,10 @@ Out of memory
 [s2012012160](#person-s2012012160)
 </td>
 <td rowspan="1" colspan="1" class="correct">
-0.00
+0.01
 </td>
 <td rowspan="1" colspan="1" class="correct">
-10240
+10020
 </td>
 </tr>
 <tr>
@@ -19354,10 +19351,10 @@ Out of memory
 [s2013011374](#person-s2013011374)
 </td>
 <td rowspan="1" colspan="1" class="correct">
-0.00
+0.01
 </td>
 <td rowspan="1" colspan="1" class="correct">
-10220
+9992
 </td>
 </tr>
 <tr>
@@ -19373,10 +19370,10 @@ Out of memory
 [s2013013285](#person-s2013013285)
 </td>
 <td rowspan="1" colspan="1" class="correct">
-0.01
+0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-10092
+10072
 </td>
 </tr>
 <tr>
@@ -19387,7 +19384,7 @@ Out of memory
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-10144
+10128
 </td>
 </tr>
 <tr>
@@ -19398,7 +19395,7 @@ Out of memory
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-10240
+10104
 </td>
 </tr>
 <tr>
@@ -19489,7 +19486,7 @@ Out of memory
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-10088
+10124
 </td>
 </tr>
 <tr>
@@ -19537,10 +19534,10 @@ Out of memory
 [s2013013310](#person-s2013013310)
 </td>
 <td rowspan="1" colspan="1" class="correct">
-0.01
+0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-10140
+10032
 </td>
 </tr>
 <tr>
@@ -19548,10 +19545,10 @@ Out of memory
 [s2013013311](#person-s2013013311)
 </td>
 <td rowspan="1" colspan="1" class="correct">
-0.91
+0.89
 </td>
 <td rowspan="1" colspan="1" class="correct">
-8176
+8120
 </td>
 </tr>
 <tr>
@@ -19562,7 +19559,7 @@ Out of memory
 0.02
 </td>
 <td rowspan="1" colspan="1" class="correct">
-10228
+10112
 </td>
 </tr>
 <tr>
@@ -19589,7 +19586,7 @@ Out of time
 0.01
 </td>
 <td rowspan="1" colspan="1" class="correct">
-10140
+10100
 </td>
 </tr>
 <tr>
@@ -19616,10 +19613,10 @@ Compilation failure
 [s2013013320](#person-s2013013320)
 </td>
 <td rowspan="1" colspan="1" class="correct">
-0.00
+0.01
 </td>
 <td rowspan="1" colspan="1" class="correct">
-10176
+10028
 </td>
 </tr>
 <tr>
@@ -19630,7 +19627,7 @@ Compilation failure
 0.01
 </td>
 <td rowspan="1" colspan="1" class="correct">
-10236
+10084
 </td>
 </tr>
 <tr>
@@ -19646,21 +19643,18 @@ Out of memory
 [s2013013323](#person-s2013013323)
 </td>
 <td rowspan="1" colspan="1" class="correct">
-0.00
+0.01
 </td>
 <td rowspan="1" colspan="1" class="correct">
-10176
+10120
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1" class>
 [s2013013325](#person-s2013013325)
 </td>
-<td rowspan="1" colspan="1" class="correct">
-0.01
-</td>
-<td rowspan="1" colspan="1" class="correct">
-10140
+<td rowspan="1" colspan="2" class="error">
+Out of memory
 </td>
 </tr>
 <tr>
@@ -19692,10 +19686,10 @@ Out of memory
 [s2013013330](#person-s2013013330)
 </td>
 <td rowspan="1" colspan="1" class="correct">
-0.01
+0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-10240
+10100
 </td>
 </tr>
 <tr>
@@ -19703,10 +19697,10 @@ Out of memory
 [s2013013333](#person-s2013013333)
 </td>
 <td rowspan="1" colspan="1" class="correct">
-0.01
+0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-10088
+10232
 </td>
 </tr>
 <tr>
@@ -19714,10 +19708,10 @@ Out of memory
 [s2013013334](#person-s2013013334)
 </td>
 <td rowspan="1" colspan="1" class="correct">
-0.01
+0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-10100
+10240
 </td>
 </tr>
 <tr>
@@ -19733,10 +19727,10 @@ Out of memory
 [s2013013336](#person-s2013013336)
 </td>
 <td rowspan="1" colspan="1" class="correct">
-0.01
+0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-10160
+10176
 </td>
 </tr>
 <tr>
@@ -19816,10 +19810,10 @@ Out of memory
 [s2014013428](#person-s2014013428)
 </td>
 <td rowspan="1" colspan="1" class="correct">
-0.01
+0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-10216
+10232
 </td>
 </tr>
 <tr>
@@ -20893,7 +20887,7 @@ Out of memory
 [s2012011316](#person-s2012011316)
 </td>
 <td rowspan="1" colspan="1" class="correct">
-0.05
+0.04
 </td>
 <td rowspan="1" colspan="1" class="correct">
 5300
@@ -20904,10 +20898,10 @@ Out of memory
 [s2012011690](#person-s2012011690)
 </td>
 <td rowspan="1" colspan="1" class="correct">
-0.01
+0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-10100
+10016
 </td>
 </tr>
 <tr>
@@ -20918,7 +20912,7 @@ Out of memory
 0.01
 </td>
 <td rowspan="1" colspan="1" class="correct">
-10096
+10232
 </td>
 </tr>
 <tr>
@@ -20953,7 +20947,7 @@ Out of memory
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-10228
+10108
 </td>
 </tr>
 <tr>
@@ -20969,10 +20963,10 @@ Out of memory
 [s2013013285](#person-s2013013285)
 </td>
 <td rowspan="1" colspan="1" class="correct">
-0.01
+0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-10104
+10016
 </td>
 </tr>
 <tr>
@@ -20994,7 +20988,7 @@ Out of memory
 0.01
 </td>
 <td rowspan="1" colspan="1" class="correct">
-10196
+10012
 </td>
 </tr>
 <tr>
@@ -21082,10 +21076,10 @@ Out of memory
 [s2013013301](#person-s2013013301)
 </td>
 <td rowspan="1" colspan="1" class="correct">
-0.01
+0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-10120
+10080
 </td>
 </tr>
 <tr>
@@ -21133,10 +21127,10 @@ Out of memory
 [s2013013310](#person-s2013013310)
 </td>
 <td rowspan="1" colspan="1" class="correct">
-0.01
+0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-10228
+10092
 </td>
 </tr>
 <tr>
@@ -21147,7 +21141,7 @@ Out of memory
 0.89
 </td>
 <td rowspan="1" colspan="1" class="correct">
-8048
+8068
 </td>
 </tr>
 <tr>
@@ -21158,7 +21152,7 @@ Out of memory
 0.02
 </td>
 <td rowspan="1" colspan="1" class="correct">
-10072
+10232
 </td>
 </tr>
 <tr>
@@ -21181,8 +21175,11 @@ Out of time
 <td rowspan="1" colspan="1" class>
 [s2013013317](#person-s2013013317)
 </td>
-<td rowspan="1" colspan="2" class="error">
-Out of memory
+<td rowspan="1" colspan="1" class="correct">
+0.01
+</td>
+<td rowspan="1" colspan="1" class="correct">
+10092
 </td>
 </tr>
 <tr>
@@ -21201,7 +21198,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-9696
+9684
 </td>
 </tr>
 <tr>
@@ -21212,7 +21209,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-10092
+10236
 </td>
 </tr>
 <tr>
@@ -21223,7 +21220,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-10240
+10128
 </td>
 </tr>
 <tr>
@@ -21239,21 +21236,18 @@ Out of memory
 [s2013013323](#person-s2013013323)
 </td>
 <td rowspan="1" colspan="1" class="correct">
-0.01
+0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-10112
+10116
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1" class>
 [s2013013325](#person-s2013013325)
 </td>
-<td rowspan="1" colspan="1" class="correct">
-0.01
-</td>
-<td rowspan="1" colspan="1" class="correct">
-10124
+<td rowspan="1" colspan="2" class="error">
+Out of memory
 </td>
 </tr>
 <tr>
@@ -21285,10 +21279,10 @@ Out of memory
 [s2013013330](#person-s2013013330)
 </td>
 <td rowspan="1" colspan="1" class="correct">
-0.01
+0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-10072
+10168
 </td>
 </tr>
 <tr>
@@ -21299,7 +21293,7 @@ Out of memory
 0.01
 </td>
 <td rowspan="1" colspan="1" class="correct">
-10100
+10092
 </td>
 </tr>
 <tr>
@@ -21307,7 +21301,7 @@ Out of memory
 [s2013013334](#person-s2013013334)
 </td>
 <td rowspan="1" colspan="1" class="correct">
-0.00
+0.01
 </td>
 <td rowspan="1" colspan="1" class="correct">
 10180
@@ -21326,10 +21320,10 @@ Out of memory
 [s2013013336](#person-s2013013336)
 </td>
 <td rowspan="1" colspan="1" class="correct">
-0.00
+0.01
 </td>
 <td rowspan="1" colspan="1" class="correct">
-10016
+10228
 </td>
 </tr>
 <tr>
@@ -21412,7 +21406,7 @@ Out of memory
 0.01
 </td>
 <td rowspan="1" colspan="1" class="correct">
-10072
+10068
 </td>
 </tr>
 <tr>
@@ -21445,7 +21439,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-4156
+4084
 </td>
 </tr>
 <tr>
@@ -21464,7 +21458,7 @@ Solution not found
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-4172
+4140
 </td>
 </tr>
 <tr>
@@ -21475,7 +21469,7 @@ Solution not found
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3920
+3912
 </td>
 </tr>
 <tr>
@@ -21486,7 +21480,7 @@ Solution not found
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3580
+3564
 </td>
 </tr>
 <tr>
@@ -21497,7 +21491,7 @@ Solution not found
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3704
+3556
 </td>
 </tr>
 <tr>
@@ -21508,7 +21502,7 @@ Solution not found
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-4436
+4328
 </td>
 </tr>
 <tr>
@@ -21519,7 +21513,7 @@ Solution not found
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3972
+3980
 </td>
 </tr>
 <tr>
@@ -21538,7 +21532,7 @@ Out of memory
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3580
+3732
 </td>
 </tr>
 <tr>
@@ -21549,7 +21543,7 @@ Out of memory
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3876
+3728
 </td>
 </tr>
 <tr>
@@ -21560,7 +21554,7 @@ Out of memory
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3596
+3568
 </td>
 </tr>
 <tr>
@@ -21571,7 +21565,7 @@ Out of memory
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3620
+3660
 </td>
 </tr>
 <tr>
@@ -21582,7 +21576,7 @@ Out of memory
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3568
+3668
 </td>
 </tr>
 <tr>
@@ -21601,7 +21595,7 @@ Out of memory
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3680
+3780
 </td>
 </tr>
 <tr>
@@ -21612,7 +21606,7 @@ Out of memory
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3756
+3716
 </td>
 </tr>
 <tr>
@@ -21623,7 +21617,7 @@ Out of memory
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3652
+3760
 </td>
 </tr>
 <tr>
@@ -21653,7 +21647,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3676
+3780
 </td>
 </tr>
 <tr>
@@ -21672,7 +21666,7 @@ Out of memory
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3604
+3656
 </td>
 </tr>
 <tr>
@@ -21691,7 +21685,7 @@ Out of memory
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3588
+3576
 </td>
 </tr>
 <tr>
@@ -21718,7 +21712,7 @@ Out of memory
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3512
+3568
 </td>
 </tr>
 <tr>
@@ -21729,7 +21723,7 @@ Out of memory
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3892
+3864
 </td>
 </tr>
 <tr>
@@ -21748,7 +21742,7 @@ Out of memory
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3664
+3724
 </td>
 </tr>
 <tr>
@@ -21756,7 +21750,7 @@ Out of memory
 [s2013013311](#person-s2013013311)
 </td>
 <td rowspan="1" colspan="1" class="correct">
-0.01
+0.02
 </td>
 <td rowspan="1" colspan="1" class="correct">
 3936
@@ -21783,10 +21777,10 @@ Out of memory
 [s2013013316](#person-s2013013316)
 </td>
 <td rowspan="1" colspan="1" class="correct">
-0.05
+0.06
 </td>
 <td rowspan="1" colspan="1" class="correct">
-5656
+5548
 </td>
 </tr>
 <tr>
@@ -21797,7 +21791,7 @@ Out of memory
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3724
+3560
 </td>
 </tr>
 <tr>
@@ -21816,7 +21810,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3720
+3576
 </td>
 </tr>
 <tr>
@@ -21827,7 +21821,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3592
+3708
 </td>
 </tr>
 <tr>
@@ -21838,7 +21832,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3700
+3712
 </td>
 </tr>
 <tr>
@@ -21849,7 +21843,7 @@ Compilation failure
 0.01
 </td>
 <td rowspan="1" colspan="1" class="correct">
-4040
+4084
 </td>
 </tr>
 <tr>
@@ -21860,7 +21854,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3620
+3716
 </td>
 </tr>
 <tr>
@@ -21871,7 +21865,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3624
+3668
 </td>
 </tr>
 <tr>
@@ -21898,7 +21892,7 @@ Out of memory
 0.01
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3948
+3880
 </td>
 </tr>
 <tr>
@@ -21909,7 +21903,7 @@ Out of memory
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3512
+3608
 </td>
 </tr>
 <tr>
@@ -21920,7 +21914,7 @@ Out of memory
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3704
+3588
 </td>
 </tr>
 <tr>
@@ -21931,7 +21925,7 @@ Out of memory
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3564
+3704
 </td>
 </tr>
 <tr>
@@ -21950,7 +21944,7 @@ Out of memory
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3568
+3564
 </td>
 </tr>
 <tr>
@@ -21961,7 +21955,7 @@ Out of memory
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3584
+3592
 </td>
 </tr>
 <tr>
@@ -21988,7 +21982,7 @@ Out of memory
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3568
+3700
 </td>
 </tr>
 <tr>
@@ -21999,7 +21993,7 @@ Out of memory
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3788
+3688
 </td>
 </tr>
 <tr>
@@ -22034,7 +22028,7 @@ Out of memory
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3724
+3592
 </td>
 </tr>
 <tr>
@@ -22045,7 +22039,7 @@ Out of memory
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3572
+3584
 </td>
 </tr>
 <tr>
@@ -22070,7 +22064,7 @@ Test\_1
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3348
+3332
 </td>
 </tr>
 <tr>
@@ -22081,7 +22075,7 @@ Test\_1
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3948
+3884
 </td>
 </tr>
 <tr>
@@ -22100,7 +22094,7 @@ Solution not found
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3700
+3672
 </td>
 </tr>
 <tr>
@@ -22111,7 +22105,7 @@ Solution not found
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3468
+3336
 </td>
 </tr>
 <tr>
@@ -22127,10 +22121,10 @@ Compilation failure
 [s2012012160](#person-s2012012160)
 </td>
 <td rowspan="1" colspan="1" class="correct">
-0.08
+0.06
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3880
+3956
 </td>
 </tr>
 <tr>
@@ -22141,7 +22135,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3352
+3280
 </td>
 </tr>
 <tr>
@@ -22152,7 +22146,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3332
+3388
 </td>
 </tr>
 <tr>
@@ -22163,7 +22157,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3856
+3936
 </td>
 </tr>
 <tr>
@@ -22174,7 +22168,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3592
+3636
 </td>
 </tr>
 <tr>
@@ -22185,7 +22179,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3388
+3436
 </td>
 </tr>
 <tr>
@@ -22196,7 +22190,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3552
+3336
 </td>
 </tr>
 <tr>
@@ -22207,7 +22201,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3364
+3432
 </td>
 </tr>
 <tr>
@@ -22226,7 +22220,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3484
+3320
 </td>
 </tr>
 <tr>
@@ -22237,7 +22231,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3640
+3732
 </td>
 </tr>
 <tr>
@@ -22248,7 +22242,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3356
+3312
 </td>
 </tr>
 <tr>
@@ -22259,7 +22253,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3340
+3268
 </td>
 </tr>
 <tr>
@@ -22270,7 +22264,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3332
+3340
 </td>
 </tr>
 <tr>
@@ -22278,10 +22272,10 @@ Compilation failure
 [s2013013294](#person-s2013013294)
 </td>
 <td rowspan="1" colspan="1" class="correct">
-0.11
+0.09
 </td>
 <td rowspan="1" colspan="1" class="correct">
-4076
+4032
 </td>
 </tr>
 <tr>
@@ -22292,7 +22286,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3588
+3648
 </td>
 </tr>
 <tr>
@@ -22303,7 +22297,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3332
+3468
 </td>
 </tr>
 <tr>
@@ -22314,7 +22308,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-4020
+3956
 </td>
 </tr>
 <tr>
@@ -22325,7 +22319,7 @@ Compilation failure
 0.09
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3888
+3884
 </td>
 </tr>
 <tr>
@@ -22333,10 +22327,10 @@ Compilation failure
 [s2013013301](#person-s2013013301)
 </td>
 <td rowspan="1" colspan="1" class="correct">
-0.09
+0.08
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3980
+3868
 </td>
 </tr>
 <tr>
@@ -22355,7 +22349,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3344
+3476
 </td>
 </tr>
 <tr>
@@ -22363,10 +22357,10 @@ Wrong answer
 [s2013013304](#person-s2013013304)
 </td>
 <td rowspan="1" colspan="1" class="correct">
-0.06
+0.07
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3996
+3864
 </td>
 </tr>
 <tr>
@@ -22377,7 +22371,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3856
+3860
 </td>
 </tr>
 <tr>
@@ -22388,7 +22382,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3336
+3384
 </td>
 </tr>
 <tr>
@@ -22399,7 +22393,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3348
+3376
 </td>
 </tr>
 <tr>
@@ -22410,7 +22404,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3348
+3340
 </td>
 </tr>
 <tr>
@@ -22421,7 +22415,7 @@ Wrong answer
 0.10
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3896
+3884
 </td>
 </tr>
 <tr>
@@ -22443,7 +22437,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3272
+3332
 </td>
 </tr>
 <tr>
@@ -22454,7 +22448,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3348
+3336
 </td>
 </tr>
 <tr>
@@ -22473,7 +22467,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3484
+3332
 </td>
 </tr>
 <tr>
@@ -22484,7 +22478,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3328
+3428
 </td>
 </tr>
 <tr>
@@ -22495,7 +22489,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3784
+3796
 </td>
 </tr>
 <tr>
@@ -22506,7 +22500,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3332
+3468
 </td>
 </tr>
 <tr>
@@ -22517,7 +22511,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3352
+3332
 </td>
 </tr>
 <tr>
@@ -22525,10 +22519,10 @@ Compilation failure
 [s2013013325](#person-s2013013325)
 </td>
 <td rowspan="1" colspan="1" class="correct">
-0.08
+0.09
 </td>
 <td rowspan="1" colspan="1" class="correct">
-4280
+4208
 </td>
 </tr>
 <tr>
@@ -22539,7 +22533,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3276
+3424
 </td>
 </tr>
 <tr>
@@ -22550,7 +22544,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3508
+3432
 </td>
 </tr>
 <tr>
@@ -22561,7 +22555,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3340
+3300
 </td>
 </tr>
 <tr>
@@ -22572,7 +22566,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3340
+3336
 </td>
 </tr>
 <tr>
@@ -22583,7 +22577,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3488
+3388
 </td>
 </tr>
 <tr>
@@ -22594,7 +22588,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3488
+3436
 </td>
 </tr>
 <tr>
@@ -22605,7 +22599,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3496
+3468
 </td>
 </tr>
 <tr>
@@ -22616,7 +22610,7 @@ Compilation failure
 0.26
 </td>
 <td rowspan="1" colspan="1" class="correct">
-4016
+3848
 </td>
 </tr>
 <tr>
@@ -22627,7 +22621,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3424
+3472
 </td>
 </tr>
 <tr>
@@ -22638,7 +22632,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3348
+3468
 </td>
 </tr>
 <tr>
@@ -22649,7 +22643,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3372
+3376
 </td>
 </tr>
 <tr>
@@ -22660,7 +22654,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3864
+3848
 </td>
 </tr>
 <tr>
@@ -22671,7 +22665,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3348
+3428
 </td>
 </tr>
 <tr>
@@ -22682,7 +22676,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3324
+3316
 </td>
 </tr>
 <tr>
@@ -22693,7 +22687,7 @@ Compilation failure
 0.02
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3804
+3808
 </td>
 </tr>
 <tr>
@@ -22704,7 +22698,7 @@ Compilation failure
 0.02
 </td>
 <td rowspan="1" colspan="1" class="correct">
-4024
+3872
 </td>
 </tr>
 <tr>
@@ -22715,7 +22709,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3368
+3476
 </td>
 </tr>
 <tr>
@@ -22726,7 +22720,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3588
+3448
 </td>
 </tr>
 <tr>
@@ -22748,10 +22742,10 @@ Test\_2
 [orig](#person-orig)
 </td>
 <td rowspan="1" colspan="1" class="correct">
-0.01
+0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3952
+4032
 </td>
 </tr>
 <tr>
@@ -22762,7 +22756,7 @@ Test\_2
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3668
+3520
 </td>
 </tr>
 <tr>
@@ -22781,7 +22775,7 @@ Solution not found
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3648
+3688
 </td>
 </tr>
 <tr>
@@ -22792,7 +22786,7 @@ Solution not found
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3872
+3860
 </td>
 </tr>
 <tr>
@@ -22811,7 +22805,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3828
+3796
 </td>
 </tr>
 <tr>
@@ -22822,7 +22816,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3896
+3864
 </td>
 </tr>
 <tr>
@@ -22833,7 +22827,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3488
+3348
 </td>
 </tr>
 <tr>
@@ -22844,7 +22838,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3520
+3532
 </td>
 </tr>
 <tr>
@@ -22855,7 +22849,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3648
+3508
 </td>
 </tr>
 <tr>
@@ -22877,7 +22871,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3548
+3556
 </td>
 </tr>
 <tr>
@@ -22888,7 +22882,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3616
+3612
 </td>
 </tr>
 <tr>
@@ -22907,7 +22901,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3876
+3864
 </td>
 </tr>
 <tr>
@@ -22918,7 +22912,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3580
+3644
 </td>
 </tr>
 <tr>
@@ -22929,7 +22923,7 @@ Compilation failure
 0.06
 </td>
 <td rowspan="1" colspan="1" class="correct">
-4040
+3944
 </td>
 </tr>
 <tr>
@@ -22940,7 +22934,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-4364
+4308
 </td>
 </tr>
 <tr>
@@ -22951,7 +22945,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3944
+3792
 </td>
 </tr>
 <tr>
@@ -22962,7 +22956,7 @@ Compilation failure
 0.09
 </td>
 <td rowspan="1" colspan="1" class="correct">
-4008
+4020
 </td>
 </tr>
 <tr>
@@ -22973,7 +22967,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3680
+3732
 </td>
 </tr>
 <tr>
@@ -22984,7 +22978,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3372
+3368
 </td>
 </tr>
 <tr>
@@ -22995,7 +22989,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3632
+3480
 </td>
 </tr>
 <tr>
@@ -23006,7 +23000,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3840
+3836
 </td>
 </tr>
 <tr>
@@ -23017,7 +23011,7 @@ Compilation failure
 0.08
 </td>
 <td rowspan="1" colspan="1" class="correct">
-4032
+3960
 </td>
 </tr>
 <tr>
@@ -23036,7 +23030,7 @@ Out of memory
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3336
+3372
 </td>
 </tr>
 <tr>
@@ -23047,7 +23041,7 @@ Out of memory
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3844
+3872
 </td>
 </tr>
 <tr>
@@ -23058,7 +23052,7 @@ Out of memory
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3512
+3640
 </td>
 </tr>
 <tr>
@@ -23066,10 +23060,10 @@ Out of memory
 [s2013013309](#person-s2013013309)
 </td>
 <td rowspan="1" colspan="1" class="correct">
-0.10
+0.08
 </td>
 <td rowspan="1" colspan="1" class="correct">
-6192
+6384
 </td>
 </tr>
 <tr>
@@ -23080,7 +23074,7 @@ Out of memory
 0.01
 </td>
 <td rowspan="1" colspan="1" class="correct">
-4620
+4532
 </td>
 </tr>
 <tr>
@@ -23091,7 +23085,7 @@ Out of memory
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3884
+3860
 </td>
 </tr>
 <tr>
@@ -23099,10 +23093,10 @@ Out of memory
 [s2013013312](#person-s2013013312)
 </td>
 <td rowspan="1" colspan="1" class="correct">
-0.01
+0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3944
+3948
 </td>
 </tr>
 <tr>
@@ -23113,7 +23107,7 @@ Out of memory
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3560
+3612
 </td>
 </tr>
 <tr>
@@ -23124,7 +23118,7 @@ Out of memory
 0.01
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3880
+3868
 </td>
 </tr>
 <tr>
@@ -23135,7 +23129,7 @@ Out of memory
 0.17
 </td>
 <td rowspan="1" colspan="1" class="correct">
-5452
+5356
 </td>
 </tr>
 <tr>
@@ -23154,7 +23148,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3528
+3516
 </td>
 </tr>
 <tr>
@@ -23165,7 +23159,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-4284
+4312
 </td>
 </tr>
 <tr>
@@ -23176,7 +23170,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3376
+3424
 </td>
 </tr>
 <tr>
@@ -23187,7 +23181,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3876
+3872
 </td>
 </tr>
 <tr>
@@ -23198,7 +23192,7 @@ Compilation failure
 0.02
 </td>
 <td rowspan="1" colspan="1" class="correct">
-5012
+4936
 </td>
 </tr>
 <tr>
@@ -23209,7 +23203,7 @@ Compilation failure
 0.01
 </td>
 <td rowspan="1" colspan="1" class="correct">
-4056
+3912
 </td>
 </tr>
 <tr>
@@ -23220,7 +23214,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-4008
+3796
 </td>
 </tr>
 <tr>
@@ -23231,7 +23225,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3616
+3568
 </td>
 </tr>
 <tr>
@@ -23239,10 +23233,10 @@ Compilation failure
 [s2013013329](#person-s2013013329)
 </td>
 <td rowspan="1" colspan="1" class="correct">
-0.02
+0.03
 </td>
 <td rowspan="1" colspan="1" class="correct">
-4056
+3908
 </td>
 </tr>
 <tr>
@@ -23253,7 +23247,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3992
+3892
 </td>
 </tr>
 <tr>
@@ -23261,10 +23255,10 @@ Compilation failure
 [s2013013333](#person-s2013013333)
 </td>
 <td rowspan="1" colspan="1" class="correct">
-0.05
+0.04
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3908
+3988
 </td>
 </tr>
 <tr>
@@ -23275,7 +23269,7 @@ Compilation failure
 0.05
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3936
+3976
 </td>
 </tr>
 <tr>
@@ -23286,7 +23280,7 @@ Compilation failure
 0.02
 </td>
 <td rowspan="1" colspan="1" class="correct">
-6032
+6060
 </td>
 </tr>
 <tr>
@@ -23297,7 +23291,7 @@ Compilation failure
 0.02
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3956
+3872
 </td>
 </tr>
 <tr>
@@ -23308,7 +23302,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3904
+3996
 </td>
 </tr>
 <tr>
@@ -23319,7 +23313,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3592
+3648
 </td>
 </tr>
 <tr>
@@ -23330,7 +23324,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3500
+3656
 </td>
 </tr>
 <tr>
@@ -23341,7 +23335,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3872
+3936
 </td>
 </tr>
 <tr>
@@ -23352,7 +23346,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3348
+3488
 </td>
 </tr>
 <tr>
@@ -23360,10 +23354,10 @@ Compilation failure
 [s2013013344](#person-s2013013344)
 </td>
 <td rowspan="1" colspan="1" class="correct">
-0.46
+0.48
 </td>
 <td rowspan="1" colspan="1" class="correct">
-6788
+6908
 </td>
 </tr>
 <tr>
@@ -23374,7 +23368,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3872
+3792
 </td>
 </tr>
 <tr>
@@ -23385,7 +23379,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3860
+3876
 </td>
 </tr>
 <tr>
@@ -23396,7 +23390,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3484
+3316
 </td>
 </tr>
 <tr>
@@ -23407,7 +23401,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3416
+3452
 </td>
 </tr>
 <tr>
@@ -23459,7 +23453,7 @@ Solution not found
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3336
+3392
 </td>
 </tr>
 <tr>
@@ -23470,7 +23464,7 @@ Solution not found
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3436
+3480
 </td>
 </tr>
 <tr>
@@ -23489,7 +23483,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3332
+3348
 </td>
 </tr>
 <tr>
@@ -23500,7 +23494,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3392
+3352
 </td>
 </tr>
 <tr>
@@ -23511,7 +23505,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3436
+3380
 </td>
 </tr>
 <tr>
@@ -23530,7 +23524,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3848
+4012
 </td>
 </tr>
 <tr>
@@ -23549,7 +23543,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3340
+3428
 </td>
 </tr>
 <tr>
@@ -23560,7 +23554,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3332
+3348
 </td>
 </tr>
 <tr>
@@ -23579,7 +23573,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3356
+3352
 </td>
 </tr>
 <tr>
@@ -23590,7 +23584,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3496
+3476
 </td>
 </tr>
 <tr>
@@ -23601,7 +23595,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3348
+3332
 </td>
 </tr>
 <tr>
@@ -23612,7 +23606,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3360
+3332
 </td>
 </tr>
 <tr>
@@ -23631,7 +23625,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3444
+3468
 </td>
 </tr>
 <tr>
@@ -23642,7 +23636,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3476
+3392
 </td>
 </tr>
 <tr>
@@ -23664,7 +23658,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3364
+3396
 </td>
 </tr>
 <tr>
@@ -23686,7 +23680,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3344
+3336
 </td>
 </tr>
 <tr>
@@ -23697,7 +23691,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3380
+3432
 </td>
 </tr>
 <tr>
@@ -23708,7 +23702,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3468
+3408
 </td>
 </tr>
 <tr>
@@ -23719,7 +23713,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3496
+3340
 </td>
 </tr>
 <tr>
@@ -23730,7 +23724,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3396
+3340
 </td>
 </tr>
 <tr>
@@ -23741,7 +23735,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3324
+3428
 </td>
 </tr>
 <tr>
@@ -23752,7 +23746,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3404
+3468
 </td>
 </tr>
 <tr>
@@ -23763,7 +23757,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3348
+3480
 </td>
 </tr>
 <tr>
@@ -23774,7 +23768,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3276
+3488
 </td>
 </tr>
 <tr>
@@ -23785,7 +23779,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3376
+3492
 </td>
 </tr>
 <tr>
@@ -23804,7 +23798,7 @@ Wrong answer
 0.02
 </td>
 <td rowspan="1" colspan="1" class="correct">
-5336
+5332
 </td>
 </tr>
 <tr>
@@ -23823,7 +23817,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3352
+3488
 </td>
 </tr>
 <tr>
@@ -23834,7 +23828,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3492
+3436
 </td>
 </tr>
 <tr>
@@ -23853,7 +23847,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3428
+3336
 </td>
 </tr>
 <tr>
@@ -23872,7 +23866,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3900
+4008
 </td>
 </tr>
 <tr>
@@ -23883,7 +23877,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3320
+3316
 </td>
 </tr>
 <tr>
@@ -23894,7 +23888,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3352
+3488
 </td>
 </tr>
 <tr>
@@ -23905,7 +23899,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3492
+3408
 </td>
 </tr>
 <tr>
@@ -23916,7 +23910,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3364
+3344
 </td>
 </tr>
 <tr>
@@ -23927,7 +23921,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3352
+3324
 </td>
 </tr>
 <tr>
@@ -23938,7 +23932,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3364
+3328
 </td>
 </tr>
 <tr>
@@ -23949,7 +23943,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3352
+3548
 </td>
 </tr>
 <tr>
@@ -23968,7 +23962,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3332
+3488
 </td>
 </tr>
 <tr>
@@ -23979,7 +23973,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3344
+3348
 </td>
 </tr>
 <tr>
@@ -23990,7 +23984,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3496
+3352
 </td>
 </tr>
 <tr>
@@ -24001,7 +23995,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3360
+3348
 </td>
 </tr>
 <tr>
@@ -24012,7 +24006,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3304
+3408
 </td>
 </tr>
 <tr>
@@ -24023,7 +24017,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-4004
+3964
 </td>
 </tr>
 <tr>
@@ -24034,7 +24028,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3416
+3456
 </td>
 </tr>
 <tr>
@@ -24045,7 +24039,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3416
+3420
 </td>
 </tr>
 <tr>
@@ -24064,7 +24058,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3336
+3356
 </td>
 </tr>
 <tr>
@@ -24089,7 +24083,7 @@ Test\_4
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3680
+3672
 </td>
 </tr>
 <tr>
@@ -24116,7 +24110,7 @@ Solution not found
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3480
+3420
 </td>
 </tr>
 <tr>
@@ -24127,7 +24121,7 @@ Solution not found
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3420
+3440
 </td>
 </tr>
 <tr>
@@ -24146,7 +24140,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3596
+3648
 </td>
 </tr>
 <tr>
@@ -24157,7 +24151,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3484
+3324
 </td>
 </tr>
 <tr>
@@ -24168,7 +24162,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3916
+3908
 </td>
 </tr>
 <tr>
@@ -24187,7 +24181,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3432
+3628
 </td>
 </tr>
 <tr>
@@ -24198,7 +24192,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3596
+3404
 </td>
 </tr>
 <tr>
@@ -24209,7 +24203,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3376
+3328
 </td>
 </tr>
 <tr>
@@ -24220,7 +24214,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3356
+3436
 </td>
 </tr>
 <tr>
@@ -24239,7 +24233,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3412
+3404
 </td>
 </tr>
 <tr>
@@ -24250,7 +24244,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3420
+3412
 </td>
 </tr>
 <tr>
@@ -24261,7 +24255,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3504
+3580
 </td>
 </tr>
 <tr>
@@ -24272,7 +24266,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3476
+3568
 </td>
 </tr>
 <tr>
@@ -24291,7 +24285,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-4004
+3924
 </td>
 </tr>
 <tr>
@@ -24302,7 +24296,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3504
+3452
 </td>
 </tr>
 <tr>
@@ -24313,7 +24307,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3996
+4112
 </td>
 </tr>
 <tr>
@@ -24324,7 +24318,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3360
+3344
 </td>
 </tr>
 <tr>
@@ -24335,7 +24329,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3564
+3400
 </td>
 </tr>
 <tr>
@@ -24346,7 +24340,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3972
+3944
 </td>
 </tr>
 <tr>
@@ -24357,7 +24351,7 @@ Wrong answer
 0.01
 </td>
 <td rowspan="1" colspan="1" class="correct">
-4080
+4152
 </td>
 </tr>
 <tr>
@@ -24368,7 +24362,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3872
+4092
 </td>
 </tr>
 <tr>
@@ -24379,7 +24373,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3408
+3556
 </td>
 </tr>
 <tr>
@@ -24390,7 +24384,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3492
+3384
 </td>
 </tr>
 <tr>
@@ -24401,7 +24395,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-4040
+4048
 </td>
 </tr>
 <tr>
@@ -24412,7 +24406,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3944
+3788
 </td>
 </tr>
 <tr>
@@ -24423,7 +24417,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3344
+3428
 </td>
 </tr>
 <tr>
@@ -24434,7 +24428,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3424
+3412
 </td>
 </tr>
 <tr>
@@ -24445,7 +24439,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3348
+3356
 </td>
 </tr>
 <tr>
@@ -24464,7 +24458,7 @@ Wrong answer
 0.02
 </td>
 <td rowspan="1" colspan="1" class="correct">
-5336
+5348
 </td>
 </tr>
 <tr>
@@ -24483,7 +24477,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3400
+3348
 </td>
 </tr>
 <tr>
@@ -24513,7 +24507,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3364
+3300
 </td>
 </tr>
 <tr>
@@ -24543,7 +24537,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3500
+3436
 </td>
 </tr>
 <tr>
@@ -24554,7 +24548,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3288
+3360
 </td>
 </tr>
 <tr>
@@ -24565,7 +24559,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3852
+3864
 </td>
 </tr>
 <tr>
@@ -24576,7 +24570,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3420
+3472
 </td>
 </tr>
 <tr>
@@ -24587,7 +24581,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3516
+3504
 </td>
 </tr>
 <tr>
@@ -24598,7 +24592,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3540
+3520
 </td>
 </tr>
 <tr>
@@ -24609,7 +24603,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3992
+4000
 </td>
 </tr>
 <tr>
@@ -24628,7 +24622,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3736
+3732
 </td>
 </tr>
 <tr>
@@ -24639,7 +24633,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3504
+3448
 </td>
 </tr>
 <tr>
@@ -24650,7 +24644,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3352
+3400
 </td>
 </tr>
 <tr>
@@ -24661,7 +24655,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3488
+3340
 </td>
 </tr>
 <tr>
@@ -24672,7 +24666,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-4000
+3984
 </td>
 </tr>
 <tr>
@@ -24694,7 +24688,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3852
+3992
 </td>
 </tr>
 <tr>
@@ -24705,7 +24699,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3856
+3788
 </td>
 </tr>
 <tr>
@@ -24724,7 +24718,7 @@ Wrong answer
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3496
+3372
 </td>
 </tr>
 <tr>
@@ -24749,7 +24743,7 @@ Test\_5
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3968
+3860
 </td>
 </tr>
 <tr>
@@ -24760,7 +24754,7 @@ Test\_5
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3536
+3540
 </td>
 </tr>
 <tr>
@@ -24779,7 +24773,7 @@ Solution not found
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3436
+3328
 </td>
 </tr>
 <tr>
@@ -24790,7 +24784,7 @@ Solution not found
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3868
+3864
 </td>
 </tr>
 <tr>
@@ -24809,7 +24803,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-4004
+3860
 </td>
 </tr>
 <tr>
@@ -24820,7 +24814,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3860
+3796
 </td>
 </tr>
 <tr>
@@ -24831,7 +24825,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3380
+3304
 </td>
 </tr>
 <tr>
@@ -24842,7 +24836,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3628
+3484
 </td>
 </tr>
 <tr>
@@ -24853,7 +24847,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3468
+3380
 </td>
 </tr>
 <tr>
@@ -24864,7 +24858,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3640
+3512
 </td>
 </tr>
 <tr>
@@ -24875,7 +24869,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3424
+3484
 </td>
 </tr>
 <tr>
@@ -24886,7 +24880,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3488
+3280
 </td>
 </tr>
 <tr>
@@ -24905,7 +24899,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3912
+3848
 </td>
 </tr>
 <tr>
@@ -24916,7 +24910,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3804
+3844
 </td>
 </tr>
 <tr>
@@ -24924,10 +24918,10 @@ Compilation failure
 [s2013013290](#person-s2013013290)
 </td>
 <td rowspan="1" colspan="1" class="correct">
-0.07
+0.06
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3972
+3916
 </td>
 </tr>
 <tr>
@@ -24938,7 +24932,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-4076
+4128
 </td>
 </tr>
 <tr>
@@ -24949,7 +24943,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3864
+3856
 </td>
 </tr>
 <tr>
@@ -24960,7 +24954,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3656
+3648
 </td>
 </tr>
 <tr>
@@ -24971,7 +24965,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3884
+3992
 </td>
 </tr>
 <tr>
@@ -24982,7 +24976,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3324
+3356
 </td>
 </tr>
 <tr>
@@ -24993,7 +24987,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3560
+3604
 </td>
 </tr>
 <tr>
@@ -25004,7 +24998,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3864
+3860
 </td>
 </tr>
 <tr>
@@ -25015,7 +25009,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3576
+3652
 </td>
 </tr>
 <tr>
@@ -25034,7 +25028,7 @@ Out of memory
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3364
+3320
 </td>
 </tr>
 <tr>
@@ -25045,7 +25039,7 @@ Out of memory
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3944
+3848
 </td>
 </tr>
 <tr>
@@ -25056,7 +25050,7 @@ Out of memory
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3460
+3532
 </td>
 </tr>
 <tr>
@@ -25067,7 +25061,7 @@ Out of memory
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3488
+3628
 </td>
 </tr>
 <tr>
@@ -25078,7 +25072,7 @@ Out of memory
 0.01
 </td>
 <td rowspan="1" colspan="1" class="correct">
-4300
+4440
 </td>
 </tr>
 <tr>
@@ -25089,7 +25083,7 @@ Out of memory
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-4004
+3884
 </td>
 </tr>
 <tr>
@@ -25100,7 +25094,7 @@ Out of memory
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3860
+3868
 </td>
 </tr>
 <tr>
@@ -25111,7 +25105,7 @@ Out of memory
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3496
+3640
 </td>
 </tr>
 <tr>
@@ -25119,10 +25113,10 @@ Out of memory
 [s2013013316](#person-s2013013316)
 </td>
 <td rowspan="1" colspan="1" class="correct">
-0.01
+0.02
 </td>
 <td rowspan="1" colspan="1" class="correct">
-4024
+4032
 </td>
 </tr>
 <tr>
@@ -25133,7 +25127,7 @@ Out of memory
 0.18
 </td>
 <td rowspan="1" colspan="1" class="correct">
-5320
+5440
 </td>
 </tr>
 <tr>
@@ -25152,7 +25146,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3572
+3552
 </td>
 </tr>
 <tr>
@@ -25163,7 +25157,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-4192
+4200
 </td>
 </tr>
 <tr>
@@ -25174,7 +25168,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3476
+3376
 </td>
 </tr>
 <tr>
@@ -25185,7 +25179,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3948
+3848
 </td>
 </tr>
 <tr>
@@ -25196,7 +25190,7 @@ Compilation failure
 0.02
 </td>
 <td rowspan="1" colspan="1" class="correct">
-5392
+5476
 </td>
 </tr>
 <tr>
@@ -25207,7 +25201,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3952
+3932
 </td>
 </tr>
 <tr>
@@ -25218,7 +25212,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3796
+3892
 </td>
 </tr>
 <tr>
@@ -25229,7 +25223,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3444
+3428
 </td>
 </tr>
 <tr>
@@ -25240,7 +25234,7 @@ Compilation failure
 0.02
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3912
+3804
 </td>
 </tr>
 <tr>
@@ -25251,7 +25245,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3888
+3940
 </td>
 </tr>
 <tr>
@@ -25262,7 +25256,7 @@ Compilation failure
 0.06
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3884
+3828
 </td>
 </tr>
 <tr>
@@ -25270,10 +25264,10 @@ Compilation failure
 [s2013013334](#person-s2013013334)
 </td>
 <td rowspan="1" colspan="1" class="correct">
-0.06
+0.07
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3896
+3868
 </td>
 </tr>
 <tr>
@@ -25281,10 +25275,10 @@ Compilation failure
 [s2013013335](#person-s2013013335)
 </td>
 <td rowspan="1" colspan="1" class="correct">
-0.02
+0.01
 </td>
 <td rowspan="1" colspan="1" class="correct">
-5616
+5812
 </td>
 </tr>
 <tr>
@@ -25295,7 +25289,7 @@ Compilation failure
 0.02
 </td>
 <td rowspan="1" colspan="1" class="correct">
-4000
+3880
 </td>
 </tr>
 <tr>
@@ -25306,7 +25300,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3864
+4012
 </td>
 </tr>
 <tr>
@@ -25317,7 +25311,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3472
+3500
 </td>
 </tr>
 <tr>
@@ -25328,7 +25322,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3492
+3644
 </td>
 </tr>
 <tr>
@@ -25339,7 +25333,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3836
+3844
 </td>
 </tr>
 <tr>
@@ -25350,7 +25344,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3340
+3436
 </td>
 </tr>
 <tr>
@@ -25361,7 +25355,7 @@ Compilation failure
 0.44
 </td>
 <td rowspan="1" colspan="1" class="correct">
-6916
+6876
 </td>
 </tr>
 <tr>
@@ -25372,7 +25366,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3876
+3832
 </td>
 </tr>
 <tr>
@@ -25383,7 +25377,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3880
+3952
 </td>
 </tr>
 <tr>
@@ -25394,7 +25388,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3268
+3272
 </td>
 </tr>
 <tr>
@@ -25405,7 +25399,7 @@ Compilation failure
 0.00
 </td>
 <td rowspan="1" colspan="1" class="correct">
-3488
+3292
 </td>
 </tr>
 </table>
